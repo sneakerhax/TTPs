@@ -8,7 +8,10 @@ A set of links for bug hunting resources
 * [Wappalyzer](https://wappalyzer.com/) (Identifies software on the web – Browser plugin) – Elbert Alias
 * [Builtwith](http://builtwith.com/) (Find out what websites are built with – Browser plugin) – Builtwith
 * [Punkspider](https://www.punkspider.org/) (A global web application vulnerability search engine – Browser plugin) – Hyperion Grey
-* [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) (A full featured Web Reconnissance Framework
+* [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) (A full featured Web Reconnissance Framework) - Lanmaster53
+* [Sublist3r](https://github.com/aboul3la/Sublist3r) (Fast subdomains enumeration tool for penetration testers) - aboul3la
+* [Gobuster](https://github.com/OJ/gobuster) (Directory/file & DNS busting tool written in Go) - OJ
+* [Fierce](http://tools.kali.org/information-gathering/fierce) (DNS brute forcer) - RSnake
 
 ### SQLi
 * [SQL Injection cheatsheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/) – Netsparker
