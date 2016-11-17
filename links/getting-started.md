@@ -116,7 +116,8 @@ A set of links that can be used for getting started
 ### Labs(for hands on experience)
 
 * [Vulnhub](https://www.vulnhub.com/) - Vulnhub team
-* [Metasploitable 2](https://community.rapid7.com/docs/DOC-1875)  - Metasploit
+* [Metasploitable 2](https://community.rapid7.com/docs/DOC-1875) - Metasploit
+* [Metasploitable 3](https://github.com/rapid7/metasploitable3/) - Metasploit
 * [Windows Browser Testing](http://dev.modern.ie/tools/vms/windows/) - Microsoft
 * [Pentesterlabs](https://pentesterlab.com/) - Pentesterlabs team
 * [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10) - Irongeek
