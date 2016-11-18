@@ -12,6 +12,8 @@ A set of links for bug hunting resources
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) (Fast subdomains enumeration tool for penetration testers) - aboul3la
 * [Gobuster](https://github.com/OJ/gobuster) (Directory/file & DNS busting tool written in Go) - OJ
 * [Fierce](http://tools.kali.org/information-gathering/fierce) (DNS brute forcer) - RSnake
+* [Altdns](https://github.com/infosec-au/altdns) (DNS brute force permutation generator) - Infosec-au
+* [Domain](https://github.com/jhaddix/domain) (alt-dns & recon-ng automation script) - Jason Haddix
 
 ### SQLi
 * [SQL Injection cheatsheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/) – Netsparker
