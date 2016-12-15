@@ -58,6 +58,7 @@ A set of links that can be used for getting started
 * [Metasploit Local Exploit Suggester: Do Less, Get More!](https://community.rapid7.com/community/metasploit/blog/2015/08/11/metasploit-local-exploit-suggester-do-less-get-more) - Rapid7
 * [My 5 Top Ways to Escalate Privileges](https://www.trustwave.com/Resources/SpiderLabs-Blog/My-5-Top-Ways-to-Escalate-Privileges/) - SpiderLabs
 * [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - g0tmi1k
+* [Linux privilege escalation for fun profit and all around mischief](https://www.youtube.com/watch?v=dk2wsyFiosg) - Jake Willi
 * [Encyclopedia Of Windows Privilege Escalation](https://www.youtube.com/watch?v=kMG8IsCohHA) - Brett Moore
 * [Windows Attacks AT is the new black](https://www.youtube.com/watch?v=_8xJaaQlpBo) - Mubix (Rob Fuller) & Carnalownage (Chris Gates)
 * [Windows Privilege Escalation Fundamentals](http://fuzzysecurity.com/tutorials/16.html) - Fuzzysecurity
