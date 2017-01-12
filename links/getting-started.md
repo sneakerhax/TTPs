@@ -59,9 +59,11 @@ A set of links that can be used for getting started
 * [My 5 Top Ways to Escalate Privileges](https://www.trustwave.com/Resources/SpiderLabs-Blog/My-5-Top-Ways-to-Escalate-Privileges/) - SpiderLabs
 * [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - g0tmi1k
 * [Linux privilege escalation for fun profit and all around mischief](https://www.youtube.com/watch?v=dk2wsyFiosg) - Jake Willi
+* [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623) - Rebootuser
 * [Encyclopedia Of Windows Privilege Escalation](https://www.youtube.com/watch?v=kMG8IsCohHA) - Brett Moore
 * [Windows Attacks AT is the new black](https://www.youtube.com/watch?v=_8xJaaQlpBo) - Mubix (Rob Fuller) & Carnalownage (Chris Gates)
 * [Windows Privilege Escalation Fundamentals](http://fuzzysecurity.com/tutorials/16.html) - Fuzzysecurity
+* [ATT&CK Privilege Escalation](https://attack.mitre.org/wiki/Privilege_Escalation) - Mitre
 
 ### Post Exploitation
 
@@ -77,6 +79,7 @@ A set of links that can be used for getting started
 ### Penetration Testing Frameworks
 
 * [Penetration Testing Execution Standard](http://www.pentest-standard.org/index.php/Main_Page) - All contributors listed on site in FAQ
+* [ATT&CK](https://attack.mitre.org/wiki/Main_Page) - Mitre
 
 ### Penetration Testing Reporting
 
