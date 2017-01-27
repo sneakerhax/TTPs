@@ -41,7 +41,6 @@ A set of links that can be used for getting started
 ### Offensive Python
 
 * [Python Tutorials](http://www.primalsecurity.net/tutorials/python-tutorials/) - Primal Security
-* [Constricting the Web: Offensive Python for Web Hackers](https://www.youtube.com/watch?v=s9zfgP02MTc) - Nathan Hemiel & Marcin Wielgoszewski
 * [Jumping into offensive Python](http://sneakerhax.com/jumping-into-offensive-python/) - Sneakerhax
 
 
