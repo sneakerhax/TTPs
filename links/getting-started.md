@@ -98,7 +98,7 @@ A set of links that can be used for getting started
 
 ### Bug Hunting
 
-* [Bugcrowd Researcher Resources](Bugcrowd Researcher Resources) - Bugcrowd
+* [Bugcrowd Researcher Resources](https://forum.bugcrowd.com/t/researcher-resources-getting-started/115) - Bugcrowd
 * [How to Shot Web - Web and mobile hacking in 2015](https://www.youtube.com/watch?v=-FAjxUOKbdI) - Jason Haddix
 * [The Bug Hunters Methodology](https://github.com/jhaddix/tbhm) - Jason Haddix
 
