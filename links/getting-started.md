@@ -112,6 +112,10 @@ A set of links that can be used for getting started
 * [Jumping into exploit development](http://sneakerhax.com/jumping-into-exploit-development/) - Sneakerhax
 * [Moving past Metasploit - Writing your first exploit](https://www.youtube.com/watch?v=-ZRZMIsD9YE) - Calvin Hedler
 
+### Fuzzing
+
+* [Fuzzing workflows; a fuzz job from start to finish](https://foxglovesecurity.com/2016/03/15/fuzzing-workflows-a-fuzz-job-from-start-to-finish/) - Brandon Perry
+
 ### Reverse Engineering
 
 * [Reverse Engineering for Beginners](http://beginners.re/) - Dennis Yurichev
