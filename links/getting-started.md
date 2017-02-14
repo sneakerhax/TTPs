@@ -132,7 +132,7 @@ A set of links that can be used for getting started
 * [Public Firing Range](https://public-firing-range.appspot.com/) - Google
 * [How to exploit binary](https://github.com/bert88sta/how2exploit_binary) - bert88sta
 
-## Breaking into Infosec
+### Breaking into Infosec
 
 * [How to become a pentester](https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/) - Corelan
 * [Starting an infosec career the megamix chapters 1-3](http://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/) - Leslie Carhart
