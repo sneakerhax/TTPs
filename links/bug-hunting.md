@@ -5,10 +5,25 @@ A set of links for bug hunting resources
 * [The Bug Hunters Methodology](https://github.com/jhaddix/tbhm) – Jason Haddix
 
 ### Recon
-* [Wappalyzer](https://wappalyzer.com/) (Identifies software on the web – Browser plugin) – Elbert Alias
-* [Builtwith](http://builtwith.com/) (Find out what websites are built with – Browser plugin) – Builtwith
-* [Punkspider](https://www.punkspider.org/) (A global web application vulnerability search engine – Browser plugin) – Hyperion Grey
 * [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) (A full featured Web Reconnissance Framework) - Lanmaster53
+
+#### Chrome plugins
+* [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)
+* [Builtwith](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en)
+* [Punkspider](https://chrome.google.com/webstore/detail/punkspider/ejdnmggbihgcgkgppokffmcfkhkdnlop?hl=en)
+* [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
+
+#### Firefox plugins
+* [Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
+* [Builtwith](https://addons.mozilla.org/En-us/firefox/addon/builtwith/)
+* [Punkspider](https://addons.mozilla.org/en-US/firefox/addon/punkspider/)
+* [Firebug](https://addons.mozilla.org/en-US/firefox/addon/firebug/)
+* [Foxy Proxy](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)
+* [Live HTTP header](https://addons.mozilla.org/en-US/firefox/addon/live-http-headers/)
+* [Tamper data](https://addons.mozilla.org/en-US/firefox/addon/tamper-data/)
+* [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbar/)
+
+#### DNS brute forcer
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) (Fast subdomains enumeration tool for penetration testers) - aboul3la
 * [Gobuster](https://github.com/OJ/gobuster) (Directory/file & DNS busting tool written in Go) - OJ
 * [Fierce](http://tools.kali.org/information-gathering/fierce) (DNS brute forcer) - RSnake
