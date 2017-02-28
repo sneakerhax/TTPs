@@ -21,7 +21,15 @@ prints hex dump of file with string data
 
 ```xxd -l 4 <filename>```
 
-print magic bytes - List of file signatures([magic bytes](https://en.wikipedia.org/wiki/List_of_file_signatures)) -
+print magic bytes - List of file signatures([magic bytes](https://en.wikipedia.org/wiki/List_of_file_signatures))
+
+```echo -n "A" | xxd```
+
+Convert ASCII character to hex(-n required to avoid newline)
+
+```echo -n "41" | xxd -r -p```
+
+Convert hex to ASCII
 
 ```gobjdump -f <filename>```
 
