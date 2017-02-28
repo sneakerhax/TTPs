@@ -67,7 +67,7 @@ Layout:
 
 Useful commands:
 
-```File --> Open --> (Provide arguments into *Arguments* field eg. AAAAAA)```
+```File --> Open --> (Provide arguments into Arguments field eg. AAAAAA)```
 
 Load program with arguments
 
