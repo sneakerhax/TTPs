@@ -106,11 +106,11 @@ c - cpu view
 
 Useful commands:
 
-```right click and choose hex —>> hex/ascii (16 bytes)```
+```right click and choose hex -->> hex/ascii (16 bytes)```
 
 Change to hex 16 bytes view(Hover over memory dump)
 
-```Start program then go to Attach —>> choose running process```
+```Start program then go to Attach -->> choose running process```
 
 Attach to running process
 
