@@ -45,6 +45,7 @@ A set of links for bug hunting resources
 * [Altdns](https://github.com/infosec-au/altdns) (DNS brute force permutation generator) - Infosec-au
 * [Domain](https://github.com/jhaddix/domain) (alt-dns & recon-ng automation script) - Jason Haddix
 * [Subbrute](https://github.com/TheRook/subbrute) - TheRook
+* [Knock](https://github.com/guelfoweb/knock) - guelfoweb
 
 ### SQLi
 * [SQL Injection cheatsheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/) – Netsparker
