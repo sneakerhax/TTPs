@@ -3,9 +3,18 @@ A set of links for bug hunting resources
 
 ### General
 * [The Bug Hunters Methodology](https://github.com/jhaddix/tbhm) – Jason Haddix
+* [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference) - ngalongc
 
 ### Recon
 * [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) (A full featured Web Reconnissance Framework) - Lanmaster53
+* [Scan.io](https://scans.io) - Rapid7
+  * [Sonar Reverse DNS](https://scans.io/study/sonar.rdns_v2)
+  * [Sonar Forward DNS](https://scans.io/study/sonar.fdns_v2)
+  * [Sonar SSL data](https://scans.io/study/sonar.ssl)
+  
+### Github Searching
+* [Gitrob](https://github.com/awhitehatter/gitrob-docker)
+* [TruffleHog](https://github.com/dxa4481/truffleHog)
 
 #### Chrome plugins
 * [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)
@@ -29,6 +38,7 @@ A set of links for bug hunting resources
 * [Fierce](http://tools.kali.org/information-gathering/fierce) (DNS brute forcer) - RSnake
 * [Altdns](https://github.com/infosec-au/altdns) (DNS brute force permutation generator) - Infosec-au
 * [Domain](https://github.com/jhaddix/domain) (alt-dns & recon-ng automation script) - Jason Haddix
+* [Subbrute](https://github.com/TheRook/subbrute) - TheRook
 
 ### SQLi
 * [SQL Injection cheatsheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/) – Netsparker
