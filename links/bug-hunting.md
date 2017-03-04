@@ -4,6 +4,7 @@ A set of links for bug hunting resources
 ### General
 * [The Bug Hunters Methodology](https://github.com/jhaddix/tbhm) – Jason Haddix
 * [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference) - ngalongc
+* [Web Hacking 101](https://leanpub.com/web-hacking-101) - Peter Yaworski
 
 ### Recon
 * [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) (A full featured Web Reconnissance Framework) - Lanmaster53
@@ -13,8 +14,13 @@ A set of links for bug hunting resources
   * [Sonar SSL data](https://scans.io/study/sonar.ssl)
   
 ### Github Searching
-* [Gitrob](https://github.com/awhitehatter/gitrob-docker)
-* [TruffleHog](https://github.com/dxa4481/truffleHog)
+* [Gitrob](https://github.com/michenriksen/gitrob) - michenriksen
+* [Gitrob Docker](https://github.com/awhitehatter/gitrob-docker) - awhitehatter
+* [TruffleHog](https://github.com/dxa4481/truffleHog) - dxa4481
+
+### Docker
+
+* [Docker Pentest List](https://github.com/awhitehatter/docker-pentest-lists) - awhitehatter
 
 #### Chrome plugins
 * [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)
