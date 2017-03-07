@@ -92,7 +92,7 @@ zgrep -a -F \.twilio.com *
 
 ### AWS
 
-In Burpe keep ```.*amazon*.```
+In Burpe keep ```.*amazon*.``` in scope
 
 aws s3 ls s3://<repo-name> (check s3 list permissions)
 
