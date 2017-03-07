@@ -45,7 +45,9 @@ Bug hunting runbook
 
 Examples:
 
-python /home/justin/local-tools/subbrute/subbrute.py -s /home/justin/local-tools/SecLists/Fuzzing/bitquark_subdomains_top100K.txt --type=A -P twilio.com
+```
+python subbrute.py -s bitquark_subdomains_top100K.txt --type=A -P twilio.com
+```
 
 - Run Nmap scan on target(including subdomains) if this is in scope
 	- Run nmap scan all ports
@@ -54,8 +56,16 @@ python /home/justin/local-tools/subbrute/subbrute.py -s /home/justin/local-tools
 ### Google Dorking
 
 Google Dorking Examples:
-* site:*.site inurl:”<id>” filetype:html
+
+```
+site:site.com 
+```
+
+Search for specific site
+
+
 * See more examples [here](http://www.googleguide.com/advanced_operators_reference.html)
+* Also the Google Hacking Database can be found [here](https://www.exploit-db.com/google-hacking-database/)
 	
 
 ### Probing app
