@@ -35,7 +35,7 @@ Bug hunting runbook
 
 
 
-### Network recon
+### Recon
 
 * Run sub-domain brute force if this is in scope to discover sudomains
 	* sublister
