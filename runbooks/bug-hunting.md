@@ -50,7 +50,7 @@ python subbrute.py -s bitquark_subdomains_top100K.txt --type=A -P twilio.com
 ```
 
 - Run Nmap scan on target(including subdomains) if this is in scope
-	- Run nmap scan all ports
+	- Run nmap scan all ports(optional)
 
 
 ### Google Dorking
