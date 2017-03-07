@@ -37,6 +37,7 @@ A set of links for bug hunting resources
 * [Live HTTP header](https://addons.mozilla.org/en-US/firefox/addon/live-http-headers/)
 * [Tamper data](https://addons.mozilla.org/en-US/firefox/addon/tamper-data/)
 * [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbar/)
+* [Cookie Manager +](https://addons.mozilla.org/en-US/firefox/addon/cookies-manager-plus/)
 
 #### DNS brute forcer
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) (Fast subdomains enumeration tool for penetration testers) - aboul3la
