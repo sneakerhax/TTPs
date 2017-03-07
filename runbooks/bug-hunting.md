@@ -104,8 +104,20 @@ zgrep -a -F \.twilio.com *
 
 In Burpe keep ```.*amazon*.``` in scope
 
-aws s3 ls s3://<repo-name> (check s3 list permissions)
+```
+aws s3 ls s3://<repo-name>
+``` 
 
-aws s3 sync s3://repo (get files locally for searching)
+Check s3 list permissions
 
-aws s3 mv test.txt s3://bucket/ (check write permissions)
+```
+aws s3 sync s3://repo
+```
+
+Get files locally for searching
+
+```
+aws s3 mv test.txt s3://bucket/
+```
+
+Check write permissions
