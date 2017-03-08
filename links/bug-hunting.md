@@ -22,6 +22,9 @@ A set of links for bug hunting resources
 
 * [Docker Pentest List](https://github.com/awhitehatter/docker-pentest-lists) - awhitehatter
 
+#### Burp Suite Plugins
+* [BurpSmartBuster](https://github.com/pathetiq/BurpSmartBuster) - pathetiq
+
 #### Chrome plugins
 * [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)
 * [Builtwith](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en)
