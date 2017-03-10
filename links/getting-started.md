@@ -102,6 +102,17 @@ A set of links that can be used for getting started
 * [How to Shot Web - Web and mobile hacking in 2015](https://www.youtube.com/watch?v=-FAjxUOKbdI) - Jason Haddix
 * [The Bug Hunters Methodology](https://github.com/jhaddix/tbhm) - Jason Haddix
 
+### Mobile
+* [Intro to Mobile Application Security](http://www.rockfishsec.com/2014/02/intro-to-mobile-application-security.html) - rockfish
+* [Mobile Security Wiki](https://mobilesecuritywiki.com/) - Listed contributors
+* [How to Assess and Secure iOS Apps](https://www.slideshare.net/NCC_Group/2013-0912ncc-group44conworkshophowtoassessandsecureiosapps) - NCC Group
+* [iOS App Security Assessment Tool](http://www.idbtool.com/) - idb
+* [Damn Vulnerable iOS App](http://damnvulnerableiosapp.com/)
+* [Configuring an Android Device to Work with Burp](https://support.portswigger.net/customer/portal/articles/1841101-configuring-an-android-device-to-work-with-burp) - Burp Suite
+* [Android Application Security](https://manifestsecurity.com/android-application-security/) - Aditya Agrawal
+* [ExploitMe Mobile Android Labs](http://securitycompass.github.io/AndroidLabs/index.html) - Security Compass
+
+
 ### Exploit Development
 
 * [Exploit Writing Tutorials](https://www.corelan.be/index.php/articles/) - Corelan Team
