@@ -60,7 +60,7 @@ A set of links for bug hunting resources
 
 ### XSS
 * [XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet) – Owasp
-* [All XSS BruteLogic articles](https://gist.github.com/tfairane/f9b372ff9aeff61758e3eb71e7cbeba6)
+* [XSS All BruteLogic articles](https://gist.github.com/tfairane/f9b372ff9aeff61758e3eb71e7cbeba6)
 
 ### LFI
 * [liffy](https://github.com/hvqzao/liffy) (Local file inclusion exploitation tool) – hvqzao
