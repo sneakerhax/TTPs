@@ -25,6 +25,7 @@ A set of links for bug hunting resources
 
 #### Burp Suite Plugins
 * [BurpSmartBuster](https://github.com/pathetiq/BurpSmartBuster) - pathetiq
+* [AuthMatrix](https://github.com/SecurityInnovation/AuthMatrix) - SecurityInnovation
 
 #### Chrome plugins
 * [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)
