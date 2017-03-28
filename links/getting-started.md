@@ -130,7 +130,8 @@ A set of links that can be used for getting started
 ### Reverse Engineering
 
 * [Reverse Engineering for Beginners](http://beginners.re/) - Dennis Yurichev
-* [Intro to software RE](https://www.youtube.com/watch?v=byK0tXH5axQ) - Opensecurity training
+* [Intro to Software RE](https://www.youtube.com/watch?v=byK0tXH5axQ) - Opensecurity training
+* [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/) - Malware Unicorn
 
 ### Labs(for hands on experience)
 
