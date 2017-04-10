@@ -74,6 +74,7 @@ A set of links that can be used for getting started
 * [Abusing Active Directory in Post Exploitation](https://www.youtube.com/watch?v=sTU-70dD-Ok) - Carlos Perez
 * [Pillage the Village Redux](https://www.youtube.com/watch?v=n2nptntIsn4) - John Strand and Ed Skoudis
 * [Operating in the Shadows](https://www.youtube.com/watch?v=NXTr4bomAxk) - Carlos Perez
+* [Living Off the Land a Minimalists Guide to Windows Post Exploitation](https://www.youtube.com/watch?v=j-r6UonEkUw) - Chris Campbell & Matt Graeber
 
 ### Penetration Testing Frameworks
 
