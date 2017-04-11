@@ -59,7 +59,6 @@ Layout:
         <td align="center">Registers</td>
     </tr>
     <tr>
-
         <td align="center">Memory Dump</td>
         <td align="center">Stack Memory</td>
     </tr>
@@ -81,7 +80,6 @@ Layout:
         <td align="center">Registers</td>
     </tr>
     <tr>
-
         <td align="center">Memory Dump</td>
         <td align="center">Stack Memory</td>
     </tr>
