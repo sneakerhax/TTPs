@@ -46,7 +46,7 @@ Bug hunting runbook
 Examples:
 
 ```
-python subbrute.py -s bitquark_subdomains_top100K.txt --type=A -P twilio.com
+python subbrute.py -s bitquark_subdomains_top100K.txt --type=A -P site.com
 ```
 
 - Run Nmap scan on target(including subdomains) if this is in scope
@@ -101,7 +101,7 @@ Search for specific site
 Sonar(data can be found [here](https://scans.io/))
 
 ```
-zgrep -a -F \.twilio.com *
+zgrep -a -F \.site.com *
 ```
 Searching sonar data
 
