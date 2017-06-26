@@ -155,3 +155,4 @@ A set of links that can be used for getting started
 * [Cyber 101 Upstarting your career in a leading industry](https://www.youtube.com/watch?v=T-moFXjFfAY) - Johnny Deutsch
 * [Hack The Hustle](https://www.youtube.com/watch?v=RaPwQVhaOp8) - Eve Adams
 * [So you want to be a pentester?](https://www.youtube.com/watch?v=2zC3XHOTGrA) - Calvin Hedler
+* [Infosec Isn't a Job, It's a Lifestyle](https://www.cylance.com/en_us/blog/infosec-isnt-a-job-its-a-lifestyle.html) - Greg Linares
