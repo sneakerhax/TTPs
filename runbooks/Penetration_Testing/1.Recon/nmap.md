@@ -23,3 +23,9 @@ Enumerate smb with NSE Scripts
 ```OSX:  nse(){ find /usr/local/share/nmap/scripts/ -iname *$1* | cut -c32- | cut -d'.' -f1;}```
 
 ```Linux: nse(){ find /usr/share/nmap/scripts/ -iname *$1* -printf '%P\n';}``` - hecky
+
+Setup custom functions for searching nse scripts
+
+```nse search```
+
+Example usage of custom nse function
