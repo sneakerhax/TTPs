@@ -1,1 +1,1 @@
-# Getting started with bug hunting
+# Getting Started
