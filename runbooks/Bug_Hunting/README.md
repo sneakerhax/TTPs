@@ -71,5 +71,5 @@ A set of links for bug hunting resources
 ### Wordlists/Fuzzing
 * [Seclists](https://github.com/danielmiessler/SecLists) – Daniel Miessler & Jason Haddix
 * [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) – FuzzDB-Project
-* https://github.com/xmendez/wfuzz/tree/master/wordlist - Wfuzz
+* [Wfuzz](https://github.com/xmendez/wfuzz/tree/master/wordlist) - Wfuzz
 * [Paypal Test Credit Card Numbers](https://www.paypalobjects.com/en_US/vhelp/paypalmanager_help/credit_card_numbers.htm) - Paypal
