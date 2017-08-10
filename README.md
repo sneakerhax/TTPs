@@ -1,2 +1,2 @@
-# Resources
-Resources for different topics
+# Runbooks
+Runbooks for different topics
