@@ -75,7 +75,7 @@ A set of links for bug hunting resources
 ### Burp
 * [Burp Co2](http://burpco2.com/) (Burp Suite Extenstion) – Secure Ideas
 * [Hunt](https://github.com/bugcrowd/HUNT) - Bugcrowd
-* [Vulner](https://github.com/vulnersCom/burp-vulners-scanner) - Vulners
+* [Vulners](https://github.com/vulnersCom/burp-vulners-scanner) - Vulners
 
 ### Wordlists/Fuzzing
 * [Seclists](https://github.com/danielmiessler/SecLists) – Daniel Miessler & Jason Haddix
