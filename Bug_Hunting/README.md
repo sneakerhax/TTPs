@@ -35,6 +35,7 @@ A set of links for bug hunting resources
 * [Builtwith](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en)
 * [Punkspider](https://chrome.google.com/webstore/detail/punkspider/ejdnmggbihgcgkgppokffmcfkhkdnlop?hl=en)
 * [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
+* [Shodan](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap?hl=en-US)
 
 #### Firefox plugins
 * [Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
@@ -46,6 +47,7 @@ A set of links for bug hunting resources
 * [Tamper data](https://addons.mozilla.org/en-US/firefox/addon/tamper-data/)
 * [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbar/)
 * [Cookie Manager +](https://addons.mozilla.org/en-US/firefox/addon/cookies-manager-plus/)
+* [Shodan](https://addons.mozilla.org/en-US/firefox/addon/shodan-firefox-addon/)
 
 #### DNS brute forcer
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) (Fast subdomains enumeration tool for penetration testers) - aboul3la
@@ -72,6 +74,7 @@ A set of links for bug hunting resources
 
 ### Burp
 * [Burp Co2](http://burpco2.com/) (Burp Suite Extenstion) – Secure Ideas
+* [Hunt](https://github.com/bugcrowd/HUNT) - Bugcrowd
 
 ### Wordlists/Fuzzing
 * [Seclists](https://github.com/danielmiessler/SecLists) – Daniel Miessler & Jason Haddix
