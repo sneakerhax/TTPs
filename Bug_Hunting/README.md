@@ -13,6 +13,8 @@ A set of links for bug hunting resources
   * [Sonar Reverse DNS](https://scans.io/study/sonar.rdns_v2)
   * [Sonar Forward DNS](https://scans.io/study/sonar.fdns_v2)
   * [Sonar SSL data](https://scans.io/study/sonar.ssl)
+ * [Masscan](https://github.com/robertdavidgraham/masscan) - Robert Graham
+ * [Nmap NSE Scripts](https://nmap.org/nsedoc/) - Nmap Project
   
 ### Github Searching
 * [Gitrob](https://github.com/michenriksen/gitrob) - michenriksen
@@ -53,6 +55,7 @@ A set of links for bug hunting resources
 * [Domain](https://github.com/jhaddix/domain) (alt-dns & recon-ng automation script) - Jason Haddix
 * [Subbrute](https://github.com/TheRook/subbrute) - TheRook
 * [Knock](https://github.com/guelfoweb/knock) - guelfoweb
+* [Massdns](https://github.com/blechschmidt/massdns) - blechschmidt
 
 ### SQLi
 * [SQL Injection cheatsheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/) – Netsparker
