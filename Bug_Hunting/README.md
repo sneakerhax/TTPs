@@ -15,6 +15,7 @@ A set of links for bug hunting resources
   * [Sonar SSL data](https://scans.io/study/sonar.ssl)
  * [Masscan](https://github.com/robertdavidgraham/masscan) - Robert Graham
  * [Nmap NSE Scripts](https://nmap.org/nsedoc/) - Nmap Project
+ * [Eyewitness](https://github.com/ChrisTruncer/EyeWitness) - Chris Truncer
   
 ### Github Searching
 * [Gitrob](https://github.com/michenriksen/gitrob) - michenriksen
