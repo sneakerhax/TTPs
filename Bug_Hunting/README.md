@@ -58,7 +58,7 @@ A set of links for bug hunting resources
 * [Docker Pentest List](https://github.com/awhitehatter/docker-pentest-lists) - awhitehatter
 * [BruteSubs](https://github.com/anshumanbh/brutesubs) - anshumanbh
 
-#### Burp Suite Plugins
+### Burp Suite Plugins
 * [Burp Co2](http://burpco2.com/) (Burp Suite Extenstion) – Secure Ideas
 * [Hunt](https://github.com/bugcrowd/HUNT) - Bugcrowd
 * [Carbonator](https://portswigger.net/bappstore/bapps/details/e3a26fff8e1d401dade52f3a8d42d06b) - Integris Security
@@ -66,14 +66,14 @@ A set of links for bug hunting resources
 * [BurpSmartBuster](https://github.com/pathetiq/BurpSmartBuster) - pathetiq
 * [AuthMatrix](https://github.com/SecurityInnovation/AuthMatrix) - SecurityInnovation
 
-#### Chrome plugins
+### Chrome plugins
 * [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)
 * [Builtwith](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en)
 * [Punkspider](https://chrome.google.com/webstore/detail/punkspider/ejdnmggbihgcgkgppokffmcfkhkdnlop?hl=en)
 * [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
 * [Shodan](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap?hl=en-US)
 
-#### Firefox plugins
+### Firefox plugins
 * [Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
 * [Builtwith](https://addons.mozilla.org/En-us/firefox/addon/builtwith/)
 * [Punkspider](https://addons.mozilla.org/en-US/firefox/addon/punkspider/)
