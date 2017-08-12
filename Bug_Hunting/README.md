@@ -56,7 +56,7 @@ A set of links for bug hunting resources
 ### Docker
 
 * [Docker Pentest List](https://github.com/awhitehatter/docker-pentest-lists) - awhitehatter
-* [https://github.com/anshumanbh/brutesubs] - anshumanbh
+* [BruteSubs](https://github.com/anshumanbh/brutesubs) - anshumanbh
 
 #### Burp Suite Plugins
 * [Burp Co2](http://burpco2.com/) (Burp Suite Extenstion) – Secure Ideas
