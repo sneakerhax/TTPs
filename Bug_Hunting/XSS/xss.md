@@ -10,4 +10,4 @@ On mouse over that covers page by @landaire
 
 ```<script>eval(String.fromCharCode(97,108,101,114,116,40,39,49,39,41))</script> ```
 
-Using eval and String.fromCharCode to encode/obfuscate alert(1)
+Using eval and String.fromCharCode to encode/obfuscate alert(1). Converter can be found [here](http://www.binaryhexconverter.com/ascii-text-to-decimal-converter)
