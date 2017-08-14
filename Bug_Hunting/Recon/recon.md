@@ -1,6 +1,5 @@
 # Recon
 
-
 - Run Nmap scan on target(including subdomains) if this is in scope
 	- Run nmap scan all ports(optional)
 
