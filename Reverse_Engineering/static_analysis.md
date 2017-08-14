@@ -43,3 +43,17 @@ print all file headers
 ```gobjdump -d <filename>```
 
 print disassembly of file
+
+```ld <filename> ```
+
+print statically linked shared libaries
+
+```strace <filename>```
+
+print all system calls
+
+
+```ltrace <filename>```
+
+print all library calls
+
