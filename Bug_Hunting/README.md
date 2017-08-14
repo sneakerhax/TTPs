@@ -106,7 +106,7 @@ A set of links for bug hunting resources
 ### Command Injection
 * [Commix](https://github.com/commixproject/commix) (Automated All-in-One OS command injection and exploitation tool) - commixproject
  
-### LFI
+### LFI/RFI
 * [liffy](https://github.com/hvqzao/liffy) (Local file inclusion exploitation tool) – hvqzao
 
 ### Wordpress
