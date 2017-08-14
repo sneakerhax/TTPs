@@ -96,10 +96,16 @@ A set of links for bug hunting resources
 * [XSS Filter Bypass](https://gist.github.com/rvrsh3ll/09a8b933291f9f98e8ec) - rvrsh3ll
 * [XSS Hunter](https://github.com/mandatoryprogrammer/xsshunter) (The XSS Hunter service - a portable version of XSSHunter.com) - mandatoryprogrammer
 * [Sleepy Puppy](https://github.com/Netflix/sleepy-puppy) (Sleepy Puppy XSS Payload Management Framework)- Netflix
-* [Ground Control](https://github.com/jobertabma/ground-control) (A collection of scripts that run on my web server. Mainly for debugging SSRF, blind XSS, and XXE vulnerabilities) - jobertabma
+* [Ground Control](https://github.com/jobertabma/ground-control) (Mainly for debugging SSRF, blind XSS, and XXE vulnerabilities) - jobertabma
 * [XSS Mind Map](https://github.com/jackmasa/XSS.png/tree/master) (A XSS mind map) - jackmasa
 * [Ultimate XSS Polyglot](https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot) (Unleashing an Ultimate XSS Polyglot) - Ahmed Elsobky
 
+### SSTI(Server Side Template Injection)
+* [TPLMap](https://github.com/epinna/tplmap) (Code and Server-Side Template Injection Detection and Exploitation Tool) - epinna
+
+### Command Injection
+* [Commix](https://github.com/commixproject/commix) (Automated All-in-One OS command injection and exploitation tool) - commixproject
+ 
 ### LFI
 * [liffy](https://github.com/hvqzao/liffy) (Local file inclusion exploitation tool) – hvqzao
 
