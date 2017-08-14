@@ -82,7 +82,7 @@ A set of links for bug hunting resources
 * [Live HTTP header](https://addons.mozilla.org/en-US/firefox/addon/live-http-headers/)
 * [Tamper data](https://addons.mozilla.org/en-US/firefox/addon/tamper-data/)
 * [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbar/)
-* [Cookie Manager +](https://addons.mozilla.org/en-US/firefox/addon/cookies-manager-plus/)
+* [Cookie Manager+](https://addons.mozilla.org/en-US/firefox/addon/cookies-manager-plus/)
 * [Shodan](https://addons.mozilla.org/en-US/firefox/addon/shodan-firefox-addon/)
 
 ### SQLi
