@@ -96,6 +96,7 @@ A set of links that can be used for getting started
 * [Red Teaming Back and Forth 5ever](https://www.youtube.com/watch?v=FTiBwFJQg64) - Fuzzynop
 * [Bridging the gap - Lesson in adversarial tradecraft](https://www.youtube.com/watch?v=xHkRhRo3l8o) - harmj0y & enigma0x3
 * [Advanced Threat Tactics Course and Notes](http://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/) - Raphael Mudge
+* [Tradecraft Security Weekly](https://www.youtube.com/watch?v=DlJyKgfkoKQ&index=2&list=PLlPkFwQHxYE7Yi5jtcSyCCr8pXxP1OEkZ)
 
 ### Bug Hunting
 
