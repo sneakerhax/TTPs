@@ -8,12 +8,6 @@ Display the user that the Meterpreter server is running as on the host
 
 This module suggests local meterpreter exploits that can be used
 
-**Windows**
-
-```whoami /groups ```
-
-Windows - to check integrity level and permissions
-
 ```meterpreter> use post/windows/gather/win_privs```
 
 This module will print if UAC is enabled, and if the current account is ADMIN enabled. It will also print UID,foreground SESSION ID, is SYSTEM status and current process PRIVILEGES
