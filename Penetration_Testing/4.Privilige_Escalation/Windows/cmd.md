@@ -4,7 +4,7 @@ Using the Windows command line to search for privilige escalation
 
 ### Check current privileges
 
-``````whoami /groups ```
+```whoami /groups ```
 
 Windows - to check integrity level and permissions
 
