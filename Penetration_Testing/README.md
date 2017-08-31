@@ -122,6 +122,7 @@ A set of links that can be used for getting started
 * [Pentesterlabs](https://pentesterlab.com/) - Pentesterlabs team
 * [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10) - Irongeek
 * [Public Firing Range](https://public-firing-range.appspot.com/) - Google
+* [AWS Penetration Testing](http://flaws.cloud/) - Scott Piper
 
 ### Breaking into Infosec
 
