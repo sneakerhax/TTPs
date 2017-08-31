@@ -1,5 +1,5 @@
-# Getting started
-A set of links that can be used for getting started
+# Penetration Testing
+A set of links that can be used for penetration testing
 
 ### Nmap
 
