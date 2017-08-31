@@ -1,5 +1,5 @@
 # Penetration Testing
-A set of links that can be used for penetration testing
+A set of resources that can be used for penetration testing
 
 ### Nmap
 
