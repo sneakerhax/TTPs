@@ -98,12 +98,6 @@ A set of links that can be used for getting started
 * [Advanced Threat Tactics Course and Notes](http://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/) - Raphael Mudge
 * [Tradecraft Security Weekly](https://www.youtube.com/watch?v=DlJyKgfkoKQ&index=2&list=PLlPkFwQHxYE7Yi5jtcSyCCr8pXxP1OEkZ)
 
-### Bug Hunting
-
-* [Bugcrowd Researcher Resources](https://forum.bugcrowd.com/t/researcher-resources-getting-started/115) - Bugcrowd
-* [How to Shot Web - Web and mobile hacking in 2015](https://www.youtube.com/watch?v=-FAjxUOKbdI) - Jason Haddix
-* [The Bug Hunters Methodology](https://github.com/jhaddix/tbhm) - Jason Haddix
-
 ### Mobile
 * [Intro to Mobile Application Security](http://www.rockfishsec.com/2014/02/intro-to-mobile-application-security.html) - rockfish
 * [Mobile Security Wiki](https://mobilesecuritywiki.com/) - Listed contributors
@@ -117,12 +111,6 @@ A set of links that can be used for getting started
 ### Fuzzing
 
 * [Fuzzing workflows; a fuzz job from start to finish](https://foxglovesecurity.com/2016/03/15/fuzzing-workflows-a-fuzz-job-from-start-to-finish/) - Brandon Perry
-
-### Reverse Engineering
-
-* [Reverse Engineering for Beginners](http://beginners.re/) - Dennis Yurichev
-* [Intro to Software RE](https://www.youtube.com/watch?v=byK0tXH5axQ) - Opensecurity training
-* [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/) - Malware Unicorn
 
 ### Labs(for hands on experience)
 
