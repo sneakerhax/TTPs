@@ -44,7 +44,7 @@ A set of links that can be used for getting started
 * [Jumping into offensive Python](http://sneakerhax.com/jumping-into-offensive-python/) - Sneakerhax
 
 
-### Powershell
+### Offensive Powershell
 
 * [No Tools No Problem Building a PowerShell Botnet](https://www.youtube.com/watch?v=2manBaoP7Bk) - Christopher Cambell
 * [Grey Hat Powershell](https://www.youtube.com/watch?v=OJNWgNARnAs) - Ben0xA
