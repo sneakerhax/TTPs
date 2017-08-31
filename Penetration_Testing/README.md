@@ -114,17 +114,6 @@ A set of links that can be used for getting started
 * [Android Application Security](https://manifestsecurity.com/android-application-security/) - Aditya Agrawal
 * [ExploitMe Mobile Android Labs](http://securitycompass.github.io/AndroidLabs/index.html) - Security Compass
 
-
-### Exploit Development
-
-* [Exploit Writing Tutorials](https://www.corelan.be/index.php/articles/) - Corelan Team
-* [Opensecurity Training Playlist](https://www.youtube.com/user/OpenSecurityTraining/playlists) - Opensecurity training
-* [Primal Security Exploit Tutorials](http://www.primalsecurity.net/tutorials/exploit-tutorials/) - Primal Security
-* [FuzzySecurity Tutorials](http://www.fuzzysecurity.com/tutorials.html) - FuzzySecurity
-* [Metasploit exploit development series part 1](https://community.rapid7.com/community/metasploit/blog/2012/07/05/part-1-metasploit-module-development--the-series) - Rapid7
-* [Jumping into exploit development](http://sneakerhax.com/jumping-into-exploit-development/) - Sneakerhax
-* [Moving past Metasploit - Writing your first exploit](https://www.youtube.com/watch?v=-ZRZMIsD9YE) - Calvin Hedler
-
 ### Fuzzing
 
 * [Fuzzing workflows; a fuzz job from start to finish](https://foxglovesecurity.com/2016/03/15/fuzzing-workflows-a-fuzz-job-from-start-to-finish/) - Brandon Perry
@@ -145,7 +134,6 @@ A set of links that can be used for getting started
 * [Pentesterlabs](https://pentesterlab.com/) - Pentesterlabs team
 * [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10) - Irongeek
 * [Public Firing Range](https://public-firing-range.appspot.com/) - Google
-* [How to exploit binary](https://github.com/bert88sta/how2exploit_binary) - bert88sta
 
 ### Breaking into Infosec
 
