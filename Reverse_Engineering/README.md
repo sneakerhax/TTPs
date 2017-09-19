@@ -12,4 +12,4 @@ A set of resources that can be used for reverse engineering
 
 * [GDBPeda](https://github.com/longld/peda) - longld
 * [Voltron](https://github.com/snare/voltron) - snare
-* [PWNTools](https://github.com/Gallopsled/pwntools) - Gallops
+* [pwntools](https://github.com/Gallopsled/pwntools) - Gallops
