@@ -57,3 +57,11 @@ print all system calls
 
 print all library calls
 
+```readelf -r <binary> ```
+
+Prints out the PLT(Procedure Linkage Table) and GOT(Global Offset Table)
+
+```readelf -s <binary> ```
+
+Prints symbol table
+
