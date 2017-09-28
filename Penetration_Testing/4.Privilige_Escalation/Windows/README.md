@@ -1,4 +1,4 @@
-# Privilige Escalation
+# Privilige Escalation(Windows)
 
 A list of privilige escalation tools and techniques for Windows systems
 
