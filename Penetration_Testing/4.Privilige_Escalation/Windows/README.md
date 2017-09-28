@@ -1,6 +1,6 @@
 # Privilige Escalation
 
-A list of privilige escalation tools and techniques
+A list of privilige escalation tools and techniques for Windows systems
 
 ### Tools
 
