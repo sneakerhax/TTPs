@@ -8,7 +8,7 @@ A set of resources that can be used for source code analysis
 
 ### Books
 
-[The Art of Software Security Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilities/dp/0321444426)
+* [The Art of Software Security Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilities/dp/0321444426)
 
 ### Tools
 
