@@ -1,5 +1,6 @@
 # Bug Hunting
-A set of links for bug hunting resources
+
+A set of resources that can be used for bug hunting
 
 ### General
 * [The Bug Hunters Methodology](https://github.com/jhaddix/tbhm) – Jason Haddix
@@ -19,7 +20,7 @@ A set of links for bug hunting resources
 * [Crunchbase](https://www.crunchbase.com/)
 * [Comodo Certificate Transparency List](https://crt.sh/) - Comodo
 * [SSL Tools](http://ssltools.com/) - SSLTools
- 
+
 **DNS**
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) (Fast subdomains enumeration tool for penetration testers) - aboul3la
 * [Domain](https://github.com/jhaddix/domain) (alt-dns & recon-ng automation script) - Jason Haddix
@@ -39,14 +40,14 @@ A set of links for bug hunting resources
 
 **Screenshot**
  * [Eyewitness](https://github.com/ChrisTruncer/EyeWitness) - Chris Truncer
- 
+
 **Directory Brute Forcing**
 * [Dirb](https://tools.kali.org/web-applications/dirb) - The Dark Raver
 * GoBuster can also be used
 
 **Parameter Brute Forcing**
 * [Parameth](https://github.com/maK-/parameth) - maK-
-  
+
 ### Github Searching
 * [Gitrob](https://github.com/michenriksen/gitrob) - michenriksen
 * [Gitrob Docker](https://github.com/awhitehatter/gitrob-docker) - awhitehatter
@@ -105,7 +106,7 @@ A set of links for bug hunting resources
 
 ### Command Injection
 * [Commix](https://github.com/commixproject/commix) (Automated All-in-One OS command injection and exploitation tool) - commixproject
- 
+
 ### LFI/RFI
 * [liffy](https://github.com/hvqzao/liffy) (Local file inclusion exploitation tool) – hvqzao
 
