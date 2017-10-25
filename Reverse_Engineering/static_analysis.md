@@ -50,7 +50,7 @@ print statically linked shared libaries
 
 ```strace <filename>```
 
-print all system calls
+print all system calls(Can be used to troubleshoot binaries)
 
 
 ```ltrace <filename>```
