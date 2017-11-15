@@ -13,5 +13,6 @@ A set of resources that can be used for source code analysis
 ### Tools
 
 * [RipGrep](https://github.com/BurntSushi/ripgrep) - BurntSushi
+* [ag](https://github.com/ggreer/the_silver_searcher) - ggreer
 * [Graudit](https://github.com/wireghoul/graudit) - wireghoul
 * [Cloc](https://github.com/AlDanial/cloc) - ALDanial
