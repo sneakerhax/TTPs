@@ -21,15 +21,15 @@ A set of resources that can be used for bug hunting
 * [Comodo Certificate Transparency List](https://crt.sh/) - Comodo
 * [SSL Tools](http://ssltools.com/) - SSLTools
 
-**DNS**
-* [Sublist3r](https://github.com/aboul3la/Sublist3r) (Fast subdomains enumeration tool for penetration testers) - aboul3la
-* [Domain](https://github.com/jhaddix/domain) (alt-dns & recon-ng automation script) - Jason Haddix
+
 
 **DNS Brute Force**
-* [Massdns](https://github.com/blechschmidt/massdns) - blechschmidt
+* [Sublist3r](https://github.com/aboul3la/Sublist3r) (Fast subdomains enumeration tool for penetration testers) - aboul3la
 * [Gobuster](https://github.com/OJ/gobuster) (Directory/file & DNS busting tool written in Go) - OJ
-* [Fierce](http://tools.kali.org/information-gathering/fierce) (DNS brute forcer) - RSnake
 * [Altdns](https://github.com/infosec-au/altdns) (DNS brute force permutation generator) - Infosec-au
+* [Domain](https://github.com/jhaddix/domain) (alt-dns & recon-ng automation script) - Jason Haddix
+* [Massdns](https://github.com/blechschmidt/massdns) - blechschmidt
+* [Fierce](http://tools.kali.org/information-gathering/fierce) (DNS brute forcer) - RSnake
 * [Subbrute](https://github.com/TheRook/subbrute) (A DNS meta-query spider that enumerates DNS records, and subdomains) - TheRook
 * [Knock](https://github.com/guelfoweb/knock) (Knock Subdomain Scan) - guelfoweb
 
