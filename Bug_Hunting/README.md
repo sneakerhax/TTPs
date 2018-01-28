@@ -67,6 +67,7 @@ A set of resources that can be used for bug hunting
 * [BurpSmartBuster](https://github.com/pathetiq/BurpSmartBuster) - pathetiq
 * [AuthMatrix](https://github.com/SecurityInnovation/AuthMatrix) - SecurityInnovation
 * [xssValidator](https://github.com/nVisium/xssValidator) - nVisium
+* [Burp_WP](https://github.com/kacperszurek/burp_wp) - kacperszurek
 
 ### Chrome plugins
 * [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)
