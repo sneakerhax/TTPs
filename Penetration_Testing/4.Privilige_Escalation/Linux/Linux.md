@@ -11,3 +11,7 @@ Group membership for current user
 ```who -r```
 
 Check run level on Linux
+
+```sudo -l```
+
+List available sudo commands
