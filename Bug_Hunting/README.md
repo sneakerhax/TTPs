@@ -66,6 +66,7 @@ A set of resources that can be used for bug hunting
 * [Vulners](https://github.com/vulnersCom/burp-vulners-scanner) (Called Software Vulnerability Scanner in BApp Store) - Vulners
 * [BurpSmartBuster](https://github.com/pathetiq/BurpSmartBuster) - pathetiq
 * [AuthMatrix](https://github.com/SecurityInnovation/AuthMatrix) - SecurityInnovation
+* [xssValidator](https://github.com/nVisium/xssValidator) - nVisium
 
 ### Chrome plugins
 * [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)
