@@ -125,6 +125,7 @@ A set of resources that can be used for penetration testing
 * [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10) - Irongeek
 * [Public Firing Range](https://public-firing-range.appspot.com/) - Google
 * [AWS Penetration Testing](http://flaws.cloud/) - Scott Piper
+* [Hack The Box](https://www.hackthebox.eu/) - hackthebox
 
 ### Breaking into Infosec
 
