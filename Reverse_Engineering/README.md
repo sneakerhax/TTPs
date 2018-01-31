@@ -8,6 +8,11 @@ A set of resources that can be used for reverse engineering
 * [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/) - Malware Unicorn
 * [Reverse Engineering Malware 102](https://securedorg.github.io/RE102/) - Malware Unicorn
 
+### Books
+
+* [Reversing - Secrets Of Reverse Engineering](https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817)
+* [Practical Reverse Engineering](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315)
+
 ### Tools
 
 * [GDBPeda](https://github.com/longld/peda) - longld
