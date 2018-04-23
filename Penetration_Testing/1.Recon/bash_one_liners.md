@@ -16,6 +16,6 @@ Get status code from list of ip address
 
 Get list of ip addresses from list of cidr blocks in text file
 
-```curl http://cmyip.com/ 2>&1 | grep "My IP Address" | cut -d'>' -f2 | cut -d'<' -f1```
+```curl https://cmyip.com/ 2>&1 | grep "My IP Address" | cut -d'>' -f2 | cut -d'<' -f1```
 
 Get public ip address from command line
