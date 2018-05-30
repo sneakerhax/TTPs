@@ -24,17 +24,16 @@ A set of resources that can be used for bug hunting
 * [RIPE Database](https://apps.db.ripe.net/db-web-ui/#/query) - RIPE 
 * [BGP Toolkit](https://bgp.he.net/) - Hurricane Electric
 
-**DNS Brute Force**
+**Sub-Domain Discovery**
 * [Amass](https://github.com/caffix/amass) - caffix (Recommended in Bug Bounty Hunter Methodology V3 by Jason Haddix)
 * [Subfinder](https://github.com/Ice3man543/subfinder) - Ice3man543 (Recommended in Bug Bounty Hunter Methodology V3 by Jason Haddix)
-* [Sublist3r](https://github.com/aboul3la/Sublist3r) (Fast subdomains enumeration tool for penetration testers) - aboul3la
-* [Gobuster](https://github.com/OJ/gobuster) (Directory/file & DNS busting tool written in Go) - OJ
-* [Altdns](https://github.com/infosec-au/altdns) (DNS brute force permutation generator) - Infosec-au
+* [Sublist3r](https://github.com/aboul3la/Sublist3r) (Runs quickly but has low number of sources) - aboul3la
 * [Domain](https://github.com/jhaddix/domain) (alt-dns & recon-ng automation script) - Jason Haddix
-* [Massdns](https://github.com/blechschmidt/massdns) - blechschmidt
+
+**DNS Brute Force**
+* [Massdns](https://github.com/blechschmidt/massdns) - blechschmidt (Fastest)
+* [Gobuster](https://github.com/OJ/gobuster) (Directory/file & DNS busting tool written in Go) - OJ
 * [Fierce](http://tools.kali.org/information-gathering/fierce) (DNS brute forcer) - RSnake
-* [Subbrute](https://github.com/TheRook/subbrute) (A DNS meta-query spider that enumerates DNS records, and subdomains) - TheRook
-* [Knock](https://github.com/guelfoweb/knock) (Knock Subdomain Scan) - guelfoweb
 
 **Port Scanners**
  * [Nmap](https://nmap.org/download.html) - Nmap Project
