@@ -103,7 +103,6 @@ A set of resources that can be used for bug hunting
 * [XSS Hunter](https://github.com/mandatoryprogrammer/xsshunter) (The XSS Hunter service - a portable version of XSSHunter.com) - mandatoryprogrammer
 * [Sleepy Puppy](https://github.com/Netflix/sleepy-puppy) (Sleepy Puppy XSS Payload Management Framework)- Netflix
 * [Ground Control](https://github.com/jobertabma/ground-control) (Mainly for debugging SSRF, blind XSS, and XXE vulnerabilities) - jobertabma
-* [XSS Mind Map](https://github.com/jackmasa/XSS.png/tree/master) (A XSS mind map) - jackmasa
 * [Ultimate XSS Polyglot](https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot) (Unleashing an Ultimate XSS Polyglot) - Ahmed Elsobky
 
 ### SSTI(Server Side Template Injection)
