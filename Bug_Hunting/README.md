@@ -25,6 +25,7 @@ A set of resources that can be used for bug hunting
 * [BGP Toolkit](https://bgp.he.net/) - Hurricane Electric
 
 **DNS Brute Force**
+* [Amass](https://github.com/caffix/amass) - caffix
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) (Fast subdomains enumeration tool for penetration testers) - aboul3la
 * [Gobuster](https://github.com/OJ/gobuster) (Directory/file & DNS busting tool written in Go) - OJ
 * [Altdns](https://github.com/infosec-au/altdns) (DNS brute force permutation generator) - Infosec-au
