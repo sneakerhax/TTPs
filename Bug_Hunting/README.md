@@ -20,6 +20,8 @@ A set of resources that can be used for bug hunting
 * [Crunchbase](https://www.crunchbase.com/)
 * [Comodo Certificate Transparency List](https://crt.sh/) - Comodo
 * [SSL Tools](http://ssltools.com/) - SSLTools
+* [ARIN WHOIS](https://whois.arin.net/ui/) - ARIN
+* [RIPE Database](https://apps.db.ripe.net/db-web-ui/#/query) - RIPE 
 * [BGP Toolkit](https://bgp.he.net/) - Hurricane Electric
 
 **DNS Brute Force**
