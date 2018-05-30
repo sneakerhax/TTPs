@@ -32,6 +32,7 @@ A set of resources that can be used for bug hunting
 
 **DNS Brute Force**
 * [Massdns](https://github.com/blechschmidt/massdns) - blechschmidt (Fastest)
+  * [Run with all.txt](https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056) - Jason Haddix
 * [Gobuster](https://github.com/OJ/gobuster) (Directory/file & DNS busting tool written in Go) - OJ
 * [Fierce](http://tools.kali.org/information-gathering/fierce) (DNS brute forcer) - RSnake
 
