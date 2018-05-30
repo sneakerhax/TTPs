@@ -10,7 +10,7 @@ A set of resources that can be used for bug hunting
 
 ### Recon
 
-**Data/DNS/SSL**
+**Data/DNS/SSL/IP**
 
 * [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) (A full featured Web Reconnissance Framework) - Lanmaster53
 * [Scan.io](https://scans.io) - Rapid7
@@ -20,8 +20,7 @@ A set of resources that can be used for bug hunting
 * [Crunchbase](https://www.crunchbase.com/)
 * [Comodo Certificate Transparency List](https://crt.sh/) - Comodo
 * [SSL Tools](http://ssltools.com/) - SSLTools
-
-
+* [BGP Toolkit](https://bgp.he.net/) - Hurricane Electric
 
 **DNS Brute Force**
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) (Fast subdomains enumeration tool for penetration testers) - aboul3la
