@@ -16,11 +16,3 @@ A set of resources that can be used for bug hunting
 
 ### LFI/RFI
 * [liffy](https://github.com/hvqzao/liffy) (Local file inclusion exploitation tool) – hvqzao
-
-### Wordpress
-
-* [WPScan](https://github.com/wpscanteam/wpscan) - wpscanteam
-
-### CMS
-
-* [CMSMap](https://github.com/Dionach/CMSmap) - Dionach
