@@ -7,3 +7,4 @@
 * [Payload All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) - swissky
 * [Paypal Test Credit Card Numbers](https://www.paypalobjects.com/en_US/vhelp/paypalmanager_help/credit_card_numbers.htm) - Paypal
 * [SVNDigger](https://github.com/nathanmyee/SVNDigger) - Wordlists for Wfuzz or Dirbuster - nathanmyee
+* [content_discovery_all.txt](https://gist.github.com/jhaddix/b80ea67d85c13206125806f0828f4d10) - Jason Haddix
