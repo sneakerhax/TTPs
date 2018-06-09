@@ -10,6 +10,3 @@ A set of resources that can be used for bug hunting
 
 ### SSTI(Server Side Template Injection)
 * [TPLMap](https://github.com/epinna/tplmap) (Code and Server-Side Template Injection Detection and Exploitation Tool) - epinna
-
-### Command Injection
-* [Commix](https://github.com/commixproject/commix) (Automated All-in-One OS command injection and exploitation tool) - commixproject
