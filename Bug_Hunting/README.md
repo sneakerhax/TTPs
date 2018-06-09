@@ -8,16 +8,6 @@ A set of resources that can be used for bug hunting
 * [Web Application Hackers Handbook 2](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470) - Dafydd Stuttard, Marcus Pinto
 * [Web Hacking 101](https://leanpub.com/web-hacking-101) - Peter Yaworski
 
-**Screenshot**
- * [Eyewitness](https://github.com/ChrisTruncer/EyeWitness) - Chris Truncer
-
-**Directory Brute Forcing**
-* [Dirb](https://tools.kali.org/web-applications/dirb) - The Dark Raver
-* GoBuster can also be used
-
-**Parameter Brute Forcing**
-* [Parameth](https://github.com/maK-/parameth) - maK-
-
 ### Github Searching
 * [Gitrob](https://github.com/michenriksen/gitrob) - michenriksen
 * [Gitrob Docker](https://github.com/awhitehatter/gitrob-docker) - awhitehatter
