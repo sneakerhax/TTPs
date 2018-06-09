@@ -8,12 +8,6 @@ A set of resources that can be used for bug hunting
 * [Web Application Hackers Handbook 2](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470) - Dafydd Stuttard, Marcus Pinto
 * [Web Hacking 101](https://leanpub.com/web-hacking-101) - Peter Yaworski
 
-### Github Searching
-* [Gitrob](https://github.com/michenriksen/gitrob) - michenriksen
-* [Gitrob Docker](https://github.com/awhitehatter/gitrob-docker) - awhitehatter
-* [TruffleHog](https://github.com/dxa4481/truffleHog) - dxa4481
-* [Comparing Commits](https://help.github.com/articles/comparing-commits-across-time/) - Github
-
 ### Docker
 
 * [Docker Pentest List](https://github.com/awhitehatter/docker-pentest-lists) - awhitehatter
