@@ -9,3 +9,6 @@
 
 ### Parameter Brute Forcing
 * [Parameth](https://github.com/maK-/parameth) - maK-
+
+### Robots
+* [RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed) - Daniel Miessler
