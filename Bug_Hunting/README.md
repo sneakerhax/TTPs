@@ -8,11 +8,6 @@ A set of resources that can be used for bug hunting
 * [Web Application Hackers Handbook 2](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470) - Dafydd Stuttard, Marcus Pinto
 * [Web Hacking 101](https://leanpub.com/web-hacking-101) - Peter Yaworski
 
-### Docker
-
-* [Docker Pentest List](https://github.com/awhitehatter/docker-pentest-lists) - awhitehatter
-* [BruteSubs](https://github.com/anshumanbh/brutesubs) - anshumanbh
-
 ### SSTI(Server Side Template Injection)
 * [TPLMap](https://github.com/epinna/tplmap) (Code and Server-Side Template Injection Detection and Exploitation Tool) - epinna
 
