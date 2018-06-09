@@ -20,6 +20,10 @@
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) (Runs quickly but has low number of sources) - aboul3la
 * [Domain](https://github.com/jhaddix/domain) (alt-dns & recon-ng automation script) - Jason Haddix
 
+### Sub-Domain Takeover
+
+* [Can I take over XYZ](https://github.com/EdOverflow/can-i-take-over-xyz) - Ed0verflow
+
 ### DNS Brute Force
 * [Massdns](https://github.com/blechschmidt/massdns) - blechschmidt (Fastest)
   * [Run with all.txt](https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056) - Jason Haddix
