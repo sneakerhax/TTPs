@@ -7,3 +7,5 @@
 * [Sleepy Puppy](https://github.com/Netflix/sleepy-puppy) (Sleepy Puppy XSS Payload Management Framework)- Netflix
 * [Ground Control](https://github.com/jobertabma/ground-control) (Mainly for debugging SSRF, blind XSS, and XXE vulnerabilities) - jobertabma
 * [Ultimate XSS Polyglot](https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot) (Unleashing an Ultimate XSS Polyglot) - Ahmed Elsobky
+* [ezXSS](https://github.com/ssl/ezXSS) - ssl
+* [bXSS](https://github.com/LewisArdern/bXSS) - LewisArdern
