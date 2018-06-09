@@ -29,11 +29,6 @@ A set of resources that can be used for bug hunting
 * [Docker Pentest List](https://github.com/awhitehatter/docker-pentest-lists) - awhitehatter
 * [BruteSubs](https://github.com/anshumanbh/brutesubs) - anshumanbh
 
-### SQLi
-* [SQL Injection cheatsheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/) – Netsparker
-* [SQL Injection cheatsheet](http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet) – Pentestmonkey
-* [SQLmap Tamper Scripts](https://forum.bugcrowd.com/t/sqlmap-tamper-scripts-sql-injection-and-waf-bypass/423) (WAF bypass) – Jason Haddix
-
 ### SSTI(Server Side Template Injection)
 * [TPLMap](https://github.com/epinna/tplmap) (Code and Server-Side Template Injection Detection and Exploitation Tool) - epinna
 
