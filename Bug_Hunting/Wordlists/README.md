@@ -6,3 +6,4 @@
 * [Wfuzz](https://github.com/xmendez/wfuzz/tree/master/wordlist) - Wfuzz
 * [Payload All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) - swissky
 * [Paypal Test Credit Card Numbers](https://www.paypalobjects.com/en_US/vhelp/paypalmanager_help/credit_card_numbers.htm) - Paypal
+* [SVNDigger - Wordlists for Wfuzz or Dirbuster](https://github.com/nathanmyee/SVNDigger) - nathanmyee
