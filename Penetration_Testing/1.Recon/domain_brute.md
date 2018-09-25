@@ -1,4 +1,4 @@
-## Sub-domain brute force
+# Sub-domain brute force
 
 ```nmap --script dns-brute --script-args dns-brute.domain=<domain>,dns-brute.threads=<number of threads>,dns-brute.hostlist=<wordlist>```
 
