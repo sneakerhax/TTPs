@@ -6,4 +6,4 @@ Bash one liner to grab current Azure IP ranges
 
 ```gobuster -m dns -u "blob.core.windows.net" -i -t 100 -fw -w <wordlist>```
 
-Discover blob storage locations
+Discover blob storage account name(From Blue Cloud of Death by Bryce Kunz)
