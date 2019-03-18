@@ -6,4 +6,5 @@ RUN git clone https://github.com/maldevel/EmailHarvester
 RUN cd EmailHarvester
 RUN pip install -r EmailHarvester/requirements.txt
 
-ENTRYPOINT ["python", "EmailHarvester/EmailHarvester.py"]
+WORKDIR /EmailHarvester
+ENTRYPOINT ["python", "EmailHarvester.py"]
