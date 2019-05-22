@@ -52,7 +52,7 @@ A set of resources that can be used for penetration testing
 * [Practical PowerShell Programming for Professional People](https://www.youtube.com/watch?v=4X_uBL2YpmA) - Ben0xA
 * [Powershell weaponization made easy](https://www.youtube.com/watch?v=sgi73boZ9Xk) - Rich Kelley
 
-### Privlege Escalation
+### Privilege Escalation
 
 * [Powerup: A usage guide](http://www.harmj0y.net/blog/powershell/powerup-a-usage-guide/) - harmj0y
 * [Metasploit Local Exploit Suggester: Do Less, Get More!](https://community.rapid7.com/community/metasploit/blog/2015/08/11/metasploit-local-exploit-suggester-do-less-get-more) - Rapid7
