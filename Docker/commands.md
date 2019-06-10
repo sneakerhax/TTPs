@@ -1,5 +1,9 @@
 # Docker commands
 
+```docker pull```
+
+Pull down Docker image
+
 ```docker images```
 
 List all built images
@@ -12,13 +16,17 @@ List all containers
 
 Building/Updating a docker image
 
+```docker run -t -d <image>```
+
+Create persistent container
+
 ```docker run -it <image_name> <argument>```
 
 Running a docker image that contains an ENTRYPOINT and accepts arguments
 
 ```docker exec -it <container_name> <command_name>```
 
-Run command inside of docker container eg. /bin/bash
+Run command inside of docker container eg. /bin/bash (must have persistent container)
 
 ```docker rm <container_name>```
 
