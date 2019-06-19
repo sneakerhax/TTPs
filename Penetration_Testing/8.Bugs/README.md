@@ -1,6 +1,6 @@
-# Bugs
+# Bugs Hunting
 
-Resources to help you find bugs
+Command references, posts, and resources for Bug Hunting
 
 ### General
 * [The Bug Hunters Methodology](https://github.com/jhaddix/tbhm) – Jason Haddix
