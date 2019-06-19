@@ -1,5 +1,7 @@
 # Enumeration
 
+Command references, posts, and resources for Enumeration
+
 ### Screenshot
  * [Eyewitness](https://github.com/ChrisTruncer/EyeWitness) - Chris Truncer
 
