@@ -2,7 +2,7 @@
 
 ```https://<name>.blob.core.windows.net```
 
-Searching for Azure storage(blob)(Name must be between 3-24 characters)
+Searching for Azure blob storage (Name must be between 3-24 characters)
 
 ```gobuster -m dns -u "blob.core.windows.net" -i -t 100 -fw -w <wordlist>```
 
