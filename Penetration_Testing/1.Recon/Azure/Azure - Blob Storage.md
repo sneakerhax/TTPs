@@ -1,4 +1,4 @@
-## Azure - Blob storage
+## Azure - Blob Storage
 
 ```https://<name>.blob.core.windows.net```
 
