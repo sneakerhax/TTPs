@@ -29,3 +29,7 @@ Setup custom functions for searching nse scripts
 ```nse search```
 
 Example usage of custom nse function
+
+```nmap -sn -Pn -n --script=shodan-api --script-args 'shodan-api.apikey=XXXX' <target>```
+
+Lookup target in Shodan without active port scanning
