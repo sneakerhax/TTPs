@@ -15,7 +15,7 @@
 * [BGP Toolkit](https://bgp.he.net/) - Hurricane Electric
 
 ### Sub-Domain Discovery
-* [Amass](https://github.com/caffix/amass) - caffix (Recommended in Bug Bounty Hunter Methodology V3 by Jason Haddix)
+* [Amass](https://github.com/OWASP/Amass) - caffix (Recommended in Bug Bounty Hunter Methodology V3 by Jason Haddix)
 * [Subfinder](https://github.com/Ice3man543/subfinder) - Ice3man543 (Recommended in Bug Bounty Hunter Methodology V3 by Jason Haddix)
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) (Runs quickly but has low number of sources) - aboul3la
 * [Domain](https://github.com/jhaddix/domain) (alt-dns & recon-ng automation script) - Jason Haddix
