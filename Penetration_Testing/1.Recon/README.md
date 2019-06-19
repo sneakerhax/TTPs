@@ -7,6 +7,7 @@
   * [Sonar Reverse DNS](https://opendata.rapid7.com/sonar.rdns_v2/)
   * [Sonar Forward DNS](https://opendata.rapid7.com/sonar.fdns_v2/)
   * [Sonar SSL data](https://opendata.rapid7.com/sonar.ssl/)
+* [Google Transparency Report](https://transparencyreport.google.com/https/certificates?hl=en)
 * [Crunchbase](https://www.crunchbase.com/)
 * [Comodo Certificate Transparency List](https://crt.sh/) - Comodo
 * [SSL Tools](http://ssltools.com/) - SSLTools
