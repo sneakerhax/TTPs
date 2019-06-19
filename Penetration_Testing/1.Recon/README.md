@@ -15,6 +15,7 @@
 * [RIPE Database](https://apps.db.ripe.net/db-web-ui/#/query) - RIPE 
 * [BGP Toolkit](https://bgp.he.net/) - Hurricane Electric
 * [DNS Dumpster](https://dnsdumpster.com/) - HackerTarget
+* [Ultra Tools](https://www.ultratools.com/tools/dnsLookup) - Neustar
 
 ### Sub-Domain Discovery
 * [Amass](https://github.com/OWASP/Amass) - caffix (Recommended in Bug Bounty Hunter Methodology V3 by Jason Haddix)
