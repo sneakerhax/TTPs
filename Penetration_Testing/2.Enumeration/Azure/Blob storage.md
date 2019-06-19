@@ -15,5 +15,5 @@ Look for the following in files:
 Grep VHDS files for shadow hashes (Download VHD and run the following grep):
 Select-String ":0:99999:" <file>.vhd -ca
 
-Reference:
+**Reference:**
 * [Blue Cloud of Death Red Teaming Azure](https://www.youtube.com/watch?v=DPcMuRP3P7A) - Bryce Kunz
