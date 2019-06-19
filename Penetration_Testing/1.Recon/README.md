@@ -3,10 +3,10 @@
 ### Data/DNS/SSL/IP
 
 * [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) (A full featured Web Reconnissance Framework) - Lanmaster53
-* [Scan.io](https://scans.io) - Rapid7
-  * [Sonar Reverse DNS](https://scans.io/study/sonar.rdns_v2)
-  * [Sonar Forward DNS](https://scans.io/study/sonar.fdns_v2)
-  * [Sonar SSL data](https://scans.io/study/sonar.ssl)
+* [OpenData](https://opendata.rapid7.com/) - Rapid7
+  * [Sonar Reverse DNS](https://opendata.rapid7.com/sonar.rdns_v2/)
+  * [Sonar Forward DNS](https://opendata.rapid7.com/sonar.fdns_v2/)
+  * [Sonar SSL data](https://opendata.rapid7.com/sonar.ssl/)
 * [Crunchbase](https://www.crunchbase.com/)
 * [Comodo Certificate Transparency List](https://crt.sh/) - Comodo
 * [SSL Tools](http://ssltools.com/) - SSLTools
