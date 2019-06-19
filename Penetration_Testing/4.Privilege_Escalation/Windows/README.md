@@ -12,3 +12,4 @@ A list of privilige escalation tools and techniques for Windows systems
     * https://github.com/foxglovesec/RottenPotato
     * https://github.com/breenmachine/RottenPotatoNG/tree/master/RottenPotatoDLL/MSFRottenPotatoTestHarness [C++ version]
     * https://github.com/hatRiot/token-priv [Usage examples]
+ * [Watson](https://github.com/rasta-mouse/Watson) - Rasta Mouse
