@@ -18,6 +18,20 @@ Aggressive scan for quick results
 
 ```nmap -p139,445 --script=smb,msrpc,smb-enum-shares,smb-enum-users 192.168.1.1```
 
+Example usage of custom nse function
+
+```nmap -sn -Pn -n --script=shodan-api --script-args 'shodan-api.apikey=XXXX' <target>```
+
+Lookup target in Shodan without active port scanning
+
+```nmap -p U:53,T:443 <target>```
+
+Scan UDP and TCP ports
+
+```nmap -sUT --top-ports <number> --open <target>```
+
+Scan top TCP/UDP ports
+
 Enumerate smb with NSE Scripts
 
 ```OSX:  nse(){ find /usr/local/share/nmap/scripts/ -iname "*$1*" | cut -c32- | cut -d'.' -f1;i}```
@@ -27,9 +41,3 @@ Enumerate smb with NSE Scripts
 Setup custom functions for searching nse scripts
 
 ```nse search```
-
-Example usage of custom nse function
-
-```nmap -sn -Pn -n --script=shodan-api --script-args 'shodan-api.apikey=XXXX' <target>```
-
-Lookup target in Shodan without active port scanning
