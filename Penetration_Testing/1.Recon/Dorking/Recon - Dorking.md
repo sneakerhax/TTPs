@@ -1,4 +1,4 @@
-# Dorks
+# Recon - Dorking
 
 ```site:site.com inurl:/wp-content/ ```
 
