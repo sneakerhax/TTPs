@@ -1,4 +1,4 @@
-# Privilige Escalation - Linux
+# Privilege Escalation - Linux
 
 A list of privilige escalation tools and techniques for Linux systems
 
