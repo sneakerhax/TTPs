@@ -1,6 +1,6 @@
-# Getting Started
+# Bugs
 
-Resources to help you get started
+Resources to help you find bugs
 
 ### General
 * [The Bug Hunters Methodology](https://github.com/jhaddix/tbhm) – Jason Haddix
