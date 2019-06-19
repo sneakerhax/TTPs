@@ -1,4 +1,4 @@
-## SMB & Netbios
+# Protocol - SMB & Netbios
 
 SMB versions:
 
