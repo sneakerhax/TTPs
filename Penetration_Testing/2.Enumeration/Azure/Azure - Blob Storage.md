@@ -1,4 +1,4 @@
-# Blob Storage
+# Azure - Blob Storage
 
 ### Searching blog storage
 
