@@ -1,6 +1,6 @@
 # Data Sources - Certificates
 
-Sonar(data can be found [here](https://scans.io/))
+Open Data (data can be found [here](https://opendata.rapid7.com/))
 
 ```zgrep -a -F \.site.com * ```
 
