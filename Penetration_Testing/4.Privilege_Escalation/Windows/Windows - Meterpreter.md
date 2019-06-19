@@ -1,4 +1,4 @@
-## Meterpreter Privilige Escalation
+# Windows - Meterpreter
 
 ```meterpreter> getuid```
 
