@@ -37,3 +37,12 @@
  * [Nmap](https://nmap.org/download.html) - Nmap Project
  * [Nmap NSE Scripts](https://nmap.org/nsedoc/) - Nmap Project
  * [Masscan](https://github.com/robertdavidgraham/masscan) - Robert Graham
+ 
+### VPN 
+ * [VPN Hunter](vpnhunter.com) - Duo Labs
+ 
+### Email Discovery
+ * [Hunter.io](https://hunter.io/) - Hunter
+ 
+### Data Leak Lookup
+ * [We Leak Info](https://search.weleakinfo.com/search) - We Leak Info
