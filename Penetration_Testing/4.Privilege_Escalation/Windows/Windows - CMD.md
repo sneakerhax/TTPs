@@ -1,4 +1,4 @@
-# CMD
+# Windows - CMD
 
 Using the Windows command line to search for privilige escalation
 
