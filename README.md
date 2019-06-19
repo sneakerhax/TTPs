@@ -1,8 +1,3 @@
 # Runbooks
-Runbooks for different topics
 
-### Contents
-
-* Command References
-* Posts
-* Resources
+Command references, posts, and resources for different topics
