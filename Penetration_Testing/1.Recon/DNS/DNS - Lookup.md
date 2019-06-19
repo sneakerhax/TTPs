@@ -1,4 +1,4 @@
-# DNS
+# DNS - Lookup
 
 ```
 nslookup
