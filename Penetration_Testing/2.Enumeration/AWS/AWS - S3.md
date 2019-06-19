@@ -1,4 +1,4 @@
-# AWS - s3
+# AWS - S3
 
 In Burpe keep ```.*amazon*.``` in scope
 
