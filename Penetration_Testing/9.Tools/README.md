@@ -1,6 +1,6 @@
 # Tools
 
-Command references, posts, and resources for Tools
+Command references, posts, and resources for installing and setting up Tools
 
 * Install Burp Suite(https://portswigger.net/burp/download.html)
 * Install Mozilla(https://www.mozilla.org/en-US/firefox/new/)
