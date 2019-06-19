@@ -14,6 +14,7 @@
 * [ARIN WHOIS](https://whois.arin.net/ui/) - ARIN
 * [RIPE Database](https://apps.db.ripe.net/db-web-ui/#/query) - RIPE 
 * [BGP Toolkit](https://bgp.he.net/) - Hurricane Electric
+* [DNS Dumpster](https://dnsdumpster.com/) - HackerTarget
 
 ### Sub-Domain Discovery
 * [Amass](https://github.com/OWASP/Amass) - caffix (Recommended in Bug Bounty Hunter Methodology V3 by Jason Haddix)
