@@ -1,4 +1,4 @@
-# Dockerizing Email Harvester
+# Docker - Dockerizing Email Harvester
 
 I was just hanging out on a Saturday night and I stumbled onto this tool called EmailHarvester. It runs on Python 3 and I still use Python 2.7 and didn’t want to deal with virutualenv and whatnot. I decided it might be a good time to learn how to Dockerize tools. This is nothing mind blowing or new but I haven’t done this before.
 
