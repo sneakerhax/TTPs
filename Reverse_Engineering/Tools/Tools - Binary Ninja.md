@@ -1,4 +1,4 @@
-# Binary Ninja
+# Tools - Binary Ninja
 
 ```spacebar```
 
