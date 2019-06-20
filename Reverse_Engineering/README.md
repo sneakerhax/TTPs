@@ -9,6 +9,8 @@ A set of resources that can be used for reverse engineering
 * [Reverse Engineering Malware 102](https://securedorg.github.io/RE102/) - Malware Unicorn
 * [LiveOverflow [Reverse Engineering]](https://liveoverflow.com/binary_hacking/reverse_engineering.html) - LiveOverflow
 * [How2ExploitBinary](https://github.com/Bretley/how2exploit_binary) - Bretley
+* [Anatomy of a Program in Memory](https://manybutfinite.com/post/anatomy-of-a-program-in-memory/)
+* [High & Low memory](https://unix.stackexchange.com/questions/4929/what-are-high-memory-and-low-memory-on-linux)
 
 ### Books
 
