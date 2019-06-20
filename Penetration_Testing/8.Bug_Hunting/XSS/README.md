@@ -9,3 +9,4 @@
 * [Ultimate XSS Polyglot](https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot) (Unleashing an Ultimate XSS Polyglot) - Ahmed Elsobky
 * [ezXSS](https://github.com/ssl/ezXSS) - ssl
 * [bXSS](https://github.com/LewisArdern/bXSS) - LewisArdern
+* [JSFiddle](https://jsfiddle.net) (Test XSS payloads)
