@@ -11,3 +11,7 @@ Purge open-vm-tools-desktop
 ```apt -y install open-vm-tools-desktop fuse```
 
 Re-install open-vm-tools-desktop
+
+**References:**
+* https://www.howtoinstall.co/en/ubuntu/trusty/open-vm-tools-desktop?action=remove
+* https://docs.kali.org/general-use/install-vmware-tools-kali-guest
