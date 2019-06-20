@@ -2,6 +2,11 @@
 
 * [Documentation](https://portswigger.net/burp/help/)
 
+### Installation
+* Install Burp Suite(https://portswigger.net/burp/download.html)
+* Install Mozilla(https://www.mozilla.org/en-US/firefox/new/)
+* Install Foxy Proxy Standard(https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)
+
 ### Burp Suite Plugins
 * [Burp Co2](http://burpco2.com/) (Burp Suite Extenstion) – Secure Ideas
 * [Hunt](https://github.com/bugcrowd/HUNT) - Bugcrowd
@@ -11,3 +16,4 @@
 * [AuthMatrix](https://github.com/SecurityInnovation/AuthMatrix) - SecurityInnovation
 * [xssValidator](https://github.com/nVisium/xssValidator) - nVisium
 * [Burp_WP](https://github.com/kacperszurek/burp_wp) - kacperszurek
+* [Turbo Intruder](https://github.com/PortSwigger/turbo-intruder) - PortSwigger
