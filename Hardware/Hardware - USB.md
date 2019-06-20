@@ -1,4 +1,4 @@
-# Hardware
+# Hardware - USB
 
 ```dmesg -wH```
 
