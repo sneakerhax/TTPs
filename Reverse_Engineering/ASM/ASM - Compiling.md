@@ -1,4 +1,4 @@
-# Compiling
+# ASM - Compiling
 
 1. ```nasm -f elf32 myprog.asm```
 
