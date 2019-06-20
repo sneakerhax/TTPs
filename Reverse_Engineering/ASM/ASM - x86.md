@@ -1,4 +1,4 @@
-# ASM x86
+# ASM - x86
 
 ```lscpu ```
 
