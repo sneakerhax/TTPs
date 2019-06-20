@@ -8,6 +8,13 @@ Ping scan from Windows command line
 
 Ping scan with Windows Powershell
 
+```
+$ports = 22,80,443
+foreach ($port in $ports) {Test-NetConnection -Computer <computer> -Port $port}
+```
+
+Portscan with Powershell native modules
+
 ```for i in {1..254}; do ping -c 1 -W 1 192.168.1.$i | grep 'from'; done```
 
 Ping scan Linux command line
