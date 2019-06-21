@@ -117,7 +117,7 @@ A set of resources that can be used for penetration testing
 ### Labs(for hands on experience)
 
 * [Hack The Box](https://www.hackthebox.eu/) - hackthebox
-* [Pentesterlabs](https://pentesterlab.com/) - Pentesterlabs team
+* [Pentesterlab](https://pentesterlab.com/) - Pentesterlab team
 * [Vulnhub](https://www.vulnhub.com/) - Vulnhub team
 * [Metasploitable 2](https://community.rapid7.com/docs/DOC-1875) - Metasploit
 * [Metasploitable 3](https://github.com/rapid7/metasploitable3/) - Metasploit
