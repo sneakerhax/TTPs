@@ -114,7 +114,7 @@ A set of resources that can be used for penetration testing
 
 * [Fuzzing workflows; a fuzz job from start to finish](https://foxglovesecurity.com/2016/03/15/fuzzing-workflows-a-fuzz-job-from-start-to-finish/) - Brandon Perry
 
-### Labs(for hands on experience)
+### Labs (hands on experience)
 
 * [Hack The Box](https://www.hackthebox.eu/) - hackthebox
 * [Pentesterlab](https://pentesterlab.com/) - Pentesterlab team
