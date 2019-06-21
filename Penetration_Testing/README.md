@@ -24,7 +24,7 @@ A set of resources that can be used for penetration testing
 
 ### Cobalt Strike/Armitage
 
-* [Advanced Threat Tactics (2015)](https://www.youtube.com/playlist?list=PL9HO6M_MU2nf8Fa5bVefBW-9bg5Rx94_c) - Raphael Mudge
+* [Advanced Threat Tactics Course and Notes (2015)](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/) - Raphael Mudge
 * [Trade Craft](http://www.advancedpentest.com/training) - Rapheal Mudge
 * [Cobalt Strike Blog](http://blog.cobaltstrike.com/) - Raphael Mudge
 
