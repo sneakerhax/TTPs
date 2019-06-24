@@ -24,7 +24,7 @@ A set of resources that can be used for penetration testing
 
 ### Cobalt Strike/Armitage
 
-* [Advanced Threat Tactics (2015)](https://www.youtube.com/playlist?list=PL9HO6M_MU2nf8Fa5bVefBW-9bg5Rx94_c) - Raphael Mudge
+* [Advanced Threat Tactics Course and Notes (2015)](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/) - Raphael Mudge
 * [Trade Craft](http://www.advancedpentest.com/training) - Rapheal Mudge
 * [Cobalt Strike Blog](http://blog.cobaltstrike.com/) - Raphael Mudge
 
@@ -114,18 +114,18 @@ A set of resources that can be used for penetration testing
 
 * [Fuzzing workflows; a fuzz job from start to finish](https://foxglovesecurity.com/2016/03/15/fuzzing-workflows-a-fuzz-job-from-start-to-finish/) - Brandon Perry
 
-### Labs(for hands on experience)
+### Labs (hands on experience)
 
+* [Hack The Box](https://www.hackthebox.eu/) - hackthebox
+* [Pentesterlab](https://pentesterlab.com/) - Pentesterlab team
 * [Vulnhub](https://www.vulnhub.com/) - Vulnhub team
 * [Metasploitable 2](https://community.rapid7.com/docs/DOC-1875) - Metasploit
 * [Metasploitable 3](https://github.com/rapid7/metasploitable3/) - Metasploit
 * [Metasploit Vulnerability Emulator](https://github.com/rapid7/metasploit-vulnerability-emulator) - Metasploit
 * [Windows Browser Testing](http://dev.modern.ie/tools/vms/windows/) - Microsoft
-* [Pentesterlabs](https://pentesterlab.com/) - Pentesterlabs team
 * [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10) - Irongeek
 * [Public Firing Range](https://public-firing-range.appspot.com/) - Google
 * [AWS Penetration Testing](http://flaws.cloud/) - Scott Piper
-* [Hack The Box](https://www.hackthebox.eu/) - hackthebox
 
 ### Breaking into Infosec
 
