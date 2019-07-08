@@ -8,7 +8,7 @@ Building Docker image (Chromium download takes a few minutes)
 
 Running Docker container
 
-### Sample Usage
+### Sample Usage:
 
 ```
 $ docker run -it pyreconer scanme.nmap.org
@@ -85,7 +85,7 @@ Screenshots:
 Wrote HTML report to: output/aquatone_report.html
 ```
 
-### List of 3rd party tools
+### List of 3rd party tools:
 
 * [Amass](https://github.com/OWASP/Amass) - OWASP
 * [Nmap](https://nmap.org/) - Fyador and contributors
