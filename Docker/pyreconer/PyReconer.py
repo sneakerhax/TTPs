@@ -37,7 +37,7 @@ def amass_dns_active(amass_targets, amass_output):
 
 def nmap_top_ports(nmap_targets, nmap_output):
     print("[+] Running nmap on " + amass_output)
-    nmap = subprocess.Popen([nmap_binary, '--top-ports', "1000", '-Pn', '--open', '--reason', '-iL', nmap_targets, '-oA', nmap_output], stdout=subprocess.PIPE)
+    nmap = subprocess.Popen([nmap_binary, '--top-ports', '1000', '-Pn', '--open', '--reason', '-iL', nmap_targets, '-oA', nmap_output], stdout=subprocess.PIPE)
     out, err = nmap.communicate()
     print(out.decode('utf-8'))
 
