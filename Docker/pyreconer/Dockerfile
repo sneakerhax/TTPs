@@ -2,7 +2,6 @@ FROM python:3
 
 RUN mkdir PyReconer
 COPY PyReconer.py /PyReconer
-#COPY tools/nmap_xml_parser.py /PyReconer
 WORKDIR /PyReconer
 RUN mkdir output
 RUN wget https://github.com/OWASP/Amass/releases/download/3.0.4/amass_3.0.4_linux_amd64.zip && unzip amass_3.0.4_linux_amd64.zip && mv amass_3.0.4_linux_amd64 amass
