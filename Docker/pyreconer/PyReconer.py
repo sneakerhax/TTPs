@@ -6,7 +6,7 @@ amass_binary = "amass/amass"
 aquatone_binary = "aquatone/aquatone"
 chromium_binary = "chrome-linux/chrome"
 nmap_binary = "nmap"
-nmap_scan_to_csv = "nmap_xml_parser.py"
+nmap_scan_to_csv = "Nmap-Scan-to-CSV/nmap_xml_parser.py"
 python_binary = "python"
 
 # Output files
