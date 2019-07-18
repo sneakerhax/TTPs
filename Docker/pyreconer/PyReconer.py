@@ -18,10 +18,15 @@ aquatone_output = "output/"
 
 
 def banner():
-    print("#######################")
-    print("##     PyReconer     ##")
-    print("##  by: sneakerhax   ##")
-    print("#######################")
+    print("    ____        ____")
+    print("   / __ \__  __/ __ \___  _________  ____  ___  _____")
+    print("  / /_/ / / / / /_/ / _ \/ ___/ __ \/ __ \/ _ \/ ___/")
+    print(" / ____/ /_/ / _, _/  __/ /__/ /_/ / / / /  __/ /")
+    print("/_/    \__, /_/ |_|\___/\___/\____/_/ /_/\___/_/")
+    print("      /____/")
+    print("")
+    print("by: sneakerhax")
+    print("")
 
 
 def usage():
