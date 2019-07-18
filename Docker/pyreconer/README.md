@@ -12,10 +12,14 @@ Running Docker container
 
 ```
 $ docker run -it pyreconer scanme.nmap.org
-#######################
-##     PyReconer     ##
-##  by: sneakerhax   ##
-#######################
+    ____        ____
+   / __ \__  __/ __ \___  _________  ____  ___  _____
+  / /_/ / / / / /_/ / _ \/ ___/ __ \/ __ \/ _ \/ ___/
+ / ____/ /_/ / _, _/  __/ /__/ /_/ / / / /  __/ /
+/_/    \__, /_/ |_|\___/\___/\____/_/ /_/\___/_/
+      /____/
+
+by: sneakerhax
 [+] Running amass on scanme.nmap.org
 
 OWASP Amass v3.0.4                                https://github.com/OWASP/Amass
