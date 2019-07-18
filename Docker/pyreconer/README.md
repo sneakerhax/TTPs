@@ -20,6 +20,7 @@ $ docker run -it pyreconer scanme.nmap.org
       /____/
 
 by: sneakerhax
+
 [+] Running amass on scanme.nmap.org
 
 OWASP Amass v3.0.4                                https://github.com/OWASP/Amass
