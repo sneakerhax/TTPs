@@ -16,7 +16,11 @@ Setup the path to the amass binary (Line 14):
 amass_binary = "amass"
 ```
 
-Additionally you need to download Sonar FDNS data from [here](https://opendata.rapid7.com/sonar.fdns_v2/2019-06-21-1561158121-fdns_cname.json.gz) and place it in the same directory as the Python script. Download the updated scan and change the sonar_fdns_data (Line 19) variable for the latest data
+Additionally you need to download Sonar FDNS data from [here](https://opendata.rapid7.com/sonar.fdns_v2/2019-06-21-1561158121-fdns_cname.json.gz) and place it in the same directory as the Python script. Download the updated scan and change the sonar_fdns_data (Line 19) variable for the latest data:
+```
+sonar_fdns_data = "2019-06-21-1561158121-fdns_cname.json.gz"
+```
+
 
 ### Example usage
 
