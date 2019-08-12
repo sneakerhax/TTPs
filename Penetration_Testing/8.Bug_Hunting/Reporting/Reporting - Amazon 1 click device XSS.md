@@ -36,9 +36,9 @@ Thanks,
 
 Justin
 
-### Discovery of mobile compatiblity and reporting (Update)
+### Discovery of mobile compatibility and reporting (Update)
 
-Additionally later I found that this could be triggered from a phone as seen in the example below. This update was reported to Amazon on August 19th 2017:
+Additionally later I found that this could be triggered from a mobile phone as seen in the example below. This update was reported to Amazon on August 19th 2017:
 
 ![alt text](.img/Amazon%20-%201%20click%20XSS%20mobile%20POC.png)
 
