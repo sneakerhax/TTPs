@@ -77,7 +77,7 @@ A set of resources that can be used for penetration testing
 * [Pillage the Village Redux](https://www.youtube.com/watch?v=n2nptntIsn4) - John Strand and Ed Skoudis
 * [Operating in the Shadows](https://www.youtube.com/watch?v=NXTr4bomAxk) - Carlos Perez
 * [Living Off the Land a Minimalists Guide to Windows Post Exploitation](https://www.youtube.com/watch?v=j-r6UonEkUw) - Chris Campbell & Matt Graeber
-* [Offensive Lateral Movement](https://posts.specterops.io/offensive-lateral-movement-1744ae62b14f) - Ryan Hausknecht
+* [Offensive Lateral Movement](https://posts.specterops.io/offensive-lateral-movement-1744ae62b14f) - SpecterOps (Ryan Hausknecht)
 
 ### Penetration Testing Frameworks
 
@@ -89,6 +89,7 @@ A set of resources that can be used for penetration testing
 * [PTES reporting](http://www.pentest-standard.org/index.php/Reporting) - Penetration Test Execution Standard
 * [Sample Penetration Testing Report](https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf)  -  Offensive Security
 * [Writing a Penetration Testing Report](https://www.sans.org/reading-room/whitepapers/bestprac/writing-penetration-testing-report-33343) - SANS
+* [How to Improve your Pentest Reports](https://www.blackhillsinfosec.com/your-reporting-matters-how-to-improve-pen-test-reporting/) - Blak Hills Information Security (Brian B. King)
 
 ### Red Teaming
 
