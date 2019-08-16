@@ -42,7 +42,6 @@ A set of resources that can be used for penetration testing
 ### Offensive Python
 
 * [Python Tutorials](http://www.primalsecurity.net/tutorials/python-tutorials/) - Primal Security
-* [Jumping into offensive Python](http://sneakerhax.com/jumping-into-offensive-python/) - Sneakerhax
 
 
 ### Offensive Powershell
@@ -76,6 +75,7 @@ A set of resources that can be used for penetration testing
 * [Pillage the Village Redux](https://www.youtube.com/watch?v=n2nptntIsn4) - John Strand and Ed Skoudis
 * [Operating in the Shadows](https://www.youtube.com/watch?v=NXTr4bomAxk) - Carlos Perez
 * [Living Off the Land a Minimalists Guide to Windows Post Exploitation](https://www.youtube.com/watch?v=j-r6UonEkUw) - Chris Campbell & Matt Graeber
+* [Offensive Lateral Movement](https://posts.specterops.io/offensive-lateral-movement-1744ae62b14f) - Ryan Hausknecht
 
 ### Penetration Testing Frameworks
 
