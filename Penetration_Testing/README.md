@@ -38,6 +38,7 @@ A set of resources that can be used for penetration testing
 * [Exploit Tutorial: Web Hacking with Burp Suite](http://www.primalsecurity.net/0x2-exploit-tutorial-web-hacking-with-burp-suite/) - Primal Security
 * [Webpwnized](https://www.youtube.com/user/webpwnized) - Jeremy Druin
 * [Web PenTesting Workshop](http://www.irongeek.com/i.php?page=videos/web-pen-testing-workshop) - Jeremy Druin
+* [Web Security Academy](https://portswigger.net/web-security)- PortSwigger
 
 ### Offensive Python
 
