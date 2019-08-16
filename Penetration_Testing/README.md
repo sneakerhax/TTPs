@@ -89,7 +89,7 @@ A set of resources that can be used for penetration testing
 * [PTES reporting](http://www.pentest-standard.org/index.php/Reporting) - Penetration Test Execution Standard
 * [Sample Penetration Testing Report](https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf)  -  Offensive Security
 * [Writing a Penetration Testing Report](https://www.sans.org/reading-room/whitepapers/bestprac/writing-penetration-testing-report-33343) - SANS
-* [How to Improve your Pentest Reports](https://www.blackhillsinfosec.com/your-reporting-matters-how-to-improve-pen-test-reporting/) - Blak Hills Information Security (Brian B. King)
+* [How to Improve your Pentest Reports](https://www.blackhillsinfosec.com/your-reporting-matters-how-to-improve-pen-test-reporting/) - Black Hills Information Security (Brian B. King)
 
 ### Red Teaming
 
