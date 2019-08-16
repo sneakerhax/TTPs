@@ -42,6 +42,7 @@ A set of resources that can be used for penetration testing
 ### Offensive Python
 
 * [Python Tutorials](http://www.primalsecurity.net/tutorials/python-tutorials/) - Primal Security
+* [Black Hat Python](https://nostarch.com/blackhatpython) - Justin Seitz
 
 
 ### Offensive Powershell
