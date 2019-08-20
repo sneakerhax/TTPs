@@ -15,7 +15,7 @@ Manual check for null sessions
 
 Scan network for Netbios name information
 
-```enum4linux -a ip_address ```
+```enum4linux -a <ip_address>```
 
 Enumerate Windows hosts
 
