@@ -18,3 +18,7 @@ Scan network for Netbios name information
 ```enum4linux -a ip_address ```
 
 Enumerate Windows hosts
+
+```smbmap -H <ip_address>```
+
+Scan for open SMB shares
