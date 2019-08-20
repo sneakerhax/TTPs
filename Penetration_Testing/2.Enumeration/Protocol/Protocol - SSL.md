@@ -8,6 +8,6 @@ View ssl certificate(Shows PEM file)
 
 View ssl certificate(x509) information
 
-```timeout 1 ssh -a -l ec2-user -v -o PubkeyAuthentication=no -o PasswordAuthentication=yes -o BatchMode=yes -o StrictHostKeyChecking=no ip_address 2>&1 | grep 'Authentications that can continue' ```
+```timeout 1 ssh -a -l ec2-user -v -o PubkeyAuthentication=no -o PasswordAuthentication=yes -o BatchMode=yes -o StrictHostKeyChecking=no <ip_address> 2>&1 | grep 'Authentications that can continue'```
 
 See supported authentication methods for SSH(Must have timeout installed(part of coreutils))
