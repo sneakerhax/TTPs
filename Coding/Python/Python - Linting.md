@@ -1,16 +1,16 @@
 # Python - Linting
 
 ```
-"python.linting.enabled": true,
 "python.linting.pylintEnabled": false,
-"python.linting.pep8Enabled": true,
+"python.linting.pycodestyleEnabled": true,
+"python.linting.enabled": true,
 ```
 
-Enable linting in VSCode
+Enable Pep8 (pycodestyle) linting in VSCode
 
-```"python.linting.pep8Args": ["--ignore=E501"],```
+```    "python.linting.pycodestyleArgs": ["--ignore=E501,W605"],```
 
-Add ignore rule for long lines
+Add ignore rule for long lines and invalid escape sequence (ascii banners)
 
 **References:**
 * https://code.visualstudio.com/docs/python/linting
