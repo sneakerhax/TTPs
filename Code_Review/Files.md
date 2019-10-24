@@ -1,6 +1,6 @@
 # Files  
 
-```find . -name  "*.php"```
+```find . -type f -name  \*.php```
 
 List all files in repo with the extenstion .php
 
