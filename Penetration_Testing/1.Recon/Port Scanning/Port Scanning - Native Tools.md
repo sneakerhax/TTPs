@@ -8,6 +8,10 @@ Ping scan from Windows command line
 
 Ping scan with Windows Powershell
 
+```Test-NetConnection -ComputerName <computer> -Port <port>```
+
+Test if a single port is open with Powershell
+
 ```
 $ports = 22,80,443
 foreach ($port in $ports) {Test-NetConnection -Computer <computer> -Port $port}
