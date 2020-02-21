@@ -41,7 +41,7 @@ by: sneakerhax
 [+] Printing 5 discovered DNS records
 dev.site.com
 staging.site.com
-dev.site.com
+admin.site.com
 test.site.com
 beta.site.com
 ```
