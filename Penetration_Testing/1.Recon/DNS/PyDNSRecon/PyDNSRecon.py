@@ -69,6 +69,19 @@ def sonar_zgrep_search(sonar_target, sonary_output, sonar_fdns_data, domain_list
                     domain_list.append(json_string['name'])
 
 
+def crtsh_cert_search(crtsh_target, domain_list):
+    print("[+] Running crt.sh search for " + crtsh_target)
+    crtsh_search = f"https://crt.sh/?q={crtsh_target}&output=json"
+    response = requests.get(crtsh_search).json()
+    for result in response:
+        if "\n" in result['name_value']:
+            split_items = result['name_value'].split('\n')
+            for item in split_items:
+                domain_list.append((item.rstrip()))
+        else:
+            domain_list.append((result['name_value'].rstrip()))
+
+
 def main():
     if len(sys.argv) == 2:
         banner()
@@ -76,10 +89,11 @@ def main():
         censys_cert_search(target, domain_list)
         amass_dns_active(target, amass_output, domain_list)
         sonar_zgrep_search(target, sonar_output, sonar_fdns_data, domain_list)
+        crtsh_cert_search(target, domain_list)
         unique_domains = set(domain_list)
         print("[+] Printing " + str(len(unique_domains)) + " discovered DNS records")
         for domain in unique_domains:
-            print(domain.strip())
+            print(domain.rstrip())
     else:
         banner()
         usage()
