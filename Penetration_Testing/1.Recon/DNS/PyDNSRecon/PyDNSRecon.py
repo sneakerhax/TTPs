@@ -19,6 +19,7 @@ amass_output = "amass_dns.txt"
 sonar_fdns_data = "2019-06-21-1561158121-fdns_cname.json.gz"
 sonar_output = "sonar_output.txt"
 
+# CRTSH command - curl -s "https://crt.sh/?q=uipath.com&output=json" | jq -r '.[].name_value' | sed 's/\*\.//g' | sort -u > certsh.txt
 
 def usage():
     print("[*] Usage - python3 PyDNSRecon.py <target>")
