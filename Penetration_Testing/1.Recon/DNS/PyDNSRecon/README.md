@@ -1,6 +1,6 @@
 # PyDNSRecon
 
-A tool that collects DNS records from the 3 resources I found most useful and creates a unique list
+A tool that collects DNS records from the 4 resources and tools that create unique findings
 
 ### Setup
 
