@@ -23,7 +23,7 @@ sonar_fdns_data = "2019-06-21-1561158121-fdns_cname.json.gz"
 
 ### Running with Docker
 
-Building Docker image
+Building Docker image (Add Censys API_ID and secret to PyDNSRecon_docker.py before running)
 ```
 docker build -t pydnsrecon .
 ```
