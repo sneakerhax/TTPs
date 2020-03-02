@@ -46,7 +46,7 @@ def censys_cert_search(censys_target, domain_list):
     json_response = response.json()
     for result in json_response['results']:
         if censys_target in result['parsed.subject.common_name'][0]:
-            domain_list.append(result['parsed.subject.common_name'][0])
+            domain_list.append(result['parsed.subject.common_name'][0].strip())
 
 
 def amass_dns_active(amass_target, amass_output, domain_list):
@@ -55,7 +55,7 @@ def amass_dns_active(amass_target, amass_output, domain_list):
     amass.communicate()
     with open(amass_output, 'r') as amass_open:
         for result in amass_open:
-            domain_list.append(result)
+            domain_list.append(result.strip())
 
 
 def sonar_zgrep_search(sonar_target, sonary_output, sonar_fdns_data, domain_list):
@@ -67,20 +67,20 @@ def sonar_zgrep_search(sonar_target, sonary_output, sonar_fdns_data, domain_list
             for result in sonar:
                 json_string = json.loads(result)
                 if sonar_target in json_string['name']:
-                    domain_list.append(json_string['name'])
+                    domain_list.append(json_string['name'].strip())
 
 
 def crtsh_cert_search(crtsh_target, domain_list):
-    print("[+] Running crt.sh search for " + crtsh_target)
+    print("[+] Running Crt.sh search for " + crtsh_target)
     crtsh_search = f"https://crt.sh/?q={crtsh_target}&output=json"
     response = requests.get(crtsh_search).json()
     for result in response:
         if "\n" in result['name_value']:
             split_items = result['name_value'].split('\n')
             for item in split_items:
-                domain_list.append((item.rstrip()))
+                domain_list.append((item.strip()))
         else:
-            domain_list.append((result['name_value'].rstrip()))
+            domain_list.append((result['name_value'].strip()))
 
 
 def main():
@@ -94,7 +94,7 @@ def main():
         unique_domains = set(domain_list)
         print("[+] Printing " + str(len(unique_domains)) + " discovered DNS records")
         for domain in unique_domains:
-            print(domain.rstrip())
+            print(domain.strip())
     else:
         banner()
         usage()
