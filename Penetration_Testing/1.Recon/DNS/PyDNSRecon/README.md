@@ -11,19 +11,10 @@ censys_API_ID = "<censys_API_ID>"
 censys_secret = "<censys_secret>"
 ```
 
-Setup the path to the amass binary (Line 14):
-```
-amass_binary = "amass"
-```
-
-Additionally you need to download Sonar FDNS data from [here](https://opendata.rapid7.com/sonar.fdns_v2/2019-06-21-1561158121-fdns_cname.json.gz) and place it in the same directory as the Python script. Download the updated scan and change the sonar_fdns_data (Line 19) variable for the latest data:
-```
-sonar_fdns_data = "2019-06-21-1561158121-fdns_cname.json.gz"
-```
-
 ### Running with Docker
 
-Building Docker image (Add Censys API_ID and secret to PyDNSRecon_docker.py before running)
+Building Docker image
+
 ```
 docker build -t pydnsrecon .
 ```
@@ -37,7 +28,7 @@ docker run -it pydnsrecon <target>
 ### Example usage
 
 ```
-$ python3 PyDNSRecon.py site.com
+$ docker run -it PyDNSRecon.py site.com
     ____        ____  _   _______ ____
    / __ \__  __/ __ \/ | / / ___// __ \___  _________  ____
   / /_/ / / / / / / /  |/ /\__ \/ /_/ / _ \/ ___/ __ \/ __ \
