@@ -36,5 +36,9 @@ Destroy container
 
 Destroy image
 
+```docker rmi $(docker images -f "dangling=true" -q)```
+
+Remove all dangling images
+
 
 
