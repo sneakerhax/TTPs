@@ -21,6 +21,18 @@ Additionally you need to download Sonar FDNS data from [here](https://opendata.r
 sonar_fdns_data = "2019-06-21-1561158121-fdns_cname.json.gz"
 ```
 
+### Running with Docker
+
+Building Docker image
+```
+docker build -t pydnsrecon .
+```
+
+Running Docker image
+```
+docker run -it pydnsrecon <target>
+```
+
 
 ### Example usage
 
