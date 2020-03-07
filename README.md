@@ -1,3 +1,3 @@
 # Runbooks
 
-Command references, posts, and resources for different topics
+Command references and resources for different topics
