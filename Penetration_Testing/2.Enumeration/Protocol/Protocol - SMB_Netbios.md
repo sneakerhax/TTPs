@@ -22,3 +22,10 @@ Enumerate Windows hosts
 ```smbmap -H <target> -R```
 
 Scan for open SMB shares and recursively list
+
+```
+smbclient //10.10.232.87/<share>
+smb: \>get <filename>
+```
+
+Download file from SMB share
