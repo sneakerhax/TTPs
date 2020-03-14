@@ -19,6 +19,6 @@ Scan network for Netbios name information
 
 Enumerate Windows hosts
 
-```smbmap -H <target>```
+```smbmap -H <target> -R```
 
-Scan for open SMB shares
+Scan for open SMB shares and recursively list
