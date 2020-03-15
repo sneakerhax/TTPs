@@ -17,7 +17,7 @@ Scan network for Netbios name information
 
 ```enum4linux -a <target>```
 
-Enumerate Windows hosts
+Enumerate SMB all checks
 
 ```smbmap -H <target> -R```
 
