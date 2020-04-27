@@ -5,6 +5,14 @@
         <title>sneakerhax subscriptions in feedly Cloud</title>
     </head>
     <body>
+        <outline text="Bug Hunters" title="Bug Hunters">
+            <outline type="rss" text="Sam Curry" title="Sam Curry" xmlUrl="http://samcurry.net/feed/" htmlUrl="https://samcurry.net"/>
+            <outline type="rss" text="Bug bounty write-ups" title="Bug bounty write-ups" xmlUrl="https://ysamm.com/?feed=rss2" htmlUrl="https://ysamm.com"/>
+            <outline type="rss" text="Mahmoud Gamal - Security Blogs" title="Mahmoud Gamal - Security Blogs" xmlUrl="http://mahmoudsec.blogspot.com/feeds/posts/default" htmlUrl="http://mahmoudsec.blogspot.com/"/>
+            <outline type="rss" text="spaceraccoon.dev" title="spaceraccoon.dev" xmlUrl="https://spaceraccoon.dev/feed/" htmlUrl="https://spaceraccoon.dev/"/>
+            <outline type="rss" text="Pentester Land" title="Pentester Land" xmlUrl="https://pentester.land/feed.xml" htmlUrl="https://pentester.land/"/>
+            <outline type="rss" text="Honoki" title="Honoki" xmlUrl="https://honoki.net/feed/" htmlUrl="https://honoki.net"/>
+        </outline>
         <outline text="Malware Analysis" title="Malware Analysis">
             <outline type="rss" text="Malwarebytes Unpacked" title="Malwarebytes Unpacked" xmlUrl="http://blog.malwarebytes.org/feed/" htmlUrl="https://blog.malwarebytes.com"/>
             <outline type="rss" text="Fire Eye Threat Research " title="Fire Eye Threat Research " xmlUrl="http://www.fireeye.com/blog/feed" htmlUrl="http://www.fireeye.com/blog/threat-research.html"/>
@@ -41,7 +49,6 @@
         </outline>
         <outline text="Red Team" title="Red Team">
             <outline type="rss" text="Rapid7 Blog" title="Rapid7 Blog" xmlUrl="https://blog.rapid7.com/rss/" htmlUrl="https://blog.rapid7.com/"/>
-            <outline type="rss" text="spaceraccoon.dev" title="spaceraccoon.dev" xmlUrl="https://spaceraccoon.dev/feed/" htmlUrl="https://spaceraccoon.dev/"/>
             <outline type="rss" text="FoxGlove Security" title="FoxGlove Security" xmlUrl="http://foxglovesecurity.com/feed/" htmlUrl="https://foxglovesecurity.com"/>
             <outline type="rss" text="XPN InfoSec Blog" title="XPN InfoSec Blog" xmlUrl="https://blog.xpnsec.com/rss/" htmlUrl="https://blog.xpnsec.com/"/>
             <outline type="rss" text="Offensive Security" title="Offensive Security" xmlUrl="http://www.offensive-security.com/feed/" htmlUrl="https://www.offensive-security.com"/>
@@ -51,6 +58,7 @@
             <outline type="rss" text="Black Hills Information Security" title="Black Hills Information Security" xmlUrl="http://www.blackhillsinfosec.com/?feed=rss2" htmlUrl="https://www.blackhillsinfosec.com"/>
             <outline type="rss" text="enigma0x3" title="enigma0x3" xmlUrl="http://enigma0x3.wordpress.com/feed/" htmlUrl="https://enigma0x3.net"/>
             <outline type="rss" text="Strategic Cyber LLC" title="Strategic Cyber LLC" xmlUrl="http://blog.strategiccyber.com/feed/" htmlUrl="https://blog.cobaltstrike.com"/>
+            <outline type="rss" text="Silent Break Security" title="Silent Break Security" xmlUrl="http://silentbreaksecurity.com/feed/" htmlUrl="https://silentbreaksecurity.com"/>
             <outline type="rss" text="FortyNorth Security Blog" title="FortyNorth Security Blog" xmlUrl="https://fortynorthsecurity.com/blog/rss/" htmlUrl="https://fortynorthsecurity.com/blog/"/>
             <outline type="rss" text="Exploit Monday" title="Exploit Monday" xmlUrl="http://www.exploit-monday.com/feeds/posts/default" htmlUrl="http://www.exploit-monday.com/"/>
             <outline type="rss" text="MDSec" title="MDSec" xmlUrl="https://www.mdsec.co.uk/feed/" htmlUrl="https://www.mdsec.co.uk"/>
@@ -64,6 +72,7 @@
             <outline type="rss" text="Posts By SpecterOps Team Members" title="Posts By SpecterOps Team Members" xmlUrl="https://posts.specterops.io/feed" htmlUrl="https://posts.specterops.io?source=rss----f05f8696e3cc---4"/>
             <outline type="rss" text="Tyranid's Lair" title="Tyranid's Lair" xmlUrl="http://tyranidslair.blogspot.com/feeds/posts/default" htmlUrl="https://www.tiraniddo.dev/"/>
             <outline type="rss" text="SANS Penetration Testing" title="SANS Penetration Testing" xmlUrl="http://feeds.feedburner.com/SANSPenTesting" htmlUrl="https://www.sans.org/blog"/>
+            <outline type="rss" text="Synacktiv" title="Synacktiv" xmlUrl="http://www.synacktiv.com/feeds/all.atom.xml" htmlUrl="https://www.synacktiv.com/"/>
             <outline type="rss" text="Corelan Team" title="Corelan Team" xmlUrl="https://www.corelan.be/index.php/feed/" htmlUrl="https://www.corelan.be"/>
         </outline>
         <outline text="Bug Bounty" title="Bug Bounty">
