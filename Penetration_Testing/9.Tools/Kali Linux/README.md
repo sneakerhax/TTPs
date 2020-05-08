@@ -10,4 +10,4 @@
 
 ```sudo apt update && sudo apt -y full-upgrade```
 
-Fully update when packages are not updating
+Fully update when packages are not updating (reinstalls packages)
