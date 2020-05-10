@@ -24,14 +24,15 @@ A set of resources that can be used for penetration testing
 
 ### Cobalt Strike/Armitage
 
+* [Red Team Operations with Cobalt Strike (2019)](https://www.youtube.com/watch?v=q7VQeK533zI&list=PL9HO6M_MU2nfQ4kHSCzAQMqxQxH47d1no) - Raphael Mudge
 * [Advanced Threat Tactics Course and Notes (2015)](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/) - Raphael Mudge
-* [Trade Craft](http://www.advancedpentest.com/training) - Rapheal Mudge
 * [Cobalt Strike Blog](http://blog.cobaltstrike.com/) - Raphael Mudge
 
 ### Web Application Penetration Testing
 
 * [OWASP Web Application Penetration Testing](https://www.owasp.org/index.php/Web_Application_Penetration_Testing) - Owasp
 * [OWASP Testing Guide v4](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents) - Owasp
+* [OWASP Testing Guide v4.1](https://owasp.org/www-project-web-security-testing-guide/v41/) - Owasp
 * [Web Application Pen-testing Tutorials With Mutillidae](http://www.irongeek.com/i.php?page=videos/web-application-pen-testing-tutorials-with-mutillidae) - Irongeek
 * [Burp Suite Tutorial – Web Application Penetration Testing (Part 1)](https://www.pentestgeek.com/web-applications/burp-suite-tutorial-1/) - Pentest Geek
 * [Burp Suite Tutorial – Web Application Penetration Testing (Part 2)](https://www.pentestgeek.com/web-applications/burp-suite-tutorial-web-application-penetration-testing-part-2/) - Pentest Geek
@@ -42,7 +43,6 @@ A set of resources that can be used for penetration testing
 
 ### Offensive Python
 
-* [Python Tutorials](http://www.primalsecurity.net/tutorials/python-tutorials/) - Primal Security
 * [Black Hat Python](https://nostarch.com/blackhatpython) - Justin Seitz
 
 
@@ -58,13 +58,15 @@ A set of resources that can be used for penetration testing
 * [Powerup: A usage guide](http://www.harmj0y.net/blog/powershell/powerup-a-usage-guide/) - harmj0y
 * [Metasploit Local Exploit Suggester: Do Less, Get More!](https://community.rapid7.com/community/metasploit/blog/2015/08/11/metasploit-local-exploit-suggester-do-less-get-more) - Rapid7
 * [My 5 Top Ways to Escalate Privileges](https://www.trustwave.com/Resources/SpiderLabs-Blog/My-5-Top-Ways-to-Escalate-Privileges/) - SpiderLabs
-* [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - g0tmi1k
-* [Linux privilege escalation for fun profit and all around mischief](https://www.youtube.com/watch?v=dk2wsyFiosg) - Jake Willi
-* [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623) - Rebootuser
 * [Encyclopedia Of Windows Privilege Escalation](https://www.youtube.com/watch?v=kMG8IsCohHA) - Brett Moore
 * [Windows Attacks AT is the new black](https://www.youtube.com/watch?v=_8xJaaQlpBo) - Mubix (Rob Fuller) & Carnalownage (Chris Gates)
 * [Windows Privilege Escalation Fundamentals](http://fuzzysecurity.com/tutorials/16.html) - Fuzzysecurity
 * [ATT&CK Privilege Escalation](https://attack.mitre.org/wiki/Privilege_Escalation) - Mitre
+* [Living Off The Land Binaries and Scripts](https://lolbas-project.github.io/) - bohops
+* [GTFO bins](https://gtfobins.github.io/) - norbemi & cyrus_and
+* [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - g0tmi1k
+* [Linux privilege escalation for fun profit and all around mischief](https://www.youtube.com/watch?v=dk2wsyFiosg) - Jake Willi
+* [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623) - Rebootuser
 
 ### Post Exploitation
 
@@ -129,14 +131,3 @@ A set of resources that can be used for penetration testing
 * [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10) - Irongeek
 * [Public Firing Range](https://public-firing-range.appspot.com/) - Google
 * [AWS Penetration Testing](http://flaws.cloud/) - Scott Piper
-
-### Breaking into Infosec
-
-* [How to become a pentester](https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/) - Corelan
-* [Starting an infosec career the megamix chapters 1-3](http://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/) - Leslie Carhart
-* [Starting an infosec career the megamix chapters 4-5](https://tisiphone.net/2015/11/08/starting-an-infosec-career-the-megamix-chapters-4-5/) - Leslie Carhart
-* [Starting an infosec career the megamix chapter 6](https://tisiphone.net/2016/02/10/starting-an-infosec-career-the-megamix-chapter-6/) - Leslie Carhart
-* [Cyber 101 Upstarting your career in a leading industry](https://www.youtube.com/watch?v=T-moFXjFfAY) - Johnny Deutsch
-* [Hack The Hustle](https://www.youtube.com/watch?v=RaPwQVhaOp8) - Eve Adams
-* [So you want to be a pentester?](https://www.youtube.com/watch?v=2zC3XHOTGrA) - Calvin Hedler
-* [Infosec Isn't a Job, It's a Lifestyle](https://www.cylance.com/en_us/blog/infosec-isnt-a-job-its-a-lifestyle.html) - Greg Linares
