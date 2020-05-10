@@ -45,14 +45,6 @@ A set of resources that can be used for penetration testing
 
 * [Black Hat Python](https://nostarch.com/blackhatpython) - Justin Seitz
 
-
-### Offensive Powershell
-
-* [No Tools No Problem Building a PowerShell Botnet](https://www.youtube.com/watch?v=2manBaoP7Bk) - Christopher Cambell
-* [Grey Hat Powershell](https://www.youtube.com/watch?v=OJNWgNARnAs) - Ben0xA
-* [Practical PowerShell Programming for Professional People](https://www.youtube.com/watch?v=4X_uBL2YpmA) - Ben0xA
-* [Powershell weaponization made easy](https://www.youtube.com/watch?v=sgi73boZ9Xk) - Rich Kelley
-
 ### Privilege Escalation
 
 * [Powerup: A usage guide](http://www.harmj0y.net/blog/powershell/powerup-a-usage-guide/) - harmj0y
