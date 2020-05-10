@@ -105,16 +105,6 @@ A set of resources that can be used for penetration testing
 * [Tradecraft Security Weekly](https://wiki.securityweekly.com/Tradecraft_Security_Weekly) - Security Weekly
 * [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) - bluescreenofjeff
 
-### Mobile
-* [Intro to Mobile Application Security](http://www.rockfishsec.com/2014/02/intro-to-mobile-application-security.html) - rockfish
-* [Mobile Security Wiki](https://mobilesecuritywiki.com/) - Listed contributors
-* [How to Assess and Secure iOS Apps](https://www.slideshare.net/NCC_Group/2013-0912ncc-group44conworkshophowtoassessandsecureiosapps) - NCC Group
-* [iOS App Security Assessment Tool](http://www.idbtool.com/) - idb
-* [Damn Vulnerable iOS App](http://damnvulnerableiosapp.com/) - Prateek Gianchandani
-* [Configuring an Android Device to Work with Burp](https://support.portswigger.net/customer/portal/articles/1841101-configuring-an-android-device-to-work-with-burp) - Burp Suite
-* [Android Application Security](https://manifestsecurity.com/android-application-security/) - Aditya Agrawal
-* [ExploitMe Mobile Android Labs](http://securitycompass.github.io/AndroidLabs/index.html) - Security Compass
-
 ### Fuzzing
 
 * [Fuzzing workflows; a fuzz job from start to finish](https://foxglovesecurity.com/2016/03/15/fuzzing-workflows-a-fuzz-job-from-start-to-finish/) - Brandon Perry
