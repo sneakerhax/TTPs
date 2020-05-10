@@ -34,9 +34,9 @@ A set of resources that can be used for penetration testing
 * [OWASP Testing Guide v4](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents) - Owasp
 * [OWASP Testing Guide v4.1](https://owasp.org/www-project-web-security-testing-guide/v41/) - Owasp
 * [Web Application Pen-testing Tutorials With Mutillidae](http://www.irongeek.com/i.php?page=videos/web-application-pen-testing-tutorials-with-mutillidae) - Irongeek
+* [Burp Hacks for Bounty Hunters](https://www.youtube.com/watch?v=boHIjDHGmIo&) - James Kettle
 * [Burp Suite Tutorial – Web Application Penetration Testing (Part 1)](https://www.pentestgeek.com/web-applications/burp-suite-tutorial-1/) - Pentest Geek
 * [Burp Suite Tutorial – Web Application Penetration Testing (Part 2)](https://www.pentestgeek.com/web-applications/burp-suite-tutorial-web-application-penetration-testing-part-2/) - Pentest Geek
-* [Exploit Tutorial: Web Hacking with Burp Suite](http://www.primalsecurity.net/0x2-exploit-tutorial-web-hacking-with-burp-suite/) - Primal Security
 * [Webpwnized](https://www.youtube.com/user/webpwnized) - Jeremy Druin
 * [Web PenTesting Workshop](http://www.irongeek.com/i.php?page=videos/web-pen-testing-workshop) - Jeremy Druin
 * [Web Security Academy](https://portswigger.net/web-security)- PortSwigger
