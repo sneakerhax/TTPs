@@ -39,7 +39,6 @@ A set of resources that can be used for penetration testing
 * [Burp Suite Tutorial – Web Application Penetration Testing (Part 2)](https://www.pentestgeek.com/web-applications/burp-suite-tutorial-web-application-penetration-testing-part-2/) - Pentest Geek
 * [Webpwnized](https://www.youtube.com/user/webpwnized) - Jeremy Druin
 * [Web PenTesting Workshop](http://www.irongeek.com/i.php?page=videos/web-pen-testing-workshop) - Jeremy Druin
-* [Web Security Academy](https://portswigger.net/web-security)- PortSwigger
 
 ### Offensive Python
 
@@ -104,6 +103,7 @@ A set of resources that can be used for penetration testing
 
 * [Hack The Box](https://www.hackthebox.eu/) - hackthebox
 * [Pentesterlab](https://pentesterlab.com/) - Pentesterlab team
+* [Web Security Academy](https://portswigger.net/web-security)- PortSwigger
 * [Vulnhub](https://www.vulnhub.com/) - Vulnhub team
 * [Metasploitable 2](https://community.rapid7.com/docs/DOC-1875) - Metasploit
 * [Metasploitable 3](https://github.com/rapid7/metasploitable3/) - Metasploit
