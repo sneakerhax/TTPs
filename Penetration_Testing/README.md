@@ -93,7 +93,6 @@ A set of resources that can be used for penetration testing
 * [Flying a Cylon Raider](https://www.youtube.com/watch?v=26PedM_-zRo) - Raphael Mudge
 * [Red Teaming Back and Forth 5ever](https://www.youtube.com/watch?v=FTiBwFJQg64) - Fuzzynop
 * [Bridging the gap - Lesson in adversarial tradecraft](https://www.youtube.com/watch?v=xHkRhRo3l8o) - harmj0y & enigma0x3
-* [Advanced Threat Tactics Course and Notes](http://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/) - Raphael Mudge
 * [Tradecraft Security Weekly](https://wiki.securityweekly.com/Tradecraft_Security_Weekly) - Security Weekly
 * [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) - bluescreenofjeff
 
