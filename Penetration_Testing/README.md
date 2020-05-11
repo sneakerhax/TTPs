@@ -2,7 +2,7 @@
 
 A set of resources that can be used for penetration testing
 
-### Nmap
+## Nmap
 
 * [Nmap Reference Guide](https://nmap.org/book/man.html) - Fyodor
 * [Nmap NSE scripts](https://nmap.org/nsedoc/) - Fyador
@@ -10,7 +10,7 @@ A set of resources that can be used for penetration testing
 * [Nmap Playlist](https://www.youtube.com/playlist?list=PLZOToVAK85MqWG76p5gUeMtTXSRthCuLr) - Webpwnized
 
 
-### Metasploit
+## Metasploit
 
 * [Metasploit Blog](https://community.rapid7.com/community/metasploit/blog) - Rapid7
 * [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/) - Offensive Security
@@ -22,13 +22,13 @@ A set of resources that can be used for penetration testing
 * [How to get started with writing a post module](https://github.com/rapid7/metasploit-framework/wiki/How-to-get-started-with-writing-a-post-module) - Rapid7
 * [Metasploit Framework Ruby docs](http://www.rubydoc.info/github/rapid7/metasploit-framework) - Rapid7
 
-### Cobalt Strike/Armitage
+## Cobalt Strike/Armitage
 
 * [Red Team Operations with Cobalt Strike (2019)](https://www.youtube.com/watch?v=q7VQeK533zI&list=PL9HO6M_MU2nfQ4kHSCzAQMqxQxH47d1no) - Raphael Mudge
 * [Advanced Threat Tactics Course and Notes (2015)](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/) - Raphael Mudge
 * [Cobalt Strike Blog](http://blog.cobaltstrike.com/) - Raphael Mudge
 
-### Web Application Penetration Testing
+## Web Application Penetration Testing
 
 * [OWASP Web Application Penetration Testing](https://www.owasp.org/index.php/Web_Application_Penetration_Testing) - Owasp
 * [OWASP Testing Guide v4](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents) - Owasp
@@ -40,11 +40,11 @@ A set of resources that can be used for penetration testing
 * [Webpwnized](https://www.youtube.com/user/webpwnized) - Jeremy Druin
 * [Web PenTesting Workshop](http://www.irongeek.com/i.php?page=videos/web-pen-testing-workshop) - Jeremy Druin
 
-### Offensive Python
+## Offensive Python
 
 * [Black Hat Python](https://nostarch.com/blackhatpython) - Justin Seitz
 
-### Privilege Escalation
+## Privilege Escalation
 
 * [Powerup: A usage guide](http://www.harmj0y.net/blog/powershell/powerup-a-usage-guide/) - harmj0y
 * [Metasploit Local Exploit Suggester: Do Less, Get More!](https://community.rapid7.com/community/metasploit/blog/2015/08/11/metasploit-local-exploit-suggester-do-less-get-more) - Rapid7
@@ -59,7 +59,7 @@ A set of resources that can be used for penetration testing
 * [Linux privilege escalation for fun profit and all around mischief](https://www.youtube.com/watch?v=dk2wsyFiosg) - Jake Willi
 * [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623) - Rebootuser
 
-### Post Exploitation
+## Post Exploitation
 
 * [Post Exploitation Wiki](https://github.com/mubix/post-exploitation-wiki) - Mubix
 * [Post Exploitation Collection](https://github.com/mubix/post-exploitation) - Mubix
@@ -72,19 +72,19 @@ A set of resources that can be used for penetration testing
 * [Living Off the Land a Minimalists Guide to Windows Post Exploitation](https://www.youtube.com/watch?v=j-r6UonEkUw) - Chris Campbell & Matt Graeber
 * [Offensive Lateral Movement](https://posts.specterops.io/offensive-lateral-movement-1744ae62b14f) - SpecterOps (Ryan Hausknecht)
 
-### Penetration Testing Frameworks
+## Penetration Testing Frameworks
 
 * [Penetration Testing Execution Standard](http://www.pentest-standard.org/index.php/Main_Page) - All contributors listed on site in FAQ
 * [ATT&CK](https://attack.mitre.org/wiki/Main_Page) - Mitre
 
-### Penetration Testing Reporting
+## Penetration Testing Reporting
 
 * [PTES reporting](http://www.pentest-standard.org/index.php/Reporting) - Penetration Test Execution Standard
 * [Sample Penetration Testing Report](https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf)  -  Offensive Security
 * [Writing a Penetration Testing Report](https://www.sans.org/reading-room/whitepapers/bestprac/writing-penetration-testing-report-33343) - SANS
 * [How to Improve your Pentest Reports](https://www.blackhillsinfosec.com/your-reporting-matters-how-to-improve-pen-test-reporting/) - Black Hills Information Security (Brian B. King)
 
-### Red Teaming
+## Red Teaming
 
 * [Dirty Red Team Tricks](https://www.youtube.com/watch?v=oclbbqvawQg) - Raphael Mudge and Rob Fuller
 * [Dirty Red Team Tricks 2.0](https://www.youtube.com/watch?v=6kKoJW5xvhg) - Raphael Mudge
@@ -95,11 +95,11 @@ A set of resources that can be used for penetration testing
 * [Tradecraft Security Weekly](https://wiki.securityweekly.com/Tradecraft_Security_Weekly) - Security Weekly
 * [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) - bluescreenofjeff
 
-### Fuzzing
+## Fuzzing
 
 * [Fuzzing workflows; a fuzz job from start to finish](https://foxglovesecurity.com/2016/03/15/fuzzing-workflows-a-fuzz-job-from-start-to-finish/) - Brandon Perry
 
-### Labs (hands on experience)
+## Labs (hands on experience)
 
 * [Hack The Box](https://www.hackthebox.eu/) - hackthebox
 * [Pentesterlab](https://pentesterlab.com/) - Pentesterlab team
