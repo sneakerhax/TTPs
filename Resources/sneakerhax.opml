@@ -8,10 +8,13 @@
         <outline text="Bug Hunters" title="Bug Hunters">
             <outline type="rss" text="Sam Curry" title="Sam Curry" xmlUrl="http://samcurry.net/feed/" htmlUrl="https://samcurry.net"/>
             <outline type="rss" text="Bug bounty write-ups" title="Bug bounty write-ups" xmlUrl="https://ysamm.com/?feed=rss2" htmlUrl="https://ysamm.com"/>
+            <outline type="rss" text="Stories by Inti De Ceukelaire on Medium" title="Stories by Inti De Ceukelaire on Medium" xmlUrl="https://medium.com/feed/@intideceukelaire" htmlUrl="https://medium.com/@intideceukelaire?source=rss-f9e27197ffb5------2"/>
             <outline type="rss" text="Mahmoud Gamal - Security Blogs" title="Mahmoud Gamal - Security Blogs" xmlUrl="http://mahmoudsec.blogspot.com/feeds/posts/default" htmlUrl="http://mahmoudsec.blogspot.com/"/>
             <outline type="rss" text="spaceraccoon.dev" title="spaceraccoon.dev" xmlUrl="https://spaceraccoon.dev/feed/" htmlUrl="https://spaceraccoon.dev/"/>
             <outline type="rss" text="Pentester Land" title="Pentester Land" xmlUrl="https://pentester.land/feed.xml" htmlUrl="https://pentester.land/"/>
+            <outline type="rss" text="Stories by d0nut on Medium" title="Stories by d0nut on Medium" xmlUrl="https://medium.com/feed/@d0nut" htmlUrl="https://medium.com/@d0nut?source=rss-3e0d2d8b6702------2"/>
             <outline type="rss" text="Honoki" title="Honoki" xmlUrl="https://honoki.net/feed/" htmlUrl="https://honoki.net"/>
+            <outline type="rss" text="Stories by Alex Birsan on Medium" title="Stories by Alex Birsan on Medium" xmlUrl="https://medium.com/feed/@alex.birsan" htmlUrl="https://medium.com/@alex.birsan?source=rss-7fa68cbc850e------2"/>
         </outline>
         <outline text="Malware Analysis" title="Malware Analysis">
             <outline type="rss" text="Malwarebytes Unpacked" title="Malwarebytes Unpacked" xmlUrl="http://blog.malwarebytes.org/feed/" htmlUrl="https://blog.malwarebytes.com"/>
@@ -21,7 +24,6 @@
         <outline text="Tools" title="Tools">
             <outline type="rss" text="Kubernetes – Production-Grade Container Orchestration" title="Kubernetes – Production-Grade Container Orchestration" xmlUrl="http://kubernetesio.blogspot.com/feeds/posts/default" htmlUrl="https://kubernetes.io/"/>
             <outline type="rss" text="Windows Command Line" title="Windows Command Line" xmlUrl="https://blogs.msdn.microsoft.com/commandline/feed/" htmlUrl="https://devblogs.microsoft.com/commandline"/>
-            <outline type="rss" text="Microsoft Developer Blogs - Feed" title="Microsoft Developer Blogs - Feed" xmlUrl="https://devblogs.microsoft.com/feed/landingpage" htmlUrl="https://devblogs.microsoft.com"/>
             <outline type="rss" text="Hak5 - Blog" title="Hak5 - Blog" xmlUrl="http://hakshop.myshopify.com/blogs/news.atom" htmlUrl="https://shop.hak5.org/blogs/news"/>
             <outline type="rss" text="Binary Ninja" title="Binary Ninja" xmlUrl="https://binary.ninja/feed.xml" htmlUrl="https://binary.ninja/"/>
             <outline type="rss" text="The GitHub Blog" title="The GitHub Blog" xmlUrl="https://github.com/blog/all.atom" htmlUrl="https://github.blog"/>
@@ -34,11 +36,6 @@
             <outline type="rss" text="PortSwigger Blog" title="PortSwigger Blog" xmlUrl="http://blog.portswigger.net/feeds/posts/default" htmlUrl="https://portswigger.net/blog"/>
             <outline type="rss" text="Nmap Hackers" title="Nmap Hackers" xmlUrl="http://seclists.org/rss/nmap-hackers.rss" htmlUrl="http://seclists.org/#nmap-announce"/>
         </outline>
-        <outline text="Coding" title="Coding">
-            <outline type="rss" text="Python Bytes" title="Python Bytes" xmlUrl="https://pythonbytes.fm/episodes/rss" htmlUrl="https://pythonbytes.fm/"/>
-            <outline type="rss" text="Talk Python To Me" title="Talk Python To Me" xmlUrl="https://talkpython.fm/episodes/rss" htmlUrl="https://talkpython.fm/"/>
-            <outline type="rss" text="Real Python" title="Real Python" xmlUrl="https://realpython.com/atom.xml" htmlUrl="https://realpython.com/"/>
-        </outline>
         <outline text="Exploit + Vulnerabiltiy" title="Exploit + Vulnerabiltiy">
             <outline type="rss" text="Exploit-DB updates" title="Exploit-DB updates" xmlUrl="http://www.exploit-db.com/rss.php" htmlUrl="https://www.exploit-db.com"/>
             <outline type="rss" text="Full Disclosure" title="Full Disclosure" xmlUrl="http://seclists.org/rss/fulldisclosure.rss" htmlUrl="http://seclists.org/#fulldisclosure"/>
@@ -49,6 +46,8 @@
         </outline>
         <outline text="Red Team" title="Red Team">
             <outline type="rss" text="Rapid7 Blog" title="Rapid7 Blog" xmlUrl="https://blog.rapid7.com/rss/" htmlUrl="https://blog.rapid7.com/"/>
+            <outline type="rss" text="| bohops |" title="| bohops |" xmlUrl="https://bohops.com/feed/" htmlUrl="https://bohops.com"/>
+            <outline type="rss" text="Adapt and Attack" title="Adapt and Attack" xmlUrl="https://adapt-and-attack.com/feed/" htmlUrl="https://adapt-and-attack.com"/>
             <outline type="rss" text="FoxGlove Security" title="FoxGlove Security" xmlUrl="http://foxglovesecurity.com/feed/" htmlUrl="https://foxglovesecurity.com"/>
             <outline type="rss" text="XPN InfoSec Blog" title="XPN InfoSec Blog" xmlUrl="https://blog.xpnsec.com/rss/" htmlUrl="https://blog.xpnsec.com/"/>
             <outline type="rss" text="Offensive Security" title="Offensive Security" xmlUrl="http://www.offensive-security.com/feed/" htmlUrl="https://www.offensive-security.com"/>
