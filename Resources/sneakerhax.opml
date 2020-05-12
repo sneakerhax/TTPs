@@ -19,6 +19,7 @@
         <outline text="Malware Analysis" title="Malware Analysis">
             <outline type="rss" text="Malwarebytes Unpacked" title="Malwarebytes Unpacked" xmlUrl="http://blog.malwarebytes.org/feed/" htmlUrl="https://blog.malwarebytes.com"/>
             <outline type="rss" text="Fire Eye Threat Research " title="Fire Eye Threat Research " xmlUrl="http://www.fireeye.com/blog/feed" htmlUrl="http://www.fireeye.com/blog/threat-research.html"/>
+            <outline type="rss" text="OALabs" title="OALabs" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC--DwaiMV-jtO-6EvmKOnqg" htmlUrl="https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg"/>
             <outline type="rss" text="Malware Analysis – Cisco Blogs" title="Malware Analysis – Cisco Blogs" xmlUrl="https://blogs.cisco.com/tag/malware-analysis/feed" htmlUrl="https://blogs.cisco.com"/>
             <outline type="rss" text="MDNC | Malware don’t need Coffee" title="MDNC | Malware don’t need Coffee" xmlUrl="https://malware.dontneedcoffee.com/feed.xml" htmlUrl="http://malware.dontneedcoffee.com/"/>
             <outline type="rss" text="Didier Stevens" title="Didier Stevens" xmlUrl="http://blog.didierstevens.com/feed/" htmlUrl="https://blog.didierstevens.com"/>
@@ -53,6 +54,7 @@
             <outline type="rss" text="Adapt and Attack" title="Adapt and Attack" xmlUrl="https://adapt-and-attack.com/feed/" htmlUrl="https://adapt-and-attack.com"/>
             <outline type="rss" text="FoxGlove Security" title="FoxGlove Security" xmlUrl="http://foxglovesecurity.com/feed/" htmlUrl="https://foxglovesecurity.com"/>
             <outline type="rss" text="XPN InfoSec Blog" title="XPN InfoSec Blog" xmlUrl="https://blog.xpnsec.com/rss/" htmlUrl="https://blog.xpnsec.com/"/>
+            <outline type="rss" text="Hak5 (uploads) on YouTube" title="Hak5 (uploads) on YouTube" xmlUrl="http://gdata.youtube.com/feeds/base/users/Hak5Darren/uploads?alt=rss&amp;v=2&amp;orderby=published&amp;client=ytapi-youtube-profile" htmlUrl="https://youtube.com/playlist?list=UU3s0BtrBJpwNDaflRSoiieQ"/>
             <outline type="rss" text="Offensive Security" title="Offensive Security" xmlUrl="http://www.offensive-security.com/feed/" htmlUrl="https://www.offensive-security.com"/>
             <outline type="rss" text="Stories by Steve Borosh on Medium" title="Stories by Steve Borosh on Medium" xmlUrl="https://medium.com/feed/@rvrsh3ll" htmlUrl="https://medium.com/@rvrsh3ll?source=rss-ee138d3dc52f------2"/>
             <outline type="rss" text="Active Directory Security" title="Active Directory Security" xmlUrl="http://adsecurity.org/?feed=rss2" htmlUrl="https://adsecurity.org"/>
