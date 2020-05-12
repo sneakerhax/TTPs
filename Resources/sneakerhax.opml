@@ -19,6 +19,9 @@
         <outline text="Malware Analysis" title="Malware Analysis">
             <outline type="rss" text="Malwarebytes Unpacked" title="Malwarebytes Unpacked" xmlUrl="http://blog.malwarebytes.org/feed/" htmlUrl="https://blog.malwarebytes.com"/>
             <outline type="rss" text="Fire Eye Threat Research " title="Fire Eye Threat Research " xmlUrl="http://www.fireeye.com/blog/feed" htmlUrl="http://www.fireeye.com/blog/threat-research.html"/>
+            <outline type="rss" text="Malware Analysis – Cisco Blogs" title="Malware Analysis – Cisco Blogs" xmlUrl="https://blogs.cisco.com/tag/malware-analysis/feed" htmlUrl="https://blogs.cisco.com"/>
+            <outline type="rss" text="MDNC | Malware don’t need Coffee" title="MDNC | Malware don’t need Coffee" xmlUrl="https://malware.dontneedcoffee.com/feed.xml" htmlUrl="http://malware.dontneedcoffee.com/"/>
+            <outline type="rss" text="Didier Stevens" title="Didier Stevens" xmlUrl="http://blog.didierstevens.com/feed/" htmlUrl="https://blog.didierstevens.com"/>
             <outline type="rss" text="Malware-Traffic-Analysis.net - Blog Entries" title="Malware-Traffic-Analysis.net - Blog Entries" xmlUrl="http://www.malware-traffic-analysis.net/blog-entries.rss" htmlUrl="https://www.malware-traffic-analysis.net/index.html"/>
         </outline>
         <outline text="Tools" title="Tools">
