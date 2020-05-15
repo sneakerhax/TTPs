@@ -5,18 +5,6 @@
         <title>sneakerhax subscriptions in feedly Cloud</title>
     </head>
     <body>
-        <outline text="Bug Hunters" title="Bug Hunters">
-            <outline type="rss" text="Sam Curry" title="Sam Curry" xmlUrl="http://samcurry.net/feed/" htmlUrl="https://samcurry.net"/>
-            <outline type="rss" text="Bug bounty write-ups" title="Bug bounty write-ups" xmlUrl="https://ysamm.com/?feed=rss2" htmlUrl="https://ysamm.com"/>
-            <outline type="rss" text="Brett Buerhaus" title="Brett Buerhaus" xmlUrl="http://buer.haus/feed/" htmlUrl="https://buer.haus"/>
-            <outline type="rss" text="Stories by Inti De Ceukelaire on Medium" title="Stories by Inti De Ceukelaire on Medium" xmlUrl="https://medium.com/feed/@intideceukelaire" htmlUrl="https://medium.com/@intideceukelaire?source=rss-f9e27197ffb5------2"/>
-            <outline type="rss" text="Mahmoud Gamal - Security Blogs" title="Mahmoud Gamal - Security Blogs" xmlUrl="http://mahmoudsec.blogspot.com/feeds/posts/default" htmlUrl="http://mahmoudsec.blogspot.com/"/>
-            <outline type="rss" text="spaceraccoon.dev" title="spaceraccoon.dev" xmlUrl="https://spaceraccoon.dev/feed/" htmlUrl="https://spaceraccoon.dev/"/>
-            <outline type="rss" text="Pentester Land" title="Pentester Land" xmlUrl="https://pentester.land/feed.xml" htmlUrl="https://pentester.land/"/>
-            <outline type="rss" text="Stories by d0nut on Medium" title="Stories by d0nut on Medium" xmlUrl="https://medium.com/feed/@d0nut" htmlUrl="https://medium.com/@d0nut?source=rss-3e0d2d8b6702------2"/>
-            <outline type="rss" text="Honoki" title="Honoki" xmlUrl="https://honoki.net/feed/" htmlUrl="https://honoki.net"/>
-            <outline type="rss" text="Stories by Alex Birsan on Medium" title="Stories by Alex Birsan on Medium" xmlUrl="https://medium.com/feed/@alex.birsan" htmlUrl="https://medium.com/@alex.birsan?source=rss-7fa68cbc850e------2"/>
-        </outline>
         <outline text="Malware Analysis" title="Malware Analysis">
             <outline type="rss" text="Malwarebytes Unpacked" title="Malwarebytes Unpacked" xmlUrl="http://blog.malwarebytes.org/feed/" htmlUrl="https://blog.malwarebytes.com"/>
             <outline type="rss" text="Colin Hardy" title="Colin Hardy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCND1KVdVt8A580SjdaS4cZg" htmlUrl="https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg"/>
@@ -83,11 +71,6 @@
             <outline type="rss" text="Synacktiv" title="Synacktiv" xmlUrl="http://www.synacktiv.com/feeds/all.atom.xml" htmlUrl="https://www.synacktiv.com/"/>
             <outline type="rss" text="Corelan Team" title="Corelan Team" xmlUrl="https://www.corelan.be/index.php/feed/" htmlUrl="https://www.corelan.be"/>
             <outline type="rss" text="Posts on malicious.link" title="Posts on malicious.link" xmlUrl="https://room362.com/index.xml" htmlUrl="https://malicious.link/post/"/>
-        </outline>
-        <outline text="Bug Bounty" title="Bug Bounty">
-            <outline type="rss" text="Bugcrowd" title="Bugcrowd" xmlUrl="https://www.bugcrowd.com/feed/" htmlUrl="https://www.bugcrowd.com"/>
-            <outline type="rss" text="Hacktivity" title="Hacktivity" xmlUrl="http://rss.ricterz.me/hacktivity" htmlUrl="https://hackerone.com/hacktivity"/>
-            <outline type="rss" text="HackerOne" title="HackerOne" xmlUrl="https://hackerone.com/news.rss" htmlUrl="https://www.hackerone.com/blog.rss"/>
         </outline>
     </body>
 </opml>
