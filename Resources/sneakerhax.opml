@@ -21,7 +21,6 @@
             <outline type="rss" text="Kubernetes – Production-Grade Container Orchestration" title="Kubernetes – Production-Grade Container Orchestration" xmlUrl="http://kubernetesio.blogspot.com/feeds/posts/default" htmlUrl="https://kubernetes.io/"/>
             <outline type="rss" text="Windows Command Line" title="Windows Command Line" xmlUrl="https://blogs.msdn.microsoft.com/commandline/feed/" htmlUrl="https://devblogs.microsoft.com/commandline"/>
             <outline type="rss" text="Kali Linux" title="Kali Linux" xmlUrl="https://www.kali.org/feed/" htmlUrl="https://www.kali.org"/>
-            <outline type="rss" text="Offensive Security" title="Offensive Security" xmlUrl="http://www.offensive-security.com/feed/" htmlUrl="https://www.offensive-security.com"/>
             <outline type="rss" text="Visual Studio Code - Code Editing. Redefined." title="Visual Studio Code - Code Editing. Redefined." xmlUrl="https://code.visualstudio.com/feed.xml" htmlUrl="https://code.visualstudio.com/"/>
             <outline type="rss" text="Sublime Blog" title="Sublime Blog" xmlUrl="http://www.sublimetext.com/blog/feed" htmlUrl="http://www.sublimetext.com/blog"/>
             <outline type="rss" text="Wireshark-announce mailing list" title="Wireshark-announce mailing list" xmlUrl="http://www.wireshark.org/lists/wireshark-announce.rss" htmlUrl="https://www.wireshark.org/lists/"/>
