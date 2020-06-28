@@ -17,8 +17,9 @@ A set of resources that can be used for penetration testing
 * [Metasploit Minute](http://hak5.org/category/episodes/metasploit-minute) - Mubix
 * [Metasploit Framework Expert](http://www.securitytube.net/groups?operation=view&groupId=10) - Securitytube
 * [Intro to Metasploit](https://www.youtube.com/watch?t=20&v=adSQyRPpiBw) - Securideas
+* [Metasploit Wiki](https://github.com/rapid7/metasploit-framework/wiki) - Rapid7
 * [How to get started with writing an auxiliary module](https://github.com/rapid7/metasploit-framework/wiki/How-to-get-started-with-writing-an-auxiliary-module) - Rapid7
-* [How to get started with writing an exploit](https://github.com/rapid7/metasploit-framework/wiki/How-to-get-started-with-writing-an-exploit) - Rapid7
+* [Get started with writing an exploit](https://github.com/rapid7/metasploit-framework/wiki/Get-Started-Writing-an-Exploit) - Rapid7
 * [How to get started with writing a post module](https://github.com/rapid7/metasploit-framework/wiki/How-to-get-started-with-writing-a-post-module) - Rapid7
 * [Metasploit Framework Ruby docs](http://www.rubydoc.info/github/rapid7/metasploit-framework) - Rapid7
 
