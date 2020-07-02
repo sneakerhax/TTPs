@@ -20,6 +20,6 @@ Lookup hostname with Powershell
 
 Resolve all ipv4 addresses for website [Reference](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/still-scanning-ip-addresses-you-re-doing-it-wrong/)
 
-```nmap --resolve-all -sL -6 <site)```
+```nmap --resolve-all -sL -6 <site>```
 
 Resolve all ipv6 addresses for a website [Reference](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/still-scanning-ip-addresses-you-re-doing-it-wrong/)
