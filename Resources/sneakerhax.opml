@@ -5,19 +5,6 @@
         <title>sneakerhax subscriptions in feedly Cloud</title>
     </head>
     <body>
-        <outline text="Malware Analysis" title="Malware Analysis">
-            <outline type="rss" text="Malware Must Die!" title="Malware Must Die!" xmlUrl="http://malwaremustdie.blogspot.com/feeds/posts/default" htmlUrl="https://blog.malwaremustdie.org/"/>
-            <outline type="rss" text="Malwarebytes Unpacked" title="Malwarebytes Unpacked" xmlUrl="http://blog.malwarebytes.org/feed/" htmlUrl="https://blog.malwarebytes.com"/>
-            <outline type="rss" text="SentinelLabs" title="SentinelLabs" xmlUrl="https://labs.sentinelone.com/feed/" htmlUrl="https://labs.sentinelone.com"/>
-            <outline type="rss" text="Colin Hardy" title="Colin Hardy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCND1KVdVt8A580SjdaS4cZg" htmlUrl="https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg"/>
-            <outline type="rss" text="Fire Eye Threat Research " title="Fire Eye Threat Research " xmlUrl="http://www.fireeye.com/blog/feed" htmlUrl="http://www.fireeye.com/blog/threat-research.html"/>
-            <outline type="rss" text="OALabs" title="OALabs" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC--DwaiMV-jtO-6EvmKOnqg" htmlUrl="https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg"/>
-            <outline type="rss" text="Malware Analysis – Cisco Blogs" title="Malware Analysis – Cisco Blogs" xmlUrl="https://blogs.cisco.com/tag/malware-analysis/feed" htmlUrl="https://blogs.cisco.com"/>
-            <outline type="rss" text="MDNC | Malware don’t need Coffee" title="MDNC | Malware don’t need Coffee" xmlUrl="https://malware.dontneedcoffee.com/feed.xml" htmlUrl="http://malware.dontneedcoffee.com/"/>
-            <outline type="rss" text="Didier Stevens" title="Didier Stevens" xmlUrl="http://blog.didierstevens.com/feed/" htmlUrl="https://blog.didierstevens.com"/>
-            <outline type="rss" text="MalwareTech" title="MalwareTech" xmlUrl="http://touchmymalware.blogspot.com/feeds/posts/default" htmlUrl="https://www.malwaretech.com"/>
-            <outline type="rss" text="Malware-Traffic-Analysis.net - Blog Entries" title="Malware-Traffic-Analysis.net - Blog Entries" xmlUrl="http://www.malware-traffic-analysis.net/blog-entries.rss" htmlUrl="https://www.malware-traffic-analysis.net/index.html"/>
-        </outline>
         <outline text="Tools" title="Tools">
             <outline type="rss" text="The GitHub Blog" title="The GitHub Blog" xmlUrl="https://github.com/blog/all.atom" htmlUrl="https://github.blog"/>
             <outline type="rss" text="Docker Blog" title="Docker Blog" xmlUrl="http://blog.docker.io/feed/" htmlUrl="https://www.docker.com/blog"/>
@@ -27,11 +14,11 @@
             <outline type="rss" text="Visual Studio Code - Code Editing. Redefined." title="Visual Studio Code - Code Editing. Redefined." xmlUrl="https://code.visualstudio.com/feed.xml" htmlUrl="https://code.visualstudio.com/"/>
             <outline type="rss" text="PortSwigger Blog" title="PortSwigger Blog" xmlUrl="http://blog.portswigger.net/feeds/posts/default" htmlUrl="https://portswigger.net/blog"/>
             <outline type="rss" text="Nmap Hackers" title="Nmap Hackers" xmlUrl="http://seclists.org/rss/nmap-hackers.rss" htmlUrl="http://seclists.org/#nmap-announce"/>
+            <outline type="rss" text="Metasploit - Rapid7 Blog" title="Metasploit - Rapid7 Blog" xmlUrl="https://blog.rapid7.com/tag/metasploit/rss/" htmlUrl="https://blog.rapid7.com/"/>
         </outline>
         <outline text="Exploit + Vulnerability" title="Exploit + Vulnerability">
             <outline type="rss" text="Exploit-DB updates" title="Exploit-DB updates" xmlUrl="http://www.exploit-db.com/rss.php" htmlUrl="https://www.exploit-db.com"/>
             <outline type="rss" text="Full Disclosure" title="Full Disclosure" xmlUrl="http://seclists.org/rss/fulldisclosure.rss" htmlUrl="http://seclists.org/#fulldisclosure"/>
-            <outline type="rss" text="SANS Internet Storm Center, InfoCON: green" title="SANS Internet Storm Center, InfoCON: green" xmlUrl="http://iscxml.sans.org/rssfeed.xml" htmlUrl="https://isc.sans.edu"/>
             <outline type="rss" text="Project Zero" title="Project Zero" xmlUrl="http://googleprojectzero.blogspot.com/feeds/posts/default" htmlUrl="https://googleprojectzero.blogspot.com/"/>
             <outline type="rss" text="Tenable Network Security Blog" title="Tenable Network Security Blog" xmlUrl="http://blog.tenablesecurity.com/atom.xml" htmlUrl="https://www.tenable.com/blog-rss"/>
             <outline type="rss" text="Bugtraq" title="Bugtraq" xmlUrl="http://seclists.org/rss/bugtraq.rss" htmlUrl="http://seclists.org/#bugtraq"/>
@@ -53,19 +40,15 @@
             <outline type="rss" text="Active Directory Security" title="Active Directory Security" xmlUrl="http://adsecurity.org/?feed=rss2" htmlUrl="https://adsecurity.org"/>
             <outline type="rss" text="PortSwigger Research" title="PortSwigger Research" xmlUrl="https://portswigger.net/research/rss" htmlUrl="https://portswigger.net/research"/>
             <outline type="rss" text="Black Hills Information Security" title="Black Hills Information Security" xmlUrl="http://www.blackhillsinfosec.com/?feed=rss2" htmlUrl="https://www.blackhillsinfosec.com"/>
-            <outline type="rss" text="Hak5" title="Hak5" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3s0BtrBJpwNDaflRSoiieQ" htmlUrl="https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ"/>
             <outline type="rss" text="Raphael Mudge" title="Raphael Mudge" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJU2r634VNPeCRug7Y7qdcw" htmlUrl="https://www.youtube.com/channel/UCJU2r634VNPeCRug7Y7qdcw"/>
             <outline type="rss" text="enigma0x3" title="enigma0x3" xmlUrl="http://enigma0x3.wordpress.com/feed/" htmlUrl="https://enigma0x3.net"/>
-            <outline type="rss" text="Metasploit - Rapid7 Blog" title="Metasploit - Rapid7 Blog" xmlUrl="https://blog.rapid7.com/tag/metasploit/rss/" htmlUrl="https://blog.rapid7.com/"/>
             <outline type="rss" text="NCC Group Research" title="NCC Group Research" xmlUrl="https://research.nccgroup.com/feed/" htmlUrl="https://research.nccgroup.com"/>
             <outline type="rss" text="Jumpsec Labs" title="Jumpsec Labs" xmlUrl="http://labs.jumpsec.com/feed/" htmlUrl="https://labs.jumpsec.com"/>
             <outline type="rss" text="Strategic Cyber LLC" title="Strategic Cyber LLC" xmlUrl="http://blog.strategiccyber.com/feed/" htmlUrl="https://blog.cobaltstrike.com"/>
             <outline type="rss" text="Silent Break Security" title="Silent Break Security" xmlUrl="http://silentbreaksecurity.com/feed/" htmlUrl="https://silentbreaksecurity.com"/>
-            <outline type="rss" text="LiveOverflow" title="LiveOverflow" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClcE-kVhqyiHCcjYwcpfj9w" htmlUrl="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w"/>
             <outline type="rss" text="FortyNorth Security Blog" title="FortyNorth Security Blog" xmlUrl="https://fortynorthsecurity.com/blog/rss/" htmlUrl="https://fortynorthsecurity.com/blog/"/>
             <outline type="rss" text="Yet Another Security Blog" title="Yet Another Security Blog" xmlUrl="https://malware.pizza/feed/" htmlUrl="https://malware.pizza"/>
             <outline type="rss" text="Exploit Monday" title="Exploit Monday" xmlUrl="http://www.exploit-monday.com/feeds/posts/default" htmlUrl="http://www.exploit-monday.com/"/>
-            <outline type="rss" text="MDSec" title="MDSec" xmlUrl="https://www.mdsec.co.uk/feed/" htmlUrl="https://www.mdsec.co.uk"/>
             <outline type="rss" text="root@Hausec" title="root@Hausec" xmlUrl="https://hausec.com/feed/" htmlUrl="https://hausec.com"/>
             <outline type="rss" text="DigiNinja" title="DigiNinja" xmlUrl="http://www.digininja.org/rss.xml" htmlUrl="https://digi.ninja/rss.xml"/>
             <outline type="rss" text="SpiderLabs Blog from Trustwave" title="SpiderLabs Blog from Trustwave" xmlUrl="https://www.trustwave.com/en-us/rss/spiderlabs-blog/" htmlUrl="https://www.trustwave.com/en-us/"/>
