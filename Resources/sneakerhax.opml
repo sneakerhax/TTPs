@@ -13,7 +13,6 @@
             <outline type="rss" text="Microsoft Azure Blog" title="Microsoft Azure Blog" xmlUrl="http://azure.microsoft.com/blog/feed/" htmlUrl="https://azure.microsoft.com/blog/"/>
             <outline type="rss" text="Visual Studio Code - Code Editing. Redefined." title="Visual Studio Code - Code Editing. Redefined." xmlUrl="https://code.visualstudio.com/feed.xml" htmlUrl="https://code.visualstudio.com/"/>
             <outline type="rss" text="PortSwigger Blog" title="PortSwigger Blog" xmlUrl="http://blog.portswigger.net/feeds/posts/default" htmlUrl="https://portswigger.net/blog"/>
-            <outline type="rss" text="Nmap Hackers" title="Nmap Hackers" xmlUrl="http://seclists.org/rss/nmap-hackers.rss" htmlUrl="http://seclists.org/#nmap-announce"/>
             <outline type="rss" text="Metasploit - Rapid7 Blog" title="Metasploit - Rapid7 Blog" xmlUrl="https://blog.rapid7.com/tag/metasploit/rss/" htmlUrl="https://blog.rapid7.com/"/>
         </outline>
         <outline text="Exploit + Vulnerability" title="Exploit + Vulnerability">
@@ -21,7 +20,6 @@
             <outline type="rss" text="Full Disclosure" title="Full Disclosure" xmlUrl="http://seclists.org/rss/fulldisclosure.rss" htmlUrl="http://seclists.org/#fulldisclosure"/>
             <outline type="rss" text="Project Zero" title="Project Zero" xmlUrl="http://googleprojectzero.blogspot.com/feeds/posts/default" htmlUrl="https://googleprojectzero.blogspot.com/"/>
             <outline type="rss" text="Tenable Network Security Blog" title="Tenable Network Security Blog" xmlUrl="http://blog.tenablesecurity.com/atom.xml" htmlUrl="https://www.tenable.com/blog-rss"/>
-            <outline type="rss" text="Bugtraq" title="Bugtraq" xmlUrl="http://seclists.org/rss/bugtraq.rss" htmlUrl="http://seclists.org/#bugtraq"/>
         </outline>
         <outline text="Red Team" title="Red Team">
             <outline type="rss" text="TrustedSec" title="TrustedSec" xmlUrl="https://www.trustedsec.com/feed/" htmlUrl="https://www.trustedsec.com"/>
@@ -65,6 +63,9 @@
             <outline type="rss" text="The Wover" title="The Wover" xmlUrl="https://thewover.github.io/feed.xml" htmlUrl="https://thewover.github.io/"/>
             <outline type="rss" text="Corelan Team" title="Corelan Team" xmlUrl="https://www.corelan.be/index.php/feed/" htmlUrl="https://www.corelan.be"/>
             <outline type="rss" text="Posts on malicious.link" title="Posts on malicious.link" xmlUrl="https://room362.com/index.xml" htmlUrl="https://malicious.link/post/"/>
+        </outline>
+        <outline text="Twitter" title="Twitter">
+            <outline type="rss" text="@redteamhub Tweets" title="@redteamhub Tweets" xmlUrl="https://twitter.com/timeline/redteamhub/e6524bca-db88-412f-9fd1-408fa678a35a" htmlUrl="https://twitter.com/redteamhub"/>
         </outline>
     </body>
 </opml>
