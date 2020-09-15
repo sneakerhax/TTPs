@@ -11,7 +11,7 @@
 
 ```raspi-config```
 
-Run raspi-config then choose **Localisation Options** > **Change Locale** (en_US.UTF-8)
+Run raspi-config then choose **Localisation Options** > **Change Locale** (en_US.UTF-8) (Optional)
 
 Run raspi-config then choose **Localisation Options** > **Change Keyboard Layout** 
 * Choose Generic 101-key PC > English (US)
