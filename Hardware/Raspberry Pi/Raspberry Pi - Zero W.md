@@ -4,7 +4,8 @@
 * Start the imaging tool
 * Plug in micro SD card (USB or SD Adapter)
 * Choose OS (Raspian OS lite command line only)
-* Click Write
+* Click Write (Wait for writing and verification to complete)
+* Insert micro SD into Raspberry Pi Zero W and plugin power to boot
 
 ### Setting up keyboard
 
