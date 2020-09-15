@@ -16,7 +16,7 @@ Run raspi-config then choose localisation options
 
 ```wpa_passphrase <SSID> >> /etc/wpa_supplicant/wpa_supplicant.conf```
 
-Type the password into the blank prompt. Open the wpa_supplicant.conf and delte the plaintext password
+Type the password into the blank prompt. Open the wpa_supplicant.conf and delete the plaintext password
 
 ```wpa_cli -i wlan0 reconfigure```
 
