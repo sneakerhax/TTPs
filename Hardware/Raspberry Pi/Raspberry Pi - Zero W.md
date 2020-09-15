@@ -1,7 +1,7 @@
 # Raspberry Pi - Zero W
 
 ### Imaging
-* Start the imaging tool
+* Start the imaging tool (Raspberry Pi Imager)
 * Plug in micro SD card (USB or SD Adapter)
 * Choose OS (Raspian OS lite command line only)
 * Click Write (Wait for writing and verification to complete)
