@@ -1,4 +1,4 @@
-# Raspberry Pi Zero W
+# Raspberry Pi - Zero W
 
 ### Imaging
 * Start the imaging tool
