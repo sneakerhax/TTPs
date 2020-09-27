@@ -8,11 +8,9 @@
         <outline text="Tools" title="Tools">
             <outline type="rss" text="The GitHub Blog" title="The GitHub Blog" xmlUrl="https://github.com/blog/all.atom" htmlUrl="https://github.blog"/>
             <outline type="rss" text="Docker Blog" title="Docker Blog" xmlUrl="http://blog.docker.io/feed/" htmlUrl="https://www.docker.com/blog"/>
-            <outline type="rss" text="Kubernetes – Production-Grade Container Orchestration" title="Kubernetes – Production-Grade Container Orchestration" xmlUrl="http://kubernetesio.blogspot.com/feeds/posts/default" htmlUrl="https://kubernetes.io/"/>
             <outline type="rss" text="Kali Linux" title="Kali Linux" xmlUrl="https://www.kali.org/feed/" htmlUrl="https://www.kali.org"/>
             <outline type="rss" text="Microsoft Azure Blog" title="Microsoft Azure Blog" xmlUrl="http://azure.microsoft.com/blog/feed/" htmlUrl="https://azure.microsoft.com/blog/"/>
             <outline type="rss" text="Visual Studio Code - Code Editing. Redefined." title="Visual Studio Code - Code Editing. Redefined." xmlUrl="https://code.visualstudio.com/feed.xml" htmlUrl="https://code.visualstudio.com/"/>
-            <outline type="rss" text="PortSwigger Blog" title="PortSwigger Blog" xmlUrl="http://blog.portswigger.net/feeds/posts/default" htmlUrl="https://portswigger.net/blog"/>
             <outline type="rss" text="Metasploit - Rapid7 Blog" title="Metasploit - Rapid7 Blog" xmlUrl="https://blog.rapid7.com/tag/metasploit/rss/" htmlUrl="https://blog.rapid7.com/"/>
         </outline>
         <outline text="Exploit + Vulnerability" title="Exploit + Vulnerability">
@@ -36,7 +34,6 @@
             <outline type="rss" text="Offensive Security" title="Offensive Security" xmlUrl="http://www.offensive-security.com/feed/" htmlUrl="https://www.offensive-security.com"/>
             <outline type="rss" text="Stories by Steve Borosh on Medium" title="Stories by Steve Borosh on Medium" xmlUrl="https://medium.com/feed/@rvrsh3ll" htmlUrl="https://medium.com/@rvrsh3ll?source=rss-ee138d3dc52f------2"/>
             <outline type="rss" text="Active Directory Security" title="Active Directory Security" xmlUrl="http://adsecurity.org/?feed=rss2" htmlUrl="https://adsecurity.org"/>
-            <outline type="rss" text="PortSwigger Research" title="PortSwigger Research" xmlUrl="https://portswigger.net/research/rss" htmlUrl="https://portswigger.net/research"/>
             <outline type="rss" text="Black Hills Information Security" title="Black Hills Information Security" xmlUrl="http://www.blackhillsinfosec.com/?feed=rss2" htmlUrl="https://www.blackhillsinfosec.com"/>
             <outline type="rss" text="Raphael Mudge" title="Raphael Mudge" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJU2r634VNPeCRug7Y7qdcw" htmlUrl="https://www.youtube.com/channel/UCJU2r634VNPeCRug7Y7qdcw"/>
             <outline type="rss" text="enigma0x3" title="enigma0x3" xmlUrl="http://enigma0x3.wordpress.com/feed/" htmlUrl="https://enigma0x3.net"/>
@@ -46,6 +43,7 @@
             <outline type="rss" text="Silent Break Security" title="Silent Break Security" xmlUrl="http://silentbreaksecurity.com/feed/" htmlUrl="https://silentbreaksecurity.com"/>
             <outline type="rss" text="FortyNorth Security Blog" title="FortyNorth Security Blog" xmlUrl="https://fortynorthsecurity.com/blog/rss/" htmlUrl="https://fortynorthsecurity.com/blog/"/>
             <outline type="rss" text="Yet Another Security Blog" title="Yet Another Security Blog" xmlUrl="https://malware.pizza/feed/" htmlUrl="https://malware.pizza"/>
+            <outline type="rss" text="0xPat blog" title="0xPat blog" xmlUrl="https://0xpat.github.io/feed.xml" htmlUrl="https://0xpat.github.io/"/>
             <outline type="rss" text="Exploit Monday" title="Exploit Monday" xmlUrl="http://www.exploit-monday.com/feeds/posts/default" htmlUrl="http://www.exploit-monday.com/"/>
             <outline type="rss" text="root@Hausec" title="root@Hausec" xmlUrl="https://hausec.com/feed/" htmlUrl="https://hausec.com"/>
             <outline type="rss" text="DigiNinja" title="DigiNinja" xmlUrl="http://www.digininja.org/rss.xml" htmlUrl="https://digi.ninja/rss.xml"/>
