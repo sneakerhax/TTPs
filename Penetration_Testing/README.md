@@ -95,6 +95,7 @@ A set of resources that can be used for penetration testing
 * [Bridging the gap - Lesson in adversarial tradecraft](https://www.youtube.com/watch?v=xHkRhRo3l8o) - harmj0y & enigma0x3
 * [Tradecraft Security Weekly](https://wiki.securityweekly.com/Tradecraft_Security_Weekly) - Security Weekly
 * [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) - bluescreenofjeff
+* [Red Teaming Experiments](https://www.ired.team/) - spottheplanet
 
 ## Fuzzing
 
