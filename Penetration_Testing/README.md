@@ -90,6 +90,7 @@ A set of resources that can be used for penetration testing
 * [Dirty Red Team Tricks 2.0](https://www.youtube.com/watch?v=6kKoJW5xvhg) - Raphael Mudge
 * [Force Multipliers for Red Team Operations](https://www.youtube.com/watch?v=G-JaHWaLmgc) - Raphael Mudge
 * [Flying a Cylon Raider](https://www.youtube.com/watch?v=26PedM_-zRo) - Raphael Mudge
+* [In Memory Evasion (2018)](https://www.youtube.com/watch?v=lz2ARbZ_5tE&list=PL9HO6M_MU2nc5Q31qd2CwpZ8J4KFMhgnK&ab_channel=RaphaelMudge) - Raphael Mudge
 * [Red Teaming Back and Forth 5ever](https://www.youtube.com/watch?v=FTiBwFJQg64) - Fuzzynop
 * [Bridging the gap - Lesson in adversarial tradecraft](https://www.youtube.com/watch?v=xHkRhRo3l8o) - harmj0y & enigma0x3
 * [Tradecraft Security Weekly](https://wiki.securityweekly.com/Tradecraft_Security_Weekly) - Security Weekly
