@@ -9,6 +9,9 @@ A set of resources that can be used for penetration testing
 * [Nmap: Scaning the internet](https://www.youtube.com/watch?v=Hk-21p2m8YY) - Fyador Defcon 16
 * [Nmap Playlist](https://www.youtube.com/playlist?list=PLZOToVAK85MqWG76p5gUeMtTXSRthCuLr) - Webpwnized
 
+## Offensive Python
+
+* [Black Hat Python](https://nostarch.com/blackhatpython) - Justin Seitz
 
 ## Metasploit
 
@@ -41,10 +44,6 @@ A set of resources that can be used for penetration testing
 * [Burp Suite Tutorial – Web Application Penetration Testing (Part 2)](https://www.pentestgeek.com/web-applications/burp-suite-tutorial-web-application-penetration-testing-part-2/) - Pentest Geek
 * [Webpwnized](https://www.youtube.com/user/webpwnized) - Jeremy Druin
 * [Web PenTesting Workshop](http://www.irongeek.com/i.php?page=videos/web-pen-testing-workshop) - Jeremy Druin
-
-## Offensive Python
-
-* [Black Hat Python](https://nostarch.com/blackhatpython) - Justin Seitz
 
 ## Privilege Escalation
 
