@@ -12,9 +12,9 @@ A set of resources that can be used for penetration testing
 
 ## Metasploit
 
-* [Metasploit Blog](https://community.rapid7.com/community/metasploit/blog) - Rapid7
+* [Metasploit Blog](https://blog.rapid7.com/tag/metasploit/) - Rapid7
 * [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/) - Offensive Security
-* [Metasploit Minute](http://hak5.org/category/episodes/metasploit-minute) - Mubix
+* [Practical Exploitation](https://www.youtube.com/playlist?list=PLW5y1tjAOzI3n4KRN_ic8N8Qv_ss_dh_F) - Mubix
 * [Metasploit Framework Expert](http://www.securitytube.net/groups?operation=view&groupId=10) - Securitytube
 * [Intro to Metasploit](https://www.youtube.com/watch?t=20&v=adSQyRPpiBw) - Securideas
 * [Metasploit Wiki](https://github.com/rapid7/metasploit-framework/wiki) - Rapid7
@@ -28,6 +28,7 @@ A set of resources that can be used for penetration testing
 * [Red Team Operations with Cobalt Strike (2019)](https://www.youtube.com/watch?v=q7VQeK533zI&list=PL9HO6M_MU2nfQ4kHSCzAQMqxQxH47d1no) - Raphael Mudge
 * [Advanced Threat Tactics Course and Notes (2015)](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/) - Raphael Mudge
 * [Cobalt Strike Blog](http://blog.cobaltstrike.com/) - Raphael Mudge
+* [Cobalt Strike - Malleable C2](https://www.cobaltstrike.com/help-malleable-c2) - Raphael Mudge
 
 ## Web Application Penetration Testing
 
@@ -58,7 +59,6 @@ A set of resources that can be used for penetration testing
 * [GTFO bins](https://gtfobins.github.io/) - norbemi & cyrus_and
 * [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - g0tmi1k
 * [Linux privilege escalation for fun profit and all around mischief](https://www.youtube.com/watch?v=dk2wsyFiosg) - Jake Willi
-* [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623) - Rebootuser
 
 ## Post Exploitation
 
