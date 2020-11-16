@@ -97,9 +97,6 @@ A set of resources that can be used for penetration testing
 * [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) - bluescreenofjeff
 * [Red Teaming Experiments](https://www.ired.team/) - spottheplanet
 
-## Fuzzing
-
-* [Fuzzing workflows; a fuzz job from start to finish](https://foxglovesecurity.com/2016/03/15/fuzzing-workflows-a-fuzz-job-from-start-to-finish/) - Brandon Perry
 
 ## Labs (hands on experience)
 
