@@ -15,6 +15,7 @@
             <outline type="rss" text="PortSwigger Research" title="PortSwigger Research" xmlUrl="https://portswigger.net/research/rss" htmlUrl="https://portswigger.net/research"/>
             <outline type="rss" text="PortSwigger Blog" title="PortSwigger Blog" xmlUrl="http://blog.portswigger.net/feeds/posts/default" htmlUrl="https://portswigger.net/blog"/>
             <outline type="rss" text="Cloud Native Computing Foundation" title="Cloud Native Computing Foundation" xmlUrl="https://www.cncf.io/feed" htmlUrl="https://www.cncf.io"/>
+            <outline type="rss" text="The Go Programming Language Blog" title="The Go Programming Language Blog" xmlUrl="http://blog.golang.org/feeds/posts/default" htmlUrl="http://blog.golang.org/"/>
             <outline type="rss" text="Metasploit - Rapid7 Blog" title="Metasploit - Rapid7 Blog" xmlUrl="https://blog.rapid7.com/tag/metasploit/rss/" htmlUrl="https://blog.rapid7.com/"/>
         </outline>
         <outline text="Exploit + Vulnerability" title="Exploit + Vulnerability">
@@ -66,9 +67,6 @@
             <outline type="rss" text="The Wover" title="The Wover" xmlUrl="https://thewover.github.io/feed.xml" htmlUrl="https://thewover.github.io/"/>
             <outline type="rss" text="Corelan Cybersecurity Research" title="Corelan Cybersecurity Research" xmlUrl="https://www.corelan.be/index.php/feed/" htmlUrl="https://www.corelan.be"/>
             <outline type="rss" text="Posts on malicious.link" title="Posts on malicious.link" xmlUrl="https://room362.com/index.xml" htmlUrl="https://malicious.link/post/"/>
-        </outline>
-        <outline text="Twitter" title="Twitter">
-            <outline type="rss" text="@redteamhub Tweets" title="@redteamhub Tweets" xmlUrl="https://twitter.com/timeline/redteamhub/e6524bca-db88-412f-9fd1-408fa678a35a" htmlUrl="https://twitter.com/redteamhub"/>
         </outline>
     </body>
 </opml>
