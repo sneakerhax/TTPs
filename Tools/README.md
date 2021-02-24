@@ -1,3 +1,3 @@
 # Tools
 
-Command references, posts, and resources for installing and setting up Tools
+Entries about operating different tools
