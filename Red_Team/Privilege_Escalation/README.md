@@ -1,5 +1,5 @@
 # Privilege Escalation
 
-Entries about Initial Access
+Entries about Privilege Escalation
 
 Att&ck Mitre: https://attack.mitre.org/tactics/TA0004/
