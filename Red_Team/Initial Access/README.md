@@ -2,4 +2,4 @@
 
 Entries about Initial Access
 
-Att&ck Mitre: https://attack.mitre.org/tactics/TA0001/
+Mitre Att&ck: https://attack.mitre.org/tactics/TA0001/
