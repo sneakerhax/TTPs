@@ -1,3 +1,3 @@
 # Red Team
 
-Entries about Red Teaming TTPs (Mapped to [Att&ck Mitre](https://attack.mitre.org/))
+Entries about Red Teaming TTPs (Mapped to [Mitre Att&ck](https://attack.mitre.org/))
