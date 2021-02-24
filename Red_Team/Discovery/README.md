@@ -2,4 +2,4 @@
 
 Entries about Discovery
 
-Att&ck Mitre: https://attack.mitre.org/tactics/TA0007/
+Mitre Att&ck: https://attack.mitre.org/tactics/TA0007/
