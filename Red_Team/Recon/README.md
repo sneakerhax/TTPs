@@ -2,4 +2,4 @@
 
 Entries about Reconnaissance
 
-Att&ck Mitre: https://attack.mitre.org/tactics/TA0043/
+Mitre Att&ck: https://attack.mitre.org/tactics/TA0043/
