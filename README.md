@@ -6,8 +6,8 @@ Tactics, Techniques, and Procedures
 
 This repo contains entries that explain how to perform different tasks
 
-* **General** - Entries regarding general topics
-* **Red_Team** - Entries regarding Red Teaming TTPs (Mapped to Att&ck Mitre)
+* **General** - Entries about general topics
+* **Red_Team** - Entries about Red Teaming TTPs (Mapped to Att&ck Mitre)
 * **Resources** - Red Team Resources (Feedly export)
 * **Tools** - Entries about operating different tools
 
