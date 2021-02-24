@@ -1,6 +1,8 @@
-# Recon
+# Reconnaissance
 
-Command references, posts, and resources for Recon
+Entries about Reconnaissance
+
+Att&ck Mitre: https://attack.mitre.org/tactics/TA0043/
 
 ### Data/DNS/SSL/IP
 
