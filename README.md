@@ -2,6 +2,10 @@
 
 Tactics, Techniques, and Procedures
 
+## Entries
+
+This repo contains entries that explain how to perform different tasks
+
 * General - Entries regarding general topics
 * Red_Team - Entries regarding Red Teaming TTPs (Mapped to Att&ck Mitre)
 * Resources - Red Team Resources (Feedly export)
