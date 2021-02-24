@@ -2,4 +2,4 @@
 
 Entries about Privilege Escalation
 
-Att&ck Mitre: https://attack.mitre.org/tactics/TA0004/
+Mitre Att&ck: https://attack.mitre.org/tactics/TA0004/
