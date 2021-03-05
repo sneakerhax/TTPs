@@ -18,4 +18,4 @@ Close active pane
 
 ```CTRL + R```
 
-Search command history
+Search command history (To search next result type CTLR + R again)
