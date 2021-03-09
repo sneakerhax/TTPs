@@ -4,5 +4,5 @@
 
 Use self signed cert to connect
 
-**References:**
+## References
 * https://stackoverflow.com/questions/48908044/how-to-disable-ssl-verification-for-http-client-httpsconnection-class-in-python
