@@ -8,10 +8,10 @@ When opening Burp you can choose to start a new project. The projects contains t
 
 More information can be found [here](https://portswigger.net/burp/help/suite_burp_projects.html#projectfiles)
 
-### Project options
+## Project options
 
 You can choose to save project options separately
 
-### User options
+## User options
 
 You can choose to save user options separately
