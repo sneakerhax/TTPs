@@ -1,47 +1,91 @@
 # General - Github
 
-### Basic commands and terms
+## Github site
 
-Fork (performed by clicking fork on master project) - Forks copy of git repo to our account
+**Fork** (performed by clicking fork on main project) - Forks copy of git repo to our account
 
-git clone <fork> - Clones fork to our local system 
+## Git command line
 
-git status - Make sure local copy is clean and checks status
+```git clone <fork>```
+  
+  Clones fork to our local system 
 
-git add - Adds file to staging area
+```git status```
 
-git commit -m “comment” - commits changes (git commit -a -m “commit notes”) adds files and commits
+Make sure local copy is clean and checks status
 
-git log —status - Detailed information about commits
+```git add <file>```
 
-git remote add origin https://github.com/repo/git.git
+Adds file to staging area
 
-git push -u origin master - Pushes master branch to remote git repo and remember so you can just (git push)
+```git commit -m <comment>```
 
-git pull origin master - Pulls changes from remote repo
+commits changes (git commit -a -m “commit notes”) adds files and commits
 
-git diff HEAD - Diff for changes from origin master
+```git log —status```
 
-git reset <file> - Unstage file
+Detailed information about commits
 
-git checkout — <file> - Remove changes before last commit
+```git remote add origin https://github.com/repo/git.git```
 
-git branch <branch_name> - Create a new branch off your master branch
+Add origin to local repo
 
-git branch - See what branch your currently on
+```git push -u origin main```
 
-giit checkout <branch_name> - Switch branches to specified branch name
+Pushes master branch to remote git repo and remember so you can just (git push)
 
-git checkout -b <branch_name> - Create branch and move to it
+```git pull origin main```
 
-git rm ‘*.txt’ - Remove all text file
+Pulls changes from remote repo
 
-git rm -r <folder_name> - Remove folder
+```git diff HEAD```
 
-git merge <branch_name> - merge branch into master
+Diff for changes from origin master
 
-git branch -d <branch_name> - Cleanup/remove branch
+```git reset <file>```
 
-git push - Push changes to remote repo
+Unstage file
 
-git commit -a - Delete files that are no longer there while committing
+```git checkout — <file>```
+
+Remove changes before last commit
+
+```git branch <branch_name>```
+
+Create a new branch off your master branch
+
+```git branch```
+
+List current branch
+
+```git checkout <branch_name>```
+
+Switch branches to specified branch name
+
+```git checkout -b <branch_name>```
+
+Create branch and move to it
+
+```git rm ‘*.txt’```
+
+Remove all text file
+
+```git rm -r <folder_name>```
+
+Remove folder from tracking
+
+```git merge <branch_name>```
+
+merge branch into main
+
+```git branch -d <branch_name>```
+
+Cleanup/remove branch
+
+```git push```
+
+Push changes to remote repo
+
+```git commit -a```
+
+Delete files that are no longer there while committing
