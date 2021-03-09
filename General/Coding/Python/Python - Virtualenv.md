@@ -8,5 +8,5 @@ Creating a new environment
 
 Activate env
 
-**References:**
+## References
 * https://hackercodex.com/guide/python-development-environment-on-mac-osx/
