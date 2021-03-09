@@ -8,6 +8,6 @@ Use linker flags to strip debugging information
 
 Pack the binary with UPX
 
-## Resources:
+## References
 * https://blog.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick/
 * https://formulae.brew.sh/formula/upx
