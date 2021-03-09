@@ -1,5 +1,11 @@
 # Reducing the size Golang binaries
 
+**Details:** This entry details how to reduce the size of golang binaries that are typically larger in size then other compiled binaries. This is due to the fact that all dependencies are packed into the binary
+
+**Requirement:** upx
+
+## Reducing binary size
+
 ```go build -ldflags="-s -w" <file.go>```
 
 Use linker flags to strip debugging information
