@@ -2,7 +2,7 @@
 
 **Choose a version of Debian Linux Including one found on a cloud service**
 
-### Adding the Kali Linux sources
+## Adding the Kali Linux sources
 
 Open the sources list by doing the following:
 
@@ -10,7 +10,7 @@ Open the sources list by doing the following:
 
 Add the sources that can be found [here](http://docs.kali.org/general-use/kali-linux-sources-list-repositories)
 
-### Installing the Kali Linux Metapackages
+## Installing the Kali Linux Metapackages
 
 Run the following to get the list of Kali Linux metapackages:
 
@@ -22,7 +22,7 @@ Choose the package that you want to use. I usually choose kali-linux-full
 
 More information can be found [here](https://www.kali.org/news/kali-linux-metapackages/)
 
-### Conclusion
+## Conclusion
 
 Once you are done you should have all the packages loaded from the metapackage you chose and can use it as you normally would a Kali Linux machine.
 
