@@ -20,5 +20,5 @@ Change to visual block mode and delete text
 
 Move to word and delete (Not in insert mode)
 
-**References:**
+## References
 * [VIM tutorial: linux terminal tools for bug bounty pentest and redteams with @tomnomnom](https://www.youtube.com/watch?v=l8iXMgk2nnY) 
