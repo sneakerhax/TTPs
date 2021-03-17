@@ -8,6 +8,10 @@ nslookup
 
 Lookup CNAMES for domain name
 
+```dig +short <hostname>```
+
+Forward lookup on hostname
+
 ```dig +short -x <ip_address> ```
 
 Reverse Lookup on ip address
