@@ -2,7 +2,7 @@
 
 ```
 nslookup
->set type=all
+>set type=cname
 >domain.com
 ```
 
