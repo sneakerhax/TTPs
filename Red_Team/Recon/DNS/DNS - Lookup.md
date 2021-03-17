@@ -6,7 +6,7 @@ nslookup
 >domain.com
 ```
 
-Lookup CNAMES for domain name
+Lookup different record types for domain name (e.g. a,mx,ns)
 
 ```dig +short <hostname>```
 
