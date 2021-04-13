@@ -1,8 +1,8 @@
 # Install and Run shodan cli
 
-Description: This entry details how to install, initialize, and run basic commands with the Shodan cli
+**Description:** This entry details how to install, initialize, and run basic commands with the Shodan cli
 
-Requirements: shodan_cli
+**Requirements:** shodan_cli
 
 ## Installing Shodan cli (Python3)
 
