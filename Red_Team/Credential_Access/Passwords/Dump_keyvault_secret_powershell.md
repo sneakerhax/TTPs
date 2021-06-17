@@ -10,6 +10,10 @@
 
 Authenticate to Azure account
 
+```Get-AzKeyVault```
+
+List all vaults
+
 ```Get-AzKeyVaultSecret```
 
 List all secrets
