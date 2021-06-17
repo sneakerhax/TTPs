@@ -14,7 +14,7 @@ Authenticate to Azure account
 
 List all vaults
 
-```Get-AzKeyVaultSecret```
+```Get-AzKeyVaultSecret -VaultName <keyvault_name>```
 
 List all secrets
 
