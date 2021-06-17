@@ -23,7 +23,15 @@ $secret_name = Get-AzKeyVaultSecret -VaultName <keyvault_name> | select Name
 $secret_name | ForEach-Object { Get-AzKeyVaultSecret -VaultName '<keyvault_name>' -Name $_.Name -AsPlainText }
 ```
 
-Generate list of keyvault secrets and dump each one
+Generate list of keyvault secrets and dump each one in plaintext
+
+```
+$vaults = Get-AzKeyVault | select VaultName
+$secret_names = $vaults | ForEach-Object { Get-AzKeyVaultSecret -VaultName $_.VaultName | select VaultName, Name }
+$secret_names | ForEach-Object { Get-AzKeyVaultSecret -VaultName $_.VaultName -Name $_.Name -AsPlainText }
+```
+
+Generate list of keyvaults, discover all secrets in vaults, dump all password from all vaults in plaintext
 
 ## References
 * https://docs.microsoft.com/en-us/powershell/module/az.keyvault/get-azkeyvaultsecret?view=azps-6.1.0
