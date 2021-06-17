@@ -4,7 +4,7 @@
 
 **Requirements:** AZ Powershell
 
-## Retrieve a single secret
+## Dump a single secret
 
 ```Connect-AzAccount```
 
@@ -17,6 +17,13 @@ List all secrets
 ```Get-AzKeyVaultSecret -VaultName '<keyvault_name>' -Name '<secret_name>' -AsPlainText```
 
 Dump secret as plain text
+
+```
+$secret_name = Get-AzKeyVaultSecret -VaultName <keyvault_name> | select Name
+$secret_name | ForEach-Object { Get-AzKeyVaultSecret -VaultName '<keyvault_name>' -Name $_.Name -AsPlainText }
+```
+
+Generate list of keyvault secrets and dump each one
 
 ## References
 * https://docs.microsoft.com/en-us/powershell/module/az.keyvault/get-azkeyvaultsecret?view=azps-6.1.0
