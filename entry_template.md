@@ -4,7 +4,7 @@
 
 **Mitre Att&ck:** https://attack.mitre.org/techniques/<technique_id>
 
-**Requirements:** <required software>
+**Requirements:** required software
 
 ## Section
 
