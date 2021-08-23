@@ -6,4 +6,4 @@ Red Team Resources (Feedly export)
   * Red Team - Feeds related to Red Teaming
   * Exploit + Vulnerability - Exploit and Vulnerability feeds
   * Tools - Feeds related to tools
-  * Containers - Feeds related to containers
+  * Cloud Native - Feeds related to cloud native
