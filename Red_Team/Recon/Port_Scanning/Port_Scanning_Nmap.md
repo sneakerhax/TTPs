@@ -36,12 +36,6 @@ Scan top TCP/UDP ports
 
 Enter firewall with source port 443 specified to leverage loosely configured firewall rules
 
-```OSX:  nse(){ find /usr/local/share/nmap/scripts/ -iname "*$1*" | cut -c32- | cut -d'.' -f1;i}```
-
-```Linux: nse(){ find /usr/share/nmap/scripts/ -iname *$1* -printf '%P\n';}``` - hecky
-
-Setup custom functions for searching nse scripts
-
 ```nse search```
 
 Example usage of custom nse function
