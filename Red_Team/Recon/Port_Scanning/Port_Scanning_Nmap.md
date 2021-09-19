@@ -35,7 +35,3 @@ Scan top TCP/UDP ports
 ```nmap -g 443 -p- <ipaddress>```
 
 Enter firewall with source port 443 specified to leverage loosely configured firewall rules
-
-```nse search```
-
-Example usage of custom nse function
