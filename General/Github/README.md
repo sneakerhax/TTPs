@@ -32,7 +32,7 @@ Add origin to local repo
 
 ```git push -u origin main```
 
-Pushes master branch to remote git repo and remember so you can just (git push)
+Pushes main branch to remote git repo and store so you can just (git push)
 
 ```git pull origin main```
 
@@ -68,7 +68,7 @@ Create branch and move to it
 
 ```git rm ‘*.txt’```
 
-Remove all text file
+Remove all text files
 
 ```git rm -r <folder_name>```
 
