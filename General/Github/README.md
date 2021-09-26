@@ -89,3 +89,7 @@ Push changes to remote repo
 ```git commit -a```
 
 Delete files that are no longer there while committing
+
+```git -C <repo_location> pull```
+
+Git pull a different directory
