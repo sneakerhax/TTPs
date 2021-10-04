@@ -1,0 +1,72 @@
+########
+# Nmap #
+########
+
+# Add Nmap nse search function
+nse(){ find /usr/local/share/nmap/scripts/ -iname "*$1*" | cut -c32- | cut -d'.' -f1;}
+# Add Nmap quick scan
+nmap_quick(){nmap -Pn --open -p 21,22,80,443,445,8080 $1}
+# Add Nmap vulners scan
+nmap_vuln_scan(){nmap -Pn --open -sV --script=vulners $1}
+# Add Nmap Docker scan
+nmap_docker_scan(){nmap -Pn --open -sV --script=http-title -p 80,443,2375,5000,5001,6443,8001,8443}
+
+######
+# Go #
+######
+
+export GOPATH="$HOME/go"
+export PATH="$GOPATH/bin:$PATH"
+
+############
+# Homebrew #
+############
+
+# Add shorcut for brew update
+bupd(){brew update}
+bupg(){brew upgrade}
+bcupg(){brew upgrade --cask}
+bcle(){brew cleanup}
+bdoc(){brew doctor}
+bdep(){brew deps --tree --installed}
+
+#######
+# Zsh #
+####### 
+
+# zsh custom prompt
+PROMPT='%F{red}%n%F{white}@%m %F{red}$%F{white} '
+
+# zsh auto completion
+autoload -Uz compinit
+fpath=(~/.zsh/completion $fpath)
+compinit -i
+
+##############
+# Networking #
+##############
+
+# show ip address of en0
+show_ip(){ifconfig | grep -A 3 en0 | grep inet | cut -d " " -f2}
+
+# get ip address of en0 and copy to clipboard
+get_ip(){ifconfig | grep -A 3 en0 | grep inet | cut -d " " -f2 | tr -d '\n'| pbcopy}
+
+# show public ip address
+show_pub_ip(){curl -s ifconfig.me}
+
+# get public ip address and copy to clipboard
+get_pub_ip(){curl -s ifconfig.me | pbcopy}
+
+#########
+# Files #
+#########
+
+file_size(){ls -hl}
+
+##############
+# Kubernetes #
+##############
+
+# load kubectl autocompletion
+source <(kubectl completion zsh)
