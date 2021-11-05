@@ -6,11 +6,15 @@
 
 ## Reducing binary size
 
-```go build -ldflags="-s -w" <file.go>```
+```
+go build -ldflags="-s -w" <file.go>
+```
 
 Use linker flags to strip debugging information
 
-```upx --brute <binary>```
+```
+upx --brute <binary>
+```
 
 Pack the binary with UPX
 
