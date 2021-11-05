@@ -8,7 +8,9 @@
 
 Enable Pep8 (pycodestyle) linting in VSCode
 
-```    "python.linting.pycodestyleArgs": ["--ignore=E501,W605"],```
+```
+"python.linting.pycodestyleArgs": ["--ignore=E501,W605"],
+```
 
 Add ignore rule for long lines and invalid escape sequence (ascii banners)
 
