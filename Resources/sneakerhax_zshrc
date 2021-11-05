@@ -35,7 +35,7 @@ bdep(){brew deps --tree --installed}
 ####### 
 
 # zsh custom prompt
-PROMPT='%F{red}%n%F{white}@%m %F{red}$%F{white} '
+PROMPT='%F{red}%n%F{white}@%m%~ %F{red}$%F{white} '
 
 # zsh auto completion
 autoload -Uz compinit
