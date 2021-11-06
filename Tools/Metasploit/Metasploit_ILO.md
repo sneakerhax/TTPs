@@ -4,4 +4,6 @@
 
 HP System Management Homepage
 
-```msf> use auxiliary/scanner/http/hp_sys_mgmt_login```
+```
+use auxiliary/scanner/http/hp_sys_mgmt_login
+```
