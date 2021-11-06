@@ -2,16 +2,22 @@
 
 ### Installing Packages[OSX]
 
-```Cmd + Shift + P```
+```
+Cmd + Shift + P
+```
 
 Open install packages
 
 ### Searching[OSX]
 
-```Cmd ⌘ + P```
+```
+Cmd ⌘ + P
+```
 
 Search files in project
 
-```Ctrl + p```
+```
+Ctrl + p
+```
 
 Search files
