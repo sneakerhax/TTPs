@@ -1,10 +1,14 @@
 # OSX - Tmux
 
-```tmux ls```
+```
+tmux ls
+```
 
 list all tmux sessions
 
-```tmux new -s <name_of_session>```
+```
+tmux new -s <name_of_session>
+```
 
 Named tmux window
 
@@ -15,6 +19,8 @@ d (disconnect)
 
 Detach from session
 
-```tmux kill-session -t <session id or name>```
+```
+tmux kill-session -t <session id or name>
+```
 
 Kill session
