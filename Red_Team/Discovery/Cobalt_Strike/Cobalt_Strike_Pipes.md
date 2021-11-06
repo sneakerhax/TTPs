@@ -1,5 +1,7 @@
 # Cobalt Strike - Pipes
 
-```ls \\.\pipe\```
+```
+ls \\.\pipe\
+```
 
 List all pipes running on system
