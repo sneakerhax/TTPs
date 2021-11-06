@@ -6,7 +6,9 @@
 
 Open the sources list by doing the following:
 
-```vim /etc/apt/sources.lst```
+```
+vim /etc/apt/sources.lst
+```
 
 Add the sources that can be found [here](http://docs.kali.org/general-use/kali-linux-sources-list-repositories)
 
@@ -14,11 +16,15 @@ Add the sources that can be found [here](http://docs.kali.org/general-use/kali-l
 
 Run the following to get the list of Kali Linux metapackages:
 
-```apt-get update && apt-cache search kali-linux```
+```
+apt-get update && apt-cache search kali-linux
+```
 
 Choose the package that you want to use. I usually choose kali-linux-full
 
-```apt-get install kali-linux-full```
+```
+apt-get install kali-linux-full
+```
 
 More information can be found [here](https://www.kali.org/news/kali-linux-metapackages/)
 
