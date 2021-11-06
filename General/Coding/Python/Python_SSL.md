@@ -1,6 +1,8 @@
 # Python - SSL
 
-```context = ssl._create_unverified_context()```
+```
+context = ssl._create_unverified_context()
+```
 
 Use self signed cert to connect
 
