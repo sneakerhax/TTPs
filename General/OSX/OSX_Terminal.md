@@ -1,9 +1,13 @@
 # OSX - Terminal
 
-```CTRL + a```
+```
+CTRL + a
+```
 
 Go to start of line:
 
-```CTRL + e```
+```
+CTRL + e
+```
 
 Go to end of line:
