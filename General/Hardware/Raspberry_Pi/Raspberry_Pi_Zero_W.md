@@ -9,7 +9,9 @@
 
 ## Setting up keyboard
 
-```raspi-config```
+```
+raspi-config
+```
 
 Run raspi-config then choose **Localisation Options** > **Change Locale** (en_US.UTF-8) (Optional)
 
@@ -20,11 +22,15 @@ Run raspi-config then choose **Localisation Options** > **Change Keyboard Layout
 
 ## Setting up wifi
 
-```wpa_passphrase <SSID> >> /etc/wpa_supplicant/wpa_supplicant.conf```
+```
+wpa_passphrase <SSID> >> /etc/wpa_supplicant/wpa_supplicant.conf
+```
 
 Type the password into the blank prompt. Open the wpa_supplicant.conf and delete the plaintext password
 
-```wpa_cli -i wlan0 reconfigure```
+```
+wpa_cli -i wlan0 reconfigure
+```
 
 Connects to the network specified in wpa_supplicant.conf if configured correctly
 
