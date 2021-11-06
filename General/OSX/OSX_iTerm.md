@@ -1,21 +1,31 @@
 # OSX - iTerm
 
-```Cmd + D```
+```
+Cmd + D
+```
 
 Split vertically
 
-```Cmd + shift + D```
+```
+Cmd + shift + D
+```
 
 Split horizontally
 
-```Cmd + Option + arrowkey```
+```
+Cmd + Option + arrowkey
+```
 
 Change between active windows
 
-```Cmd + w```
+```
+Cmd + w
+```
 
 Close active pane
 
-```CTRL + R```
+```
+CTRL + R
+```
 
 Search command history (To search next result type CTLR + R again)
