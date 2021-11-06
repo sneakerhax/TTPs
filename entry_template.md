@@ -8,7 +8,9 @@
 
 ## Section
 
-```<command>```
+```
+<command>
+```
 
 Command explanation
   
