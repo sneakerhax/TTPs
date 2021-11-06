@@ -10,6 +10,8 @@ Entries about Kali Linux
 
 ## Update
 
-```sudo apt update && sudo apt -y full-upgrade```
+```
+sudo apt update && sudo apt -y full-upgrade
+```
 
 Fully update when packages are not updating (reinstalls packages)
