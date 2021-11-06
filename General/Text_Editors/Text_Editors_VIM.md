@@ -1,22 +1,32 @@
 # Text Editors - VIM
 
-```cat file.txt | vim -```
+```
+cat file.txt | vim -
+```
 
 Pipe output into VIM (Will open vim with output)
 
-```:%! grep "string"```
+```
+:%! grep "string"
+```
 
 Run command while in VIM to modify current file
 
-```.```
+```
+.
+```
 
 Run last command
 
-```CTRL + V then choose text and press X```
+```
+CTRL + V then choose text and press X
+```
 
 Change to visual block mode and delete text
 
-```dw```
+```
+dw
+```
 
 Move to word and delete (Not in insert mode)
 
