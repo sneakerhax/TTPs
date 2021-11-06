@@ -2,31 +2,41 @@
 
 Search .azure file on users system for .azureprofiles.json or accessToken.json(Can be used to login to Azure acount)
 
-```az login```
+```
+az login
+```
 
 Login with Azure CLI (This also generates a cookie in the browser for .login.microsoftonline.com called ESTSAUTHPERSISTENT
 
-```az account show```
+```
+az account show
+```
 
 List account information includes subscription ID:
 
-```az account set --subscription "<subname>"```
+```
+az account set --subscription "<subname>"
+```
 
 Set subscription
 
-```169.254.169.254```
-
 Querying Azure Metadata service:
 
-```curl http://169.254.169.254/metadata/v1/InstanceInfo```
+```
+curl http://169.254.169.254/metadata/v1/InstanceInfo
+```
 
 Example usage(Get instance info):
 
-```az vm extension```
+```
+az vm extension
+```
 
 Run custom [scripts](https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/custom-script-linux)
 
-```az storage blob list --account-name <account_name> --container <container_name>```
+```
+az storage blob list --account-name <account_name> --container <container_name>
+```
 
 Listing contents of storage account
 
