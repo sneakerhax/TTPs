@@ -1,10 +1,14 @@
 # OSX - Hotkeys
 
-```CTRL + TAB```
+```
+CTRL + TAB
+```
 
 Move to next tab
 
-```CMD + SHIFT + .```
+```
+CMD + SHIFT + .
+```
 
 Show hidden files in Finder:
 
