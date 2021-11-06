@@ -2,4 +2,6 @@
 
 Auto generate handler from payload setup:
 
-```msf> to_handler```
+```
+msf> to_handler
+```
