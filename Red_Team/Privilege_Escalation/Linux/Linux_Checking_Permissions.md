@@ -1,17 +1,25 @@
 # Linux - Checking Permissions
 
-```id ```
+```
+id
+```
 
 Check permissions of current user
 
-```groups ```
+```
+groups
+```
 
 Group membership for current user
 
-```who -r```
+```
+who -r
+```
 
 Check run level on Linux
 
-```sudo -l```
+```
+sudo -l
+```
 
 List available sudo commands
