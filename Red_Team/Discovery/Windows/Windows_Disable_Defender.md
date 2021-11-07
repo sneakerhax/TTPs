@@ -6,11 +6,15 @@
 
 Disabling defender  and remove definitions with mpcmdrun.exe
 
-```Set-MpPreference -DisableRealtimeMonitoring $true```
+```
+Set-MpPreference -DisableRealtimeMonitoring $true
+```
 
 Disable Defender(causes alert on Desktop)(Can be run with psexec)
 
-```Add-MpPreference -ExclusionPath "c:\"```
+```
+Add-MpPreference -ExclusionPath "c:\"
+```
 
 Add exclusion path to Defender
 
