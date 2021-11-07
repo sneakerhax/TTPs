@@ -1,6 +1,0 @@
-# Windows - Silver Ticket
-
-* https://adsecurity.org/?p=2011
-
-**References:**
-* https://github.com/gentilkiwi/mimikatz/wiki/module-~-kerberos
