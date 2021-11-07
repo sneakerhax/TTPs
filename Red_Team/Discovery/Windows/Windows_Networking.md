@@ -1,9 +1,13 @@
 # Windows - Networking
 
-```arp -a```
+```
+arp -a
+```
 
 Check arp cache
 
-```ping -n 1 <host>```
+```
+ping -n 1 <host>
+```
 
 Ping host 1 time
