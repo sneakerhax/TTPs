@@ -1,5 +1,7 @@
 # Metadata - PDF
 
-```exiftool <pdf>```
+```
+exiftool <pdf>
+```
 
 Checking PDF for metadata
