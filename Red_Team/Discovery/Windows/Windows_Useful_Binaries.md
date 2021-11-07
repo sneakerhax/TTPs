@@ -1,5 +1,7 @@
 # Windows - Useful Binaries
 
-```sqlps.exe <powershell>```
+```
+sqlps.exe <powershell>
+```
 
 Running powershell from sqlps.exe
