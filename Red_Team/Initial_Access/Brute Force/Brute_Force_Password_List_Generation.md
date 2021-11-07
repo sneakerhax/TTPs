@@ -38,4 +38,6 @@ Crunch Custom translation placeholders
 
 Generating customer translation wordlist
 
-```crunch 8 8 -t ,@@^^%%%```
+```
+crunch 8 8 -t ,@@^^%%%
+```
