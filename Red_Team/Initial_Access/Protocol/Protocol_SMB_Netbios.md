@@ -7,19 +7,27 @@ SMB versions:
 * SMB2.1 – Windows 7 and Windows 2008 R2
 * SMB3 – Windows 8 and Windows 2012
 
-```rpcclient -U "" <target>```
+```
+rpcclient -U "" <target>
+```
 
 Manual check for null sessions
 
-```nbtscan ```
+```
+nbtscan
+```
 
 Scan network for Netbios name information
 
-```enum4linux -a <target>```
+```
+enum4linux -a <target>
+```
 
 Enumerate SMB all checks
 
-```smbmap -H <target> -R```
+```
+smbmap -H <target> -R
+```
 
 Scan for open SMB shares and recursively list
 
