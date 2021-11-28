@@ -94,7 +94,7 @@ Switch branches to specified branch name
 git checkout -b <branch_name>
 ```
 
-Create branch and move to it
+Create branch and checkout
 
 ```
 git rm ‘*.txt’
