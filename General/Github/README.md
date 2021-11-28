@@ -58,7 +58,7 @@ Pulls changes from remote repo
 git diff HEAD
 ```
 
-Diff for changes from origin master
+Diff for changes from origin main
 
 ```
 git reset <file>
@@ -76,7 +76,7 @@ Remove changes before last commit
 git branch <branch_name>
 ```
 
-Create a new branch off your master branch
+Create a new branch off your main branch
 
 ```
 git branch
