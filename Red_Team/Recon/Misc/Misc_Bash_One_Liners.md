@@ -29,3 +29,9 @@ curl https://cmyip.com/ 2>&1 | grep "My IP Address" | cut -d'>' -f2 | cut -d'<' 
 ```
 
 Get public ip address from command line
+
+```
+cat targets.txt | gxargs -d '\n' -n1 -I % curl -ILk  %
+```
+
+Use file of targets and pipe them to xargs (OSX gxargs which is gnu xargs installed with brew) to be used as arguments to other tools
