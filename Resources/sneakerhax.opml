@@ -5,13 +5,6 @@
         <title>sneakerhax subscriptions in feedly Cloud</title>
     </head>
     <body>
-        <outline text="Exploit + Vulnerability" title="Exploit + Vulnerability">
-            <outline type="rss" text="GitHub Security Lab | Research" title="GitHub Security Lab | Research" xmlUrl="https://securitylab.github.com/research/feed.xml" htmlUrl="https://securitylab.github.com/"/>
-            <outline type="rss" text="Exploit-DB updates" title="Exploit-DB updates" xmlUrl="http://www.exploit-db.com/rss.php" htmlUrl="https://www.exploit-db.com"/>
-            <outline type="rss" text="Full Disclosure" title="Full Disclosure" xmlUrl="http://seclists.org/rss/fulldisclosure.rss" htmlUrl="http://seclists.org/#fulldisclosure"/>
-            <outline type="rss" text="Project Zero" title="Project Zero" xmlUrl="http://googleprojectzero.blogspot.com/feeds/posts/default" htmlUrl="https://googleprojectzero.blogspot.com/"/>
-            <outline type="rss" text="Tenable Network Security Blog" title="Tenable Network Security Blog" xmlUrl="http://blog.tenablesecurity.com/atom.xml" htmlUrl="https://www.tenable.com/blog-rss"/>
-        </outline>
         <outline text="Tools" title="Tools">
             <outline type="rss" text="The GitHub Blog" title="The GitHub Blog" xmlUrl="https://github.com/blog/all.atom" htmlUrl="https://github.blog"/>
             <outline type="rss" text="Kali Linux" title="Kali Linux" xmlUrl="https://www.kali.org/feed/" htmlUrl="https://www.kali.org/"/>
@@ -21,12 +14,25 @@
             <outline type="rss" text="The Go Blog" title="The Go Blog" xmlUrl="http://blog.golang.org/feeds/posts/default" htmlUrl="http://blog.golang.org/"/>
             <outline type="rss" text="Metasploit - Rapid7 Blog" title="Metasploit - Rapid7 Blog" xmlUrl="https://blog.rapid7.com/tag/metasploit/rss/" htmlUrl="https://blog.rapid7.com/"/>
         </outline>
+        <outline text="Cloud Native" title="Cloud Native">
+            <outline type="rss" text="Docker Blog" title="Docker Blog" xmlUrl="http://blog.docker.io/feed/" htmlUrl="https://www.docker.com/blog"/>
+            <outline type="rss" text="Kubernetes – Production-Grade Container Orchestration" title="Kubernetes – Production-Grade Container Orchestration" xmlUrl="http://kubernetesio.blogspot.com/feeds/posts/default" htmlUrl="https://kubernetes.io/"/>
+            <outline type="rss" text="Cloud Native Computing Foundation" title="Cloud Native Computing Foundation" xmlUrl="https://www.cncf.io/feed" htmlUrl="https://www.cncf.io"/>
+        </outline>
+        <outline text="Exploit + Vulnerability" title="Exploit + Vulnerability">
+            <outline type="rss" text="GitHub Security Lab | Research" title="GitHub Security Lab | Research" xmlUrl="https://securitylab.github.com/research/feed.xml" htmlUrl="https://securitylab.github.com/"/>
+            <outline type="rss" text="Exploit-DB updates" title="Exploit-DB updates" xmlUrl="http://www.exploit-db.com/rss.php" htmlUrl="https://www.exploit-db.com"/>
+            <outline type="rss" text="Full Disclosure" title="Full Disclosure" xmlUrl="http://seclists.org/rss/fulldisclosure.rss" htmlUrl="http://seclists.org/#fulldisclosure"/>
+            <outline type="rss" text="Project Zero" title="Project Zero" xmlUrl="http://googleprojectzero.blogspot.com/feeds/posts/default" htmlUrl="https://googleprojectzero.blogspot.com/"/>
+            <outline type="rss" text="Tenable Network Security Blog" title="Tenable Network Security Blog" xmlUrl="http://blog.tenablesecurity.com/atom.xml" htmlUrl="https://www.tenable.com/"/>
+        </outline>
         <outline text="Red Team" title="Red Team">
             <outline type="rss" text="TrustedSec" title="TrustedSec" xmlUrl="https://www.trustedsec.com/feed/" htmlUrl="https://www.trustedsec.com"/>
             <outline type="rss" text="SolomonSklash.io" title="SolomonSklash.io" xmlUrl="https://www.solomonsklash.io/feeds/all.atom.xml" htmlUrl="https://www.solomonsklash.io/"/>
             <outline type="rss" text="NVISO Labs" title="NVISO Labs" xmlUrl="http://blog.nviso.be/feeds/posts/default?alt=rss" htmlUrl="https://blog.nviso.eu"/>
             <outline type="rss" text="bohops" title="bohops" xmlUrl="https://bohops.com/feed/" htmlUrl="https://bohops.com"/>
             <outline type="rss" text="Outflank Blog" title="Outflank Blog" xmlUrl="https://outflank.nl/blog/feed/" htmlUrl="https://outflank.nl/blog"/>
+            <outline type="rss" text="Security through clusterfuckery" title="Security through clusterfuckery" xmlUrl="https://byt3bl33d3r.substack.com/feed/" htmlUrl="https://byt3bl33d3r.substack.com"/>
             <outline type="rss" text="batsec" title="batsec" xmlUrl="https://blog.dylan.codes/rss/" htmlUrl="https://blog.dylan.codes/"/>
             <outline type="rss" text="Pentest Laboratories" title="Pentest Laboratories" xmlUrl="https://pentestlaboratories.com/feed/" htmlUrl="https://pentestlaboratories.com"/>
             <outline type="rss" text="/var/log/messages" title="/var/log/messages" xmlUrl="https://labs.mwrinfosecurity.com/blog/rss" htmlUrl="https://labs.f-secure.com/blog/"/>
@@ -67,11 +73,6 @@
             <outline type="rss" text="Corelan Cybersecurity Research" title="Corelan Cybersecurity Research" xmlUrl="https://www.corelan.be/index.php/feed/" htmlUrl="https://www.corelan.be"/>
             <outline type="rss" text="Posts on malicious.link" title="Posts on malicious.link" xmlUrl="https://room362.com/index.xml" htmlUrl="https://malicious.link/post/"/>
             <outline type="rss" text="Unit42" title="Unit42" xmlUrl="http://feeds.feedburner.com/Unit42" htmlUrl="https://unit42.paloaltonetworks.com"/>
-        </outline>
-        <outline text="Cloud Native" title="Cloud Native">
-            <outline type="rss" text="Docker Blog" title="Docker Blog" xmlUrl="http://blog.docker.io/feed/" htmlUrl="https://www.docker.com/blog"/>
-            <outline type="rss" text="Kubernetes – Production-Grade Container Orchestration" title="Kubernetes – Production-Grade Container Orchestration" xmlUrl="http://kubernetesio.blogspot.com/feeds/posts/default" htmlUrl="https://kubernetes.io/"/>
-            <outline type="rss" text="Cloud Native Computing Foundation" title="Cloud Native Computing Foundation" xmlUrl="https://www.cncf.io/feed" htmlUrl="https://www.cncf.io"/>
         </outline>
     </body>
 </opml>
