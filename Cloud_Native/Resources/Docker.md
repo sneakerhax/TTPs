@@ -52,6 +52,7 @@ Resources related to Docker, building offensive security Tools with Docker, Atta
 * [A Compendium of Container Escapes](https://youtu.be/BQlqita2D2s) ([slides](https://i.blackhat.com/USA-19/Thursday/us-19-Edwards-Compendium-Of-Container-Escapes-up.pdf)) - Brandon Edwards & Nick Freeman
 * [Traitor - Automatic Linux privesc via exploitation of low-hanging fruit](https://github.com/liamg/traitor) - liamg
 * [Docker - PRIVILEGE ESCALATION Technique](https://youtu.be/MnUtHSpcdLQ) - John Hammond
+* [Escaping Virtualized Containers](https://youtu.be/jFlqVe11eeM) - Yuval Avrahami
 
 ## Securing Docker
 
