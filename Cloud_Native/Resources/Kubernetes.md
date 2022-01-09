@@ -28,6 +28,7 @@ Resources related to Kubernetes, Building offensive security Tools with Kubernet
 * [Advanced Persistence Threats: The Future of Kubernetes Attacks](https://youtu.be/auUgVullAWM) - Ian Coldwater & Brad Geesaman
 * [Hacking and Hardening Kubernetes Clusters by Example](https://youtu.be/vTgQLzeBfRU) - Brad Geesaman (Symantec)
 * [Creating a Super-privileged Pod with Root and Host Namespaces](https://downey.io/notes/dev/kubernetes-privileged-root-pod-example) - Tim Downey
+* [Finding Azurescape – Cross-Account Container Takeover in Azure Container Instances](https://unit42.paloaltonetworks.com/azure-container-instances/) - Yuval Avrahami
 
 
 ## Securing Kubernetes
