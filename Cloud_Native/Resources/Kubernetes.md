@@ -9,6 +9,8 @@ Resources related to Kubernetes, Building offensive security Tools with Kubernet
 * [Kubernetes By Example](https://kubernetesbyexample.com/) - OpenShift
 * [The Illustrated Children's Guide to Kubernetes](https://youtu.be/4ht22ReBjno) - Matt Butcher
 * [Kubernetes Failure Stories](https://k8s.af/) - @try_except_
+* [Kubernetes: The Documentary - Part 1](https://www.youtube.com/watch?v=BE77h7dmoQU) - Honeypot
+* [Kubernetes: The Documentary - Part 2](https://www.youtube.com/watch?v=318elIq37PE) - Honeypot
 
 ## Vulns and Exploits
 * [CVE Details for Kubernetes](https://www.cvedetails.com/vulnerability-list/vendor_id-15867/product_id-34016/Kubernetes-Kubernetes.html) - Cvedetails
