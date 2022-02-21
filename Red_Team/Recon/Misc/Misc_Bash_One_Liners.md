@@ -35,3 +35,9 @@ cat targets.txt | gxargs -d '\n' -n1 -I % curl -ILk  %
 ```
 
 Use file of targets and pipe them to xargs (OSX gxargs which is gnu xargs installed with brew) to be used as arguments to other tools
+
+```
+while read subdomain;do nslookup $subdomain.sneakerhax.com; done < dns-wordlist.txt
+```
+
+Basic nslookup subdomain brute force
