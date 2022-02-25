@@ -2,6 +2,15 @@
 
 Useful commands for running Docker
 
+## Install
+
+```
+curl -fsSL https://test.docker.com | sh
+```
+
+Install Docker on Linux ([Other install methods](https://docs.docker.com/engine/install/))
+
+
 ## Remote
 
 ```
