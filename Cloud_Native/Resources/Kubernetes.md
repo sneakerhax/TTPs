@@ -51,6 +51,8 @@ Resources related to Kubernetes, Building offensive security Tools with Kubernet
 ### Open Source Tools
 
 * [Kubernetes Python Client](https://github.com/kubernetes-client/python) - Kubernetes
+* [Kube-Hunter](https://github.com/aquasecurity/kube-hunter) - Aquasec
+* [Peirates](https://github.com/inguardians/peirates) - Inguardians
 * [KubiScan](https://github.com/cyberark/KubiScan) - Eviatar Gerzi (CyberArk)
 * [KubeAudit](https://github.com/Shopify/kubeaudit) - Shopify
 * [Kube-Bench](https://github.com/aquasecurity/kube-bench) - Aquasec
