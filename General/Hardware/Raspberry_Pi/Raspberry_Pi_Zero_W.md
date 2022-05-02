@@ -41,8 +41,16 @@ sudo systemctl enable ssh
 sudo systemctl start ssh
 ```
 
+## Updating
+
+```
+sudo apt update && apt full-upgrade -y
+```
+
+
 ## References
 * https://www.raspberrypi.org/documentation/installation/installing-images/
 * https://www.raspberrypi.org/documentation/configuration/raspi-config.md
 * https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md
 * https://www.raspberrypi.org/documentation/remote-access/ssh/README.md
+* https://www.raspberrypi.com/documentation/computers/os.html#using-apt
