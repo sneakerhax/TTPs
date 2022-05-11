@@ -4,6 +4,8 @@
 
 **Requirements:** AZ Powershell
 
+**Mitre Att&ck:** https://attack.mitre.org/techniques/T1078
+
 ## Dump a single secret
 
 ```powershell
