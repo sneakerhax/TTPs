@@ -12,11 +12,4 @@ Entries about browsers
 ## Firefox plugins
 * [Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
 * [Builtwith](https://addons.mozilla.org/En-us/firefox/addon/builtwith/)
-* [Punkspider](https://addons.mozilla.org/en-US/firefox/addon/punkspider/)
-* [Firebug](https://addons.mozilla.org/en-US/firefox/addon/firebug/)
 * [Foxy Proxy](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)
-* [Live HTTP header](https://addons.mozilla.org/en-US/firefox/addon/live-http-headers/)
-* [Tamper data](https://addons.mozilla.org/en-US/firefox/addon/tamper-data/)
-* [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbar/)
-* [Cookie Manager+](https://addons.mozilla.org/en-US/firefox/addon/cookies-manager-plus/)
-* [Shodan](https://addons.mozilla.org/en-US/firefox/addon/shodan-firefox-addon/)
