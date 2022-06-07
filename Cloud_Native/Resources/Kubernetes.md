@@ -31,6 +31,8 @@ Resources related to Kubernetes, Building offensive security Tools with Kubernet
 * [Hacking and Hardening Kubernetes Clusters by Example](https://youtu.be/vTgQLzeBfRU) - Brad Geesaman (Symantec)
 * [Creating a Super-privileged Pod with Root and Host Namespaces](https://downey.io/notes/dev/kubernetes-privileged-root-pod-example) - Tim Downey
 * [Finding Azurescape – Cross-Account Container Takeover in Azure Container Instances](https://unit42.paloaltonetworks.com/azure-container-instances/) - Yuval Avrahami
+* [Command and KubeCTL - Real-World Kubernetes Security for Pentesters](https://www.youtube.com/watch?v=cRbHILH4f0A) - Mark Maning (NCC Group)
+  * [Slides](https://docs.google.com/presentation/d/1y6KGGT5Uw27cCgFMKiGv0NjRhq8YvjY_S9UG8s_TThg)  
 
 
 ## Securing Kubernetes
