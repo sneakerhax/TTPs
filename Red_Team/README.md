@@ -24,4 +24,4 @@ Red Team: Final Report](https://dod.defense.gov/Portals/1/Documents/wisr-studies
 ### Books
 * [Red Team Development and Operations: A practical guide](https://www.amazon.com/Red-Team-Development-Operations-practical/dp/B083XVG633) - Joe Vest and James Tubberville
 * [Red Team: How to Succeed by Thinking Like the Enemy](https://www.amazon.com/Red-Team-Succeed-Thinking-Enemy/dp/0465048943) - Micah Zenko
-* [Red Teaming](https://www.amazon.com/Red-Teaming/dp/1524759988) - Bryce G. Hoffman
+* [Red Teaming - How Your Business Can Conquer the Competition by Challenging Everything](https://www.amazon.com/Red-Teaming/dp/1524759988) - Bryce G. Hoffman
