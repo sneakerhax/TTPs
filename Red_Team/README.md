@@ -12,6 +12,7 @@ Resources to define, understand the execution, and goals of Red Teaming. These r
 * [Restoring executive confidence: Red Team operations](https://www.sciencedirect.com/science/article/abs/pii/S1353485816301039?via%3Dihub) - Mike Fenton
 
 ### Military
+* [The Red Team Handbook - Version 9.0](https://usacac.army.mil/sites/default/files/documents/ufmcs/The_Red_Team_Handbook.pdf) - TRADOC G–2
 * [Red Teams - Strengthening through challenge](https://www.hqmc.marines.mil/Portals/138/Docs/PL/PLU/Mulvaney.pdf) - LtCol Brendan Mulvaney
 * [MARINE CORPS RED TEAM POLICY](https://www.marines.mil/Portals/1/Publications/MCBUL%203510%20DTD%2007AUG17.pdf?ver=2017-08-18-140851-557) - R. S. WALSH
 * [Marine Corps Force Integration Plan
