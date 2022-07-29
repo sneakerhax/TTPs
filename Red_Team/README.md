@@ -9,7 +9,6 @@ Resources to define, understand the execution, and goals of Red Teaming. These r
 ### Definition
 
 * [Red Team](https://en.wikipedia.org/wiki/Red_team) - Wikipedia
-* [Restoring executive confidence: Red Team operations](https://www.sciencedirect.com/science/article/abs/pii/S1353485816301039?via%3Dihub) - Mike Fenton
 
 ### Military
 * [The Red Team Handbook - Version 9.0](https://usacac.army.mil/sites/default/files/documents/ufmcs/The_Red_Team_Handbook.pdf) - TRADOC G–2
@@ -20,6 +19,7 @@ Red Team: Final Report](https://dod.defense.gov/Portals/1/Documents/wisr-studies
 
 ### Execution
 * [Red Teaming: Using Cutting-Edge Threat Simulation to Harden the Microsoft Enterprise Cloud](https://azure.microsoft.com/en-us/blog/red-teaming-using-cutting-edge-threat-simulation-to-harden-the-microsoft-enterprise-cloud/) - Scott Field
+* [GitLab - Red Team](https://about.gitlab.com/handbook/engineering/security/threat-management/red-team/) - Chris Moberly (Gitlab)
 
 ### Books
 * [Red Team Development and Operations: A practical guide](https://www.amazon.com/Red-Team-Development-Operations-practical/dp/B083XVG633) - Joe Vest and James Tubberville
