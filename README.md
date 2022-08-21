@@ -10,4 +10,4 @@ This repo contains entries that explain how to perform different tasks
 
 * **General** - Entries about general topics
 * **Cloud_Native** - Entries and resources about cloud native technologies
-* **Red_Team** - Entries about Red Teaming TTPs (Mapped to [Mitre Att&ck](https://attack.mitre.org/))
+* **Red_Team** - Entries about Red Teaming TTPs
