@@ -13,4 +13,4 @@ A list of privilige escalation tools and techniques for Linux systems
 
 * [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - g0tmi1k
 * [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623) - Rebootuser
-
+* https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/ - ropnop
