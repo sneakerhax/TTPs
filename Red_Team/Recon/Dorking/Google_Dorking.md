@@ -2,8 +2,6 @@
 
 **Description:** This entry shows how to perform Google Dorking to perform recon
 
-**Mitre Att&ck:** [T1593.002](https://attack.mitre.org/techniques/T1593/002/)
-
 **Requirements:** N/A
 
 ## Dorking examples
