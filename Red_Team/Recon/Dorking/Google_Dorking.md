@@ -1,6 +1,6 @@
 # Google Dorking
 
-**Description:** This entry shows how to perform Google Dorking to perform recon
+**Description:** This entry describes how to perform Google Dorking to perform recon
 
 **Requirements:** N/A
 
