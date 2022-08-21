@@ -1,3 +1,0 @@
-# Hardware
-
-Entries about hardware
