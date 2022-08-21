@@ -2,8 +2,6 @@
 
 **Description:** This entry descrribes ways to use http for recon
 
-**Mitre Att&ck:** hhttps://attack.mitre.org/techniques/T1595/
-
 **Requirements:** httpx
 
 ## Usage examples
