@@ -1,6 +1,6 @@
 # Dump Keyvault secret Powershell
 
-**Description:** This entry details how to authenticate to an Azure account with Powershell, list keyvaults, and dump a password in plain text 
+**Description:** This entry describes how to authenticate to an Azure account with Powershell, list keyvaults, and dump a password in plain text 
 
 **Requirements:** AZ Powershell
 
