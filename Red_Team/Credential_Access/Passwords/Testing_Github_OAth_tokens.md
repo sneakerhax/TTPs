@@ -2,8 +2,6 @@
 
 **Description:** This entry describes how to test discovered Github OAuth tokens
 
-**Mitre Att&ck:** [T1078](https://attack.mitre.org/techniques/T1078/)
-
 **Requirements:** curl
 
 ## Testing the Github OAuth token
