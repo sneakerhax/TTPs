@@ -4,7 +4,9 @@ Entries about Red Teaming TTPs
 
 ## Red Team Resources
 
-Resources to define, understand the execution, and goals of Red Teaming. These resources have an emphasis on Enterprise Red Teaming in the cloud.
+Resources to define, understand the execution, and goals of Red Teaming. 
+
+These resources have an emphasis on Enterprise Red Teaming in the cloud.
 
 ### Definition
 
