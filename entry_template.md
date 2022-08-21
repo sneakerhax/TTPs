@@ -2,8 +2,6 @@
 
 **Description:** A description of the entry
 
-**Mitre Att&ck:** https://attack.mitre.org/techniques/<technique_id>
-
 **Requirements:** required software
 
 ## Section
