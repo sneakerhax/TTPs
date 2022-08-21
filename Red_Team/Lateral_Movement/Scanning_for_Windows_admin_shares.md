@@ -1,6 +1,6 @@
 # Scanning for Windows admin shares
 
-**Description:** This entry details how to scan for admin shares. If you're able to view the admin shares this is an indicator that you may have admin access to the machine
+**Description:** This entry describes how to scan for admin shares. When able to view the admin shares this is an indicator of having admin access to the machine
 
 **Requirements:** Powershell
 
