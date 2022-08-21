@@ -2,8 +2,6 @@
 
 **Description:** This entry describes how to setup a reverse dynamic ssh tunnel from a victim machine
 
-**Mitre Att&ck:** [https://attack.mitre.org/techniques/T1021](https://attack.mitre.org/techniques/T1021/)
-
 **Requirements:** ssh, proxychains
 
 ## Host (Victim) machine
