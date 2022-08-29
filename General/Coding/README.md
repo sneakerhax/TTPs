@@ -1,3 +1,0 @@
-# Coding
-
-Entries about Coding

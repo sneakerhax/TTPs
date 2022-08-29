@@ -1,3 +1,0 @@
-# OSX
-
-Entries about OSX

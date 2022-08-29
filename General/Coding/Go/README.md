@@ -1,3 +1,0 @@
-# Go
-
-Entries about golang
