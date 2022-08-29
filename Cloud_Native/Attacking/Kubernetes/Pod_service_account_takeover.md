@@ -1,6 +1,6 @@
 # Pod service account takeover
 
-**Description:** This entry details how to use serviceaccount details that are mounted into a pod to run command on the control plane API
+**Description:** This entry describes how to use serviceaccount details that are mounted into a pod to run command on the control plane API
 
 **Requirements:** kubectl
 

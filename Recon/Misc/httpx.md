@@ -1,6 +1,6 @@
 # HTTPX
 
-**Description:** This entry descrribes ways to use http for recon
+**Description:** This entry describes ways to use http for recon
 
 **Requirements:** httpx
 
