@@ -28,7 +28,7 @@ Resources to define, understand the execution, and goals of Red Teaming. These r
 * [In Memory Evasion (2018)](https://www.youtube.com/watch?v=lz2ARbZ_5tE&list=PL9HO6M_MU2nc5Q31qd2CwpZ8J4KFMhgnK&ab_channel=RaphaelMudge) - Raphael Mudge
 * [Red Teaming Back and Forth 5ever](https://www.youtube.com/watch?v=FTiBwFJQg64) - Fuzzynop
 * [Bridging the gap - Lesson in adversarial tradecraft](https://www.youtube.com/watch?v=xHkRhRo3l8o) - harmj0y & enigma0x3
-* [Tradecraft Security Weekly](https://wiki.securityweekly.com/Tradecraft_Security_Weekly) - Security Weekly
+* [Tradecraft Security Weekly](https://www.youtube.com/watch?v=21HgniAUwQE&list=PLlPkFwQHxYE7Yi5jtcSyCCr8pXxP1OEkZ) - Security Weekly
 * [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) - bluescreenofjeff
 * [Red Teaming Experiments](https://www.ired.team/) - spottheplanet
 
