@@ -13,6 +13,7 @@ Resources to define, understand the execution, and goals of Red Teaming. These r
 ## Definition
 
 * [Red Team](https://en.wikipedia.org/wiki/Red_team) - Wikipedia
+* [Hacking Google | Red Team](https://www.youtube.com/watch?v=TusQWn2TQxQ) - Google
 
 ## Execution
 * [Red Teaming: Using Cutting-Edge Threat Simulation to Harden the Microsoft Enterprise Cloud](https://azure.microsoft.com/en-us/blog/red-teaming-using-cutting-edge-threat-simulation-to-harden-the-microsoft-enterprise-cloud/) - Scott Field
