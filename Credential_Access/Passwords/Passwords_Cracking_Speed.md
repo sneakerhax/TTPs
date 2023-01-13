@@ -1,4 +1,4 @@
-# Passwords - Cracking Speed
+# Passwords Cracking Speed
 
 Cracking speeds:
 * 1 kH/s is 1,000 hashes per second (sometimes mistakenly written KH/s).
