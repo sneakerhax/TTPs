@@ -1,4 +1,4 @@
-# Passwords - Dumping Hashes
+# Windows Hash Dumping
 
 #### Windows
 
