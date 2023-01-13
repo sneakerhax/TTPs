@@ -10,7 +10,7 @@
 git grep '<keyword>' $(git rev-list --all)
 ```
 
-Run a single grep on all the contents of a git repo
+Run a single grep on all the contents in the history of a git repo
   
 ## References
 * https://stackoverflow.com/questions/50206886/grep-all-commits-in-a-repository
