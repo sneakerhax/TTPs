@@ -1,4 +1,4 @@
-# Passwords - John the Ripper
+# Passwords Cracking John The Ripper
 
 ```
 zip2john <zip_file>
