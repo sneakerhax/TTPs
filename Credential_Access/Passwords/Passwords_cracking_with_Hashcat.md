@@ -1,4 +1,4 @@
-# Passwords - Hashcat
+# Password cracking with Hashcat
 
 ```
 hashcat -O -a 0 -m 5600 <hashes> <wordlist>
