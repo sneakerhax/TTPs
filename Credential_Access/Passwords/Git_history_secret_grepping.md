@@ -1,4 +1,4 @@
-# Grepping git history for secrets
+# Git history secret grepping
 
 **Description:** This entry describes how to search the content of git history on a local repo for secrets. These are commonly found on systems after gaining an initial foothold
 
