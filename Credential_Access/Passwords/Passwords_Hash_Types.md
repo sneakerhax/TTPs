@@ -1,4 +1,4 @@
-# Passwords Hash Types
+# Password Hash Types
 
 **References:**
 * https://hashcat.net/wiki/doku.php?id=example_hashes
