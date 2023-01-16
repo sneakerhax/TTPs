@@ -41,3 +41,9 @@ while read subdomain;do nslookup $subdomain.sneakerhax.com; done < dns-wordlist.
 ```
 
 Basic nslookup subdomain brute force
+
+```
+while read dir; do status_code=$(curl -w "%{http_code}" -o /dev/null http://<ip_address>:<port>/$dir 2>/dev/null) && printf "[*] $status_code $dir \n"; done < "Discovery/Web-Content/versioning_metafiles.txt"
+```
+
+Get directory status code for directory brute force
