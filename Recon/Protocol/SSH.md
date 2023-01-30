@@ -1,4 +1,4 @@
-# Protocol - SSH
+# SSH
 
 ```
 ssh-keyscan <target>
