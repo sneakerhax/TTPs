@@ -62,8 +62,7 @@ Reverse shell Windows
 
 ## References:
 
-[Reverse shell cheat sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) - Pentestmonkeys
-
-[Netcat cheat sheet v1](http://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf) - Sans Penetration Testing
-
-[Fixing a raw shell](https://nullsec.us/fixing-a-raw-shell/) - Nullsec
+* [Reverse shell cheat sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) - Pentestmonkeys
+* [Netcat cheat sheet v1](http://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf) - Sans Penetration Testing
+* [Fixing a raw shell](https://nullsec.us/fixing-a-raw-shell/) - Nullsec
+* [Upgrading Simple Shells to Fully Interactive TTYs](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/) - Ropnop
