@@ -20,6 +20,6 @@ Docker:
 
 Example header
 
-```<host>:<port>/version```
+```curl -Ik <host>:<port>/version```
 
 Display the api version
