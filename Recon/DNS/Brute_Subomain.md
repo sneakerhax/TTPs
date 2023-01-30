@@ -1,4 +1,4 @@
-# DNS Brute Subdomain
+# Brute Subdomain
 
 ```
 amass -d <domain>
