@@ -1,4 +1,4 @@
-# Port Scanning - Native Tools
+# Native Tools
 
 ```cmd
 FOR /L %x in (1,1,255) do ping -n 1 192.168.2.%x | find /I "reply" >> c:\temp\pingresult.txt
