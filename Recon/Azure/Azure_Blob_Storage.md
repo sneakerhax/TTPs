@@ -1,4 +1,4 @@
-## Azure - Blob Storage
+## Azure Blob Storage
 
 **Description:** This entry describes how to discover blob storage targets
 
