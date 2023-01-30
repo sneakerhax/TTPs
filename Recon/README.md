@@ -1,3 +1,0 @@
-# Reconnaissance
-
-Entries about Reconnaissance

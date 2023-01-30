@@ -1,3 +1,0 @@
-# Discovery
-
-Entries about Discovery
