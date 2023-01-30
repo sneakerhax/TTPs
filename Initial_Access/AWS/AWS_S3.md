@@ -1,6 +1,6 @@
 # AWS - S3
 
-In Burpe keep ```.*amazon*.``` in scope
+In Burp keep ```.*amazon*.``` in scope
 
 ```
 aws s3 ls s3://<repo-name>
