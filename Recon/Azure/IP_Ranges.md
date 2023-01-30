@@ -1,4 +1,4 @@
-# Azure IP Ranges
+# IP Ranges
 
 **Description:** This entry describes how to use curl to get a list of the Azure IP ranges
 
