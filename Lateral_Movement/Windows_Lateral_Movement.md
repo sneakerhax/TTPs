@@ -1,4 +1,4 @@
-# Windows - Lateral Movement
+# Windows Lateral Movement
 
 ```
 dir \\host\c$

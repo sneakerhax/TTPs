@@ -1,4 +1,4 @@
-# Linux - Checking Permissions
+# Checking Permissions
 
 ```
 id

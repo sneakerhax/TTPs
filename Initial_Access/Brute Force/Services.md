@@ -1,4 +1,4 @@
-# Brute Force - Services
+# Services
 
 ```
 ncrack -u user -P password_list.txt -p ssh 192.168.1.1

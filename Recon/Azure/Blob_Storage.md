@@ -1,4 +1,4 @@
-## Blob Storage
+# Blob Storage
 
 **Description:** This entry describes how to discover blob storage targets
 

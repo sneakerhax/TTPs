@@ -1,4 +1,4 @@
-# Brute Force - Password List Generation
+# Password List Generation
 
 ## Password Lists
 

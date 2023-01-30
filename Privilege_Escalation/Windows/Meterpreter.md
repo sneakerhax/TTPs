@@ -1,4 +1,4 @@
-# Windows - Meterpreter
+# Meterpreter
 
 ```
 getuid
