@@ -1,4 +1,4 @@
-# Data Sources - Certificates
+# Certificates
 
 Open Data (data can be found [here](https://opendata.rapid7.com/))
 
