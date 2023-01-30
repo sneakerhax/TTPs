@@ -1,4 +1,4 @@
-# Misc - Bash One Liners
+# Bash One Liners
 
 ```
 while read site;do curl -ILk $site/jmx-console 2>/dev/null; done < sites.txt
