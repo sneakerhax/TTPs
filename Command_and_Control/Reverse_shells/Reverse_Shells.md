@@ -1,4 +1,4 @@
-# Public Exploits - Reverse Shells
+Reverse Shells
 
 ## Bash
 
