@@ -1,4 +1,4 @@
-# Metadata - PDF
+# PDF
 
 ```
 exiftool <pdf>
