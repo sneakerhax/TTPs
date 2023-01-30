@@ -1,4 +1,4 @@
-# Content Discovery - Directory Brute
+# Directory Brute
 
 ```
 dirb http://<url> <wordlist> -w -N 404
