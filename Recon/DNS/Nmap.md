@@ -13,13 +13,13 @@ nmap --script dns-brute --script-args dns-brute.domain=<domain>,dns-brute.thread
 Subdomain brute force with Nmap dns-brute NSE script
 
 ```
-nmap --resolve-all -sL <site>
+nmap --resolve-all -sL <target>
 ```
 
 Resolve all ipv4 addresses for website
 
 ```
-nmap --resolve-all -sL -6 <site>
+nmap --resolve-all -sL -6 <target>
 ```
 
 Resolve all ipv6 addresses for a website
