@@ -1,4 +1,4 @@
-# Discovering Docker API
+# Discovering Docker Engine API
 
 This entry describes how to perform recon to discovery Docker API
 
