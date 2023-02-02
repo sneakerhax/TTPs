@@ -16,4 +16,4 @@ Looking for Wordpress sites(Wordpress must expose this directory)
 inurl:<file_name>.axd filetype:axd site:site.com
 ```
 
-Look for sensitive files
+Look for axd files which frequently contain passwords
