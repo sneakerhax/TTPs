@@ -1,6 +1,6 @@
 # http
 
-**Description:** This entry describes ways to probe http for recon
+**Description:** This entry describes how to collect http information
 
 **Requirements:** httpx
 

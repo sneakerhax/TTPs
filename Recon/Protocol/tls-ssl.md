@@ -1,4 +1,10 @@
-# SSL
+# TLS, SSL
+
+**Description:** This entry describes how to collect SSL/TLS certificate information
+
+**Requirements:** openssl, timeout
+
+## Collecting ssl/tls certificate information
 
 ```
 openssl s_client -connect sneakerhax.com:443 -showcerts
@@ -17,3 +23,9 @@ timeout 1 ssh -a -l ec2-user -v -o PubkeyAuthentication=no -o PasswordAuthentica
 ```
 
 See supported authentication methods for SSH(Must have timeout installed(part of coreutils))
+  
+## References
+* [OpenSSL CLI Docs](https://wiki.openssl.org/index.php/Command_Line_Utilities)
+
+
+
