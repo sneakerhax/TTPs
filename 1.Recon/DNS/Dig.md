@@ -2,7 +2,7 @@
 
 **Description:** This entry describes how to use Dig to lookup domains
 
-**Requirements:** Dig
+**Requirements:** dig
 
 ## Running Dig
 

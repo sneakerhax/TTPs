@@ -1,6 +1,10 @@
 # Blob Storage
 
-### Searching blog storage
+**Description:** This entry describes how to work with Azure blog storage for intial access
+
+**Requirements:** browser
+
+## Searching blog storage for secrets
 
 File types that may contain secrets:
 * Search inside blob storage for .publishsetting file which contains an encoded certificate with management credentials
@@ -14,6 +18,6 @@ Look for the following in files:
 
 Grep VHDS files for shadow hashes (Download VHD and run the following grep):
 Select-String ":0:99999:" <file>.vhd -ca
-
+  
 ## References
 * [Blue Cloud of Death Red Teaming Azure](https://www.youtube.com/watch?v=DPcMuRP3P7A) - Bryce Kunz

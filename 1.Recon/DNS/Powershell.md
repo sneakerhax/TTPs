@@ -2,7 +2,7 @@
 
 **Description:** This entry describes how to use Powershell to lookup domains
 
-**Requirements:** Powershell (Windows)
+**Requirements:** powershell
 
 ## Running Powershell
 

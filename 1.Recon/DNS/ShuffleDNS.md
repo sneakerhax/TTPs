@@ -2,7 +2,7 @@
 
 **Description:** This entry describes how to use ShuffleDNS to brute force dns records
 
-**Requirements:** ShuffleDNS, Docker (optional)
+**Requirements:** shuffledns, docker (optional)
 
 ## Running ShuffleDNS to brute force DNS records
 

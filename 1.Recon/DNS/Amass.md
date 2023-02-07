@@ -2,7 +2,7 @@
 
 **Description:** This entry describes how to use Amass to discover subdomains
 
-**Requirements:** Amass, bash
+**Requirements:** amass, bash
 
 ## Running Amass
 

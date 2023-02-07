@@ -2,7 +2,7 @@
 
 **Description:** This entry describes how to lookup ASN records on bgp.he.net
 
-**Requirements:** Browser
+**Requirements:** browser
 
 ## Using Hurricane Electric Internet Services
 

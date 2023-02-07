@@ -2,7 +2,7 @@
 
 **Description:** This entry describes how to use Nmap to perform port scans
 
-**Requirements:** Nmap
+**Requirements:** nmap
 
 ## Running Nmap to perform port scans
 

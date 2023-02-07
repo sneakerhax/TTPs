@@ -2,7 +2,7 @@
 
 **Description:** Kube-Hunter is a tool used to scan Kubernetes cluster for security weaknesses
 
-**Requirements:** Docker
+**Requirements:** docker
 
 ## Scanning a remote Kuberntes cluster
 
@@ -22,4 +22,3 @@ Run a scan on network interfaces (easier for local Kubernetes scans)
 
 ## References
 * https://github.com/aquasecurity/kube-hunter
-

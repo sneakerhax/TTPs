@@ -26,6 +26,3 @@ See supported authentication methods for SSH(Must have timeout installed(part of
   
 ## References
 * [OpenSSL CLI Docs](https://wiki.openssl.org/index.php/Command_Line_Utilities)
-
-
-

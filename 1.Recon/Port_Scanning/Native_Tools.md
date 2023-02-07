@@ -2,7 +2,7 @@
 
 **Description:** This entry describes how to use native operating system tools to perform port scans
 
-**Requirements:** CMD (Windows), Bash, Powershell (Windows)
+**Requirements:** cmd (windows), bash, powershell
 
 ## Running native operating system tools to perform port scans
 

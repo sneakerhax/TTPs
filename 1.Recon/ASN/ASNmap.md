@@ -2,7 +2,7 @@
 
 **Description:** A entry to describe how to use ASNmap to collect ASN ranges
 
-**Requirements:** Go, ASNmap
+**Requirements:** go, asnmap
 
 ## Running ASNMap
 

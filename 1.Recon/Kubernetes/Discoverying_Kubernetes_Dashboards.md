@@ -2,7 +2,7 @@
 
 **Description:** This entry describes how to discovery Kubernetes dashboard
 
-**Requirements:** Curl, Nmap, Metasploit
+**Requirements:** curl, nmap, metasploit
 
 ## Curl
 

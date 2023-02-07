@@ -1,12 +1,10 @@
-# Password List Generation
+# Crunch
 
-## Password Lists
+**Description:** This entry describes how to generate custom password lists using crunch
 
-```
-cewl www.site.com -m 5 -w passwords.txt
-```
+**Requirements:** crunch
 
-Generating a wordlist with cewl from website crawl(minimum 5 char):
+## Generating custom password lists using crunch
 
 ```
 crunch 6 6 0123456789ABCDEF -o passwords.txt
@@ -26,18 +24,22 @@ crunch 4 4 -f /usr/share/crunch/charset.lst mixalpha
 
 Using crunch pre-defined character sets(More can be found in the man page)
 
-Crunch Custom translation placeholders
-
+```
 | Character     | Type                               |
 | ------------- |:----------------------------------:|
 | @             | Lower case alpha characters        |
 | ,             | Upper case alpha characters        |
 | %             | Numeric characters                 |
 | ^             | Special characters including space |
+```
 
-
-Generating customer translation wordlist
+Crunch Custom translation placeholders
 
 ```
 crunch 8 8 -t ,@@^^%%%
 ```
+
+Generating customer translation wordlist
+  
+## References
+* [Kali Tool - crunch](https://www.kali.org/tools/crunch/)

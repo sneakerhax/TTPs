@@ -2,7 +2,7 @@
 
 **Description:** This entry describes how to lookup ASN records on bgpview.io
 
-**Requirements:** Browser, curl, jq
+**Requirements:** browser, curl, jq
 
 ## Section
 

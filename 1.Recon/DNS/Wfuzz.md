@@ -2,7 +2,7 @@
 
 **Description:** This entry describes how to use Wfuzz to discover subdomains
 
-**Requirements:** Python, Wfuzz
+**Requirements:** python, wfuzz
 
 ## Run Wfuzz
 

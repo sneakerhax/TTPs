@@ -2,7 +2,7 @@
 
 **Description:** This entry describes how to use Nslookup to lookup domains
 
-**Requirements:** Nslookup
+**Requirements:** nslookup
 
 ## Running Nslookup
 

@@ -2,7 +2,7 @@
 
 **Description:** KubeScan is a tool used to scan Kubernetes cluster for risky RBAC configurations
 
-**Requirements:** Docker
+**Requirements:** docker
 
 ## Scanning using Kubernetes configuration file
 
@@ -20,4 +20,3 @@ Check for all risky roles
 
 ## References
 * https://github.com/cyberark/KubiScan
-

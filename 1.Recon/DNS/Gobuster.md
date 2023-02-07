@@ -2,7 +2,7 @@
 
 **Description:** This entry describes how to use Gobuster to discover subdomains
 
-**Requirements:** Go, Gobuster
+**Requirements:** go, gobuster
 
 ## Running Gobuster
 

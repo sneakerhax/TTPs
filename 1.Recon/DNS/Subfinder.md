@@ -2,7 +2,7 @@
 
 **Description:** This entry describes how to use Subfinder to discovery passive dns data
 
-**Requirements:** subfinder, Docker (optional)
+**Requirements:** subfinder, docker (optional)
 
 ## Running subfinder to discovery passive records
 

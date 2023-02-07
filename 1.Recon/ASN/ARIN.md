@@ -2,7 +2,7 @@
 
 **Description:** This entry describes how to lookup ASN records on arin.net
 
-**Requirements:** Browser
+**Requirements:** browser
 
 ## Section
 

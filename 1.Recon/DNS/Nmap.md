@@ -2,7 +2,7 @@
 
 **Description:** This entry describes how to use Nmap to discover subdomains
 
-**Requirements:** Nmap
+**Requirements:** nmap
 
 ## Running Nmap
 

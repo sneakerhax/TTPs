@@ -2,7 +2,7 @@
 
 **Description:** This entry describes how to use hardCIDR to discovery ASN ranges
 
-**Requirements:** Docker (optional), hardCIDR
+**Requirements:** docker (optional), hardcidr
 
 ## Running hardCIDR
 
