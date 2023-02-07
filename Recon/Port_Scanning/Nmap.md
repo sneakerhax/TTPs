@@ -1,5 +1,11 @@
 # Nmap
 
+**Description:** This entry describes how to use Nmap to perform port scans
+
+**Requirements:** Nmap
+
+## Running Nmap to perform port scans
+
 ```
 nmap -sn -n T4 192.168.1.1/24
 ```
@@ -53,3 +59,7 @@ nmap -g 443 -p- <ipaddress>
 ```
 
 Enter firewall with source port 443 specified to leverage loosely configured firewall rules
+
+  
+## References
+* [Nmap - Usage and Examples](https://nmap.org/book/osdetect-usage.html)

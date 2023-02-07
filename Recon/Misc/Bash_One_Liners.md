@@ -1,5 +1,11 @@
 # Bash One Liners
 
+**Description:** This entry describes various ways to use bash one liners to perform recon
+
+**Requirements:** bash, curl
+
+## Using Bash for recon
+
 ```
 while read site;do curl -ILk $site/jmx-console 2>/dev/null; done < sites.txt
 ```
@@ -47,3 +53,6 @@ while read dir; do status_code=$(curl -w "%{http_code}" -o /dev/null http://<ip_
 ```
 
 Get directory status code for directory brute force
+  
+## References
+* [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)

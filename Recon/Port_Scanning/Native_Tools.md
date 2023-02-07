@@ -1,5 +1,11 @@
 # Native Tools
 
+**Description:** This entry describes how to use native operating system tools to perform port scans
+
+**Requirements:** CMD (Windows), Bash, Powershell (Windows)
+
+## Running native operating system tools to perform port scans
+
 ```cmd
 FOR /L %x in (1,1,255) do ping -n 1 192.168.2.%x | find /I "reply" >> c:\temp\pingresult.txt
 ```
@@ -36,3 +42,6 @@ for p in {443..443}; do(echo >/dev/tcp/*host*/$p) >/dev/null 2>&1 && echo "$p op
 ```
 
 Port scan Linux command line
+
+## References
+* [Microsoft Learn Test-NetConnection](https://learn.microsoft.com/en-us/powershell/module/nettcpip/test-netconnection?view=windowsserver2022-ps)

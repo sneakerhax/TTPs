@@ -2,7 +2,7 @@
 
 **Description:** This entry describes how to discover blob storage targets
 
-**Requirements:** web browser, gobuster
+**Requirements:** Browser, gobuster
 
 ## Discovering blob storage targets with web browser
 
