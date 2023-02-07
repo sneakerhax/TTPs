@@ -17,3 +17,6 @@ inurl:<file_name>.axd filetype:axd site:site.com
 ```
 
 Look for axd files which frequently contain passwords
+
+## References
+* [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
