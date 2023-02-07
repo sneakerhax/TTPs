@@ -1,4 +1,4 @@
-# http
+# HTTP
 
 **Description:** This entry describes how to collect http information
 
