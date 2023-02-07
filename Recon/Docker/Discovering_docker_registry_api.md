@@ -1,8 +1,8 @@
 # Discovering Docker registry api
 
-**Description:** A description of the entry
+**Description:** This entry describes how to perform recon to discovery the Docker registry API
 
-**Requirements:** This entry describes how to perform recon to discovery the Docker registry API
+**Requirements:** curl
 
 ## Common Docker registry api ports
 

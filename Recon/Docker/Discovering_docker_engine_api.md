@@ -2,6 +2,8 @@
 
 **Description:** This entry describes how to perform recon to discovery the Docker engine API
 
+**Requirements:** curl
+
 ## Common Docker Engine API Ports
 
 * 2375 - Unencrypted
