@@ -1,8 +1,10 @@
-# Windows - CMD
+# CMD
 
-Using the Windows command line to search for privilige escalation
+**Description:** This entry described how to look for privilege escalation opportunities using the Windows command line
 
-### Check current privileges
+**Requirements:** cmd (windows)
+
+## Checking current permissions
 
 ```
 whoami /groups
@@ -10,7 +12,7 @@ whoami /groups
 
 Windows - to check integrity level and permissions
 
-### Patch Level
+## Checking patch level
 
 ```
 winver
@@ -28,4 +30,8 @@ Using WMIC to check for installed patches
 systeminfo.exe
 ```
 
-Check for missing patches (CMD)
+Check for missing patches
+
+  
+## References
+* none

@@ -1,5 +1,11 @@
 # Checking Permissions
 
+**Description:** This entry describes how to check your permission level on Linux
+
+**Requirements:** required software
+
+## Running commands to check current permission level
+
 ```
 id
 ```
@@ -23,3 +29,6 @@ sudo -l
 ```
 
 List available sudo commands
+  
+## References
+* none

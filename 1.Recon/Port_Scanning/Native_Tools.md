@@ -44,4 +44,4 @@ for p in {443..443}; do(echo >/dev/tcp/*host*/$p) >/dev/null 2>&1 && echo "$p op
 Port scan Linux command line
 
 ## References
-* [Microsoft Learn Test-NetConnection](https://learn.microsoft.com/en-us/powershell/module/nettcpip/test-netconnection?view=windowsserver2022-ps)
+* [MSLearn Test-NetConnection](https://learn.microsoft.com/en-us/powershell/module/nettcpip/test-netconnection?view=windowsserver2022-ps)
