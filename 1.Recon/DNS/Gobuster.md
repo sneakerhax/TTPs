@@ -13,4 +13,4 @@ gobuster -m dns -u <domain> -w <wordlist> -t 50
 Gobuster sub-domain brute
   
 ## References
-* [Gobuster Github](https://github.com/OJ/gobuster)
+* [Github - Gobuster](https://github.com/OJ/gobuster)

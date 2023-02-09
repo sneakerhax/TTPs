@@ -13,4 +13,4 @@ docker run -v $(pwd):/tmp -it hardcidr
 Running hardCIDR with Docker (follow the prompts on screen)
   
 ## References
-* [hardCIDR Github](https://github.com/trustedsec/hardcidr)
+* [Github - hardCIDR](https://github.com/trustedsec/hardcidr)

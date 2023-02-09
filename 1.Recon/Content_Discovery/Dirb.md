@@ -14,4 +14,4 @@ Brute force with dirb and ignore 404 reponses
   
 ## References
 * [Kali Tool - dirb](https://www.kali.org/tools/dirb/)
-* [Dirb Gitlab](https://salsa.debian.org/pkg-security-team/dirb)
+* [Gitlab - Dirb](https://salsa.debian.org/pkg-security-team/dirb)

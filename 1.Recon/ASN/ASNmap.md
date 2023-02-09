@@ -19,4 +19,4 @@ asnmap -a <ASN_ID> -silent
 Lookup ASN IP ranges by ASN ID
   
 ## References
-* [ASNmap Github](https://github.com/projectdiscovery/asnmap)
+* [Github - ASNmap](https://github.com/projectdiscovery/asnmap)

@@ -13,4 +13,4 @@ docker run projectdiscovery/shuffledns -d <target> -r <list_of_resolvers> -w <wo
 Run ShuffleDNS on target using Docker
   
 ## References
-* [ShuffleDNS Github](https://github.com/projectdiscovery/shuffledns)
+* [Github - ShuffleDNS](https://github.com/projectdiscovery/shuffledns)

@@ -23,4 +23,4 @@ Checking missing patches (Powershell)
   
 ## References
 * [Powersploit - PowerUp](https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1)
-* [MSLearn GetHotfix](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-hotfix?view=powershell-7.3)
+* [MSLearn - GetHotfix](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-hotfix?view=powershell-7.3)

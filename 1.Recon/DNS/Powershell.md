@@ -13,4 +13,4 @@ Resolve-DnsName <hostname>
 Lookup hostname with Powershell
   
 ## References
-* [MSLearn Resolve-DnsName](https://learn.microsoft.com/en-us/powershell/module/dnsclient/resolve-dnsname?view=windowsserver2022-ps)
+* [MSLearn - Resolve-DnsName](https://learn.microsoft.com/en-us/powershell/module/dnsclient/resolve-dnsname?view=windowsserver2022-ps)

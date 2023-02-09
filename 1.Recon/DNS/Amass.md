@@ -13,5 +13,5 @@ amass -d <domain>
 Amass sub-domain brute
   
 ## References
-* [Amass Github](https://github.com/OWASP/Amass)
-* [Amass user guide](https://github.com/OWASP/Amass/blob/master/doc/user_guide.md)
+* [Github - Amass](https://github.com/OWASP/Amass)
+* [Amass - User Guide](https://github.com/OWASP/Amass/blob/master/doc/user_guide.md)

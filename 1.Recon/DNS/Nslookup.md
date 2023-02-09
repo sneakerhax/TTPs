@@ -15,4 +15,4 @@ nslookup
 Lookup different record types for domain name (e.g. a,mx,ns)
   
 ## References
-* [MSLearn Nslookup](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup)
+* [MSLearn - Nslookup](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup)

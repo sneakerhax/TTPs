@@ -25,4 +25,4 @@ curl -Lk "https://api.bgpview.io/search?query_term=adobe" | jq '.data.ipv4_prefi
 Seearch term and pull out all ip ranges
   
 ## References
-* [BGP faq](https://bgpview.io/faq)
+* [BGP - faq](https://bgpview.io/faq)

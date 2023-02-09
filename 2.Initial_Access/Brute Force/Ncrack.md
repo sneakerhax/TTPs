@@ -25,4 +25,4 @@ ncrack --user admin -P passwords.txt https://192.168.1.1:443
 Brute force HTTP(S) with password list and single user
   
 ## References
-* [Ncrack Reference Guide](https://nmap.org/ncrack/man.html)
+* [Ncrack - Reference Guide](https://nmap.org/ncrack/man.html)

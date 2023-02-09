@@ -27,4 +27,4 @@ curl the image manifest and search for secrets.
 
   
 ## References
-* [Docker Registry Engine API Reference](https://docs.docker.com/registry/spec/api/)
+* [Docker Registry Engine - API Reference](https://docs.docker.com/registry/spec/api/)

@@ -58,4 +58,4 @@ kubectl auth can-i --list
 List all privileges with current context
 
 ## References
-* [Kubectl Reference Docs](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
+* [Kubectl - Reference Docs](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)

@@ -28,4 +28,4 @@ Create report in censys for domain certificates
 
   
 ## References
-* [Censys Search Docs](https://search.censys.io/search/language?resource=hosts)
+* [Censys - Search Docs](https://search.censys.io/search/language?resource=hosts)

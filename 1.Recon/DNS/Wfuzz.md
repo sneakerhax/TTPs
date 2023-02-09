@@ -13,5 +13,5 @@ wfuzz -H 'Host: FUZZ.site.com' -w <wordlist> -u site.com --hh <remove string> -h
 Fuzz DNS with wfuzz (hide 404)
   
 ## References
-* [Wfuzz Github](https://github.com/xmendez/wfuzz)
-* [Wfuzz Docs](https://wfuzz.readthedocs.io/en/latest/)
+* [Github - Wfuzz](https://github.com/xmendez/wfuzz)
+* [Wfuzz - Docs](https://wfuzz.readthedocs.io/en/latest/)

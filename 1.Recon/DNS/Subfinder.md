@@ -13,4 +13,4 @@ docker run projectdiscovery/subfinder:latest -d <target>
 Run subfinder on target using Docker
   
 ## References
-* [Subfinder Github](https://github.com/projectdiscovery/subfinder)
+* [Github - Subfinder](https://github.com/projectdiscovery/subfinder)

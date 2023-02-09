@@ -13,4 +13,4 @@ download=$(curl -s https://www.microsoft.com/en-us/download/confirmation.aspx?id
 Bash one liner to grab current Azure IP ranges
 
 ## References
-* https://www.microsoft.com/en-us/download/confirmation.aspx?id=41653
+* [MS Download Center - Azure ranges](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41653)z
