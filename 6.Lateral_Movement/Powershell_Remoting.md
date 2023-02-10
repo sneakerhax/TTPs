@@ -1,5 +1,11 @@
 # Powershell Remoting
 
+**Description:** This entry describes how to use Powershell Remoting for lateral movement
+
+**Requirements:** powershell
+
+## Running remote commands with Powershell Remoting
+
 ```
 $cred = Get-Credential
 ```
@@ -17,3 +23,6 @@ Enter-PSSession $session
 ```
 
 Entering the session
+  
+## References
+* [MSLearn - Running Remote Commands](https://learn.microsoft.com/en-us/powershell/scripting/learn/remoting/running-remote-commands)

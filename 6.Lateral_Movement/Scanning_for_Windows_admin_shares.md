@@ -10,3 +10,8 @@
 $machines = Get-Content <file>
 $machines | ForEach-Object {dir \\$_\c$}
 ```
+
+Scan remote machines for c$ admin acess
+
+## Refernces
+*none

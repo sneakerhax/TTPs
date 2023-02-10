@@ -1,5 +1,11 @@
 # Windows Lateral Movement
 
+**Description:** This entry describes how to use various commands for lateral movement
+
+**Requirements:** required software
+
+## Commands to perform lateral movement
+
 ```
 dir \\host\c$
 ```
@@ -47,3 +53,6 @@ Powershell Invoke-Command -ComputerName (host) -ScriptBlock { dir c:\ }
 ```
 
 WinRM(port 5985) turned off by default(turned on for administration) Run command with Windows remoting
+  
+## References
+* none
