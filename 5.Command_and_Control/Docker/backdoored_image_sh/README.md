@@ -1,5 +1,9 @@
 # Backdoored shell script in container image
 
+**Description:** This entry describes how to setup a shell script to backdoor container images
+
+**Requirements:** docker, curl, python, ngrok
+
 ## Scenario
 
 You have the acccess to modify docker images either through source that contains a shell script called in the Dockerfile or through an image registry. The shell script that you can modify runs on startup (a pretty common scenario)
@@ -91,3 +95,6 @@ docker run -it backdoor
 ```
 
 If everything goes according to plan you should get a callback similar to the this [tweet](https://twitter.com/sneakerhax/status/1416870516976099330?s=20)
+
+## References
+* none

@@ -1,5 +1,11 @@
 # Reverse Shells
 
+**Description:** This entry describes how to use various programming languages to create a reverse shell
+
+**Requirements:** varies based on shell
+
+## Commands to create reverse shell connections
+
 ## Bash
 
 ```
