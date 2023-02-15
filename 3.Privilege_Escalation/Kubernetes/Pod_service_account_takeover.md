@@ -59,3 +59,4 @@ List all privileges with current context
 
 ## References
 * [Kubectl - Reference Docs](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
+* [Kubernetes docs - access api from pod](https://kubernetes.io/docs/tasks/run-application/access-api-from-pod/)
