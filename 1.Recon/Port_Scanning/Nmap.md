@@ -43,7 +43,7 @@ nmap -sn -Pn -n --script=shodan-api --script-args 'shodan-api.apikey=XXXX' <targ
 Lookup target in Shodan without active port scanning
 
 ```
-nmap -p U:53,T:443 <target>
+nmap -sU -sT -p U:53,T:443 <target>
 ```
 
 Scan UDP and TCP ports
