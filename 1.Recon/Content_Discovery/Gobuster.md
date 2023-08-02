@@ -7,7 +7,7 @@
 ## Running Gobuster to discover website content
 
 ```
-gobuster dir -u <url> -w <wordlist> -t 50
+gobuster dir -u <url> -w <wordlist> -t 50 --random-agent -b 400,403,404
 ```
 
 Brute force with 50 threads and only list status code 200
