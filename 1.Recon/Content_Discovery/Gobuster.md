@@ -7,7 +7,7 @@
 ## Running Gobuster to discover website content
 
 ```
-gobuster -u <url> -w <wordlist> -t 50 -fw -s 20
+gobuster dir -u <url> -w <wordlist> -t 50
 ```
 
 Brute force with 50 threads and only list status code 200
