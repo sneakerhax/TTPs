@@ -12,6 +12,15 @@ Resources to define, understand the execution, and goals of Red Teaming. These r
 
 * [Red Team](https://en.wikipedia.org/wiki/Red_team) - Wikipedia
 * [Hacking Google | Red Team](https://www.youtube.com/watch?v=TusQWn2TQxQ) - Google
+* [Red teaming 101: What is red teaming?](https://www.ibm.com/blog/red-teaming-101-what-is-red-teaming/) - Evan Anderson (IBM)
+
+ ## TTP
+
+ * [Mitre Att&ck](https://attack.mitre.org) - Mitre
+ * [NIST Glossary - Tactics, Techniques, and Procuedures](https://csrc.nist.gov/glossary/term/tactics_techniques_and_procedures) - NIST
+ * [NIST Glossary - Tactic, Technique, and Procedure](https://csrc.nist.gov/glossary/term/tactic_technique_procedure) - NIST
+ * [What’s in a name? TTPs in Info Sec](https://posts.specterops.io/whats-in-a-name-ttps-in-info-sec-14f24480ddcc) - Robby Winchester
+ * [Red Team Guide - RED TEAM TRADECRAFT AND TTP GUIDANCE](https://redteam.guide/docs/Planning/red-team-tradecraft/) - Joe Vest and James Tubberville
 
 ## Execution
 * [Red Teaming: Using Cutting-Edge Threat Simulation to Harden the Microsoft Enterprise Cloud](https://azure.microsoft.com/en-us/blog/red-teaming-using-cutting-edge-threat-simulation-to-harden-the-microsoft-enterprise-cloud/) - Scott Field
