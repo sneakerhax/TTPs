@@ -72,7 +72,7 @@ python3 -m http.server
 ngrok http 8000 -bind-tls=true
 ```
 
-Starts an ngrok listener and gives you a public address (You will need to follow the [Building the image](https://github.com/sneakerhax/OffensiveDocker/tree/main/Labs/backdoored_image_sh#building-the-image) section to grab the certificate)
+Starts an ngrok listener and gives you a public address (You will need to follow the [Building the image](https://github.com/sneakerhax/TTPs/tree/main/5.Command_and_Control/Docker/backdoored_image_sh#building-the-image) section to grab the certificate)
 
 ## Start your Netcat handler
 
