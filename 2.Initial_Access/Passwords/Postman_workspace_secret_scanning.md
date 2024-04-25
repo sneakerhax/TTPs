@@ -10,7 +10,7 @@
 https://www.postman.com/search?q=<search_term>&scope=all&type=workspace
 ```
 
-Add the search term to the query and paste it into a browser. Use the below reference to discovery the Workspace ID.
+Add the search term to the query and paste it into a browser. Use the reference "How to find the ID of an element in Postman" to discover the Workspace ID.
 
 ## Using Trufflehog to search public Postman workspaces for secrets
 
@@ -18,7 +18,7 @@ Add the search term to the query and paste it into a browser. Use the below refe
 trufflehog postman --workspace <workspace_id> --token <postman_api_token>
 ```
 
-Add the workspace ID discovered above and your postman API token.
+Add the workspace ID discovered above and your Postman API token.
   
 ## References
 * [(The) Postman Carries Lots of Secrets](https://trufflesecurity.com/blog/postman-carries-lots-of-secrets)
