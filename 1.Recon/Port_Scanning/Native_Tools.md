@@ -38,7 +38,7 @@ for i in {1..254}; do ping -c 1 -W 1 192.168.1.$i | grep 'from'; done
 Ping scan Linux command line
 
 ```bash
-for p in {443..443}; do(echo >/dev/tcp/*host*/$p) >/dev/null 2>&1 && echo "$p open" || echo "$p closed"; done
+for p in {443..443}; do(echo >/dev/tcp/*host*/$p) >/dev/null 2>&1 && echo "$p open" || echo "$p closed"; done | grep open
 ```
 
 Port scan Linux command line
