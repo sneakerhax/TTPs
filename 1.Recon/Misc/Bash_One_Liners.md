@@ -25,7 +25,7 @@ while read site;do status=$(curl -I $site 2>/dev/null | head -1) && echo $site $
 Get status code from list of ip address
 
 ```
-while read ip;do nmap -n -sL $ip | grep "report for" | cut -d " " -f5 >> iplistoutput;done < iplist.txt
+while read cidr_block;do nmap -n -sL $cidr_block | grep "report for" | cut -d " " -f5 >> ip_list.txt;done < cidr_list.txt
 ```
 
 Get list of ip addresses from list of cidr blocks in text file
