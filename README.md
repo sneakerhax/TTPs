@@ -26,7 +26,6 @@ Resources to define, understand the execution, and goals of Red Teaming. These r
 * [Red Teaming: Using Cutting-Edge Threat Simulation to Harden the Microsoft Enterprise Cloud](https://azure.microsoft.com/en-us/blog/red-teaming-using-cutting-edge-threat-simulation-to-harden-the-microsoft-enterprise-cloud/) - Scott Field
 * [GitLab - Red Team](https://about.gitlab.com/handbook/engineering/security/threat-management/red-team/) - Chris Moberly (Gitlab)
 * [Red Team Operations with Cobalt Strike (2019)](https://www.youtube.com/watch?v=q7VQeK533zI&list=PL9HO6M_MU2nfQ4kHSCzAQMqxQxH47d1no) - Raphael Mudge
-* [Advanced Threat Tactics Course and Notes (2015)](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/) - Raphael Mudge
 * [Cobalt Strike Blog](https://www.cobaltstrike.com/blog/) - Raphael Mudge
 * [Dirty Red Team Tricks](https://www.youtube.com/watch?v=oclbbqvawQg) - Raphael Mudge and Rob Fuller
 * [Dirty Red Team Tricks 2.0](https://www.youtube.com/watch?v=6kKoJW5xvhg) - Raphael Mudge
