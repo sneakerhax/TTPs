@@ -43,10 +43,11 @@ Resources to define, understand the execution, and goals of Red Teaming. These r
 * [Data Breach Investigation Report](https://www.verizon.com/business/resources/reports/dbir/) - Verizon
 * [What is the cost of a data breach?](https://www.csoonline.com/article/3434601/what-is-the-cost-of-a-data-breach.html) - Michael Hill (CSO online)
 * [89 Must-Know Data Breach Statistics 2022](https://www.varonis.com/blog/data-breach-statistics) - Rob Sobers (Varonis)
-* [Annual Data Breaches US 2005 - 2022](https://www.statista.com/statistics/273550/data-breaches-recorded-in-the-united-states-by-number-of-breaches-and-records-exposed/) - Statista Research Department
+* [Annual Data Breaches US 2005 - Current](https://www.statista.com/statistics/273550/data-breaches-recorded-in-the-united-states-by-number-of-breaches-and-records-exposed/) - Statista Research Department
 * [CYBERSECURITY INCIDENT TRACKER](https://www.board-cybersecurity.com/incidents/tracker/) - Board CyberSecurity
   * [SEC FORM 8-K](https://www.sec.gov/answers/form8k.htm) - U.S. Securities and Exchange Commission
 * [Significant Cyber Incidents](https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents) - CSIS
+* [Awesome Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) - Jacob Wilson
  
 ## Books
 * [Red Team Development and Operations: A practical guide](https://www.amazon.com/Red-Team-Development-Operations-practical/dp/B083XVG633) - Joe Vest and James Tubberville
