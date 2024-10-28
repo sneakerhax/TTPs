@@ -1,13 +1,15 @@
-# Discovering Docker Engine API
+# Discovering Docker Engine API (Docker Daemon)
 
-**Description:** This entry describes how to perform recon to discovery the Docker engine API
+**Description:** This entry describes how to perform recon to discover the Docker engine API
 
 **Requirements:** curl
 
 ## Common Docker Engine API Ports
 
-* 2375 - Unencrypted
-* 2376 - Encrypted
+* 2375 - Unencrypted Docker Daemon access
+* 2376 - Encrypted Docker Daemon access
+* 4243 - Docker rest API over HTTP
+* 4244 - Docker Swarm API (now integrated into Docker API)
 
 ## Discovering the Docker engine API
 
