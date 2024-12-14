@@ -37,6 +37,7 @@ Resources to define, understand the execution, and goals of Red Teaming. These r
 * [Tradecraft Security Weekly](https://www.youtube.com/playlist?list=PLlPkFwQHxYE7Yi5jtcSyCCr8pXxP1OEkZ) - Security Weekly
 * [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) - bluescreenofjeff
 * [Red Teaming Experiments](https://www.ired.team/) - spottheplanet
+* [Meta Tech Podcast - Offensive Security at Meta's Red Team X](https://insidefacebookmobile.libsyn.com/53-offensive-security-at-metas-red-team-x) - Meta
 
 ## Breaches & Incidents
 * [Cost of a Data Breach Report](https://www.ibm.com/security/data-breach) - IBM
