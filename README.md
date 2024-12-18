@@ -8,7 +8,7 @@ Tactics, Techniques, and Procedures (aka. my notes)
 
 Resources to define, understand the execution, and goals of Red Teaming. These resources have an emphasis on Enterprise Red Teaming in the cloud
 
-## Definition
+## General
 
 * [Red Team](https://en.wikipedia.org/wiki/Red_team) - Wikipedia
 * [Hacking Google | Red Team](https://www.youtube.com/watch?v=TusQWn2TQxQ) - Google
@@ -38,6 +38,7 @@ Resources to define, understand the execution, and goals of Red Teaming. These r
 * [Tradecraft Security Weekly](https://www.youtube.com/playlist?list=PLlPkFwQHxYE7Yi5jtcSyCCr8pXxP1OEkZ) - Security Weekly
 * [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) - bluescreenofjeff
 * [Red Teaming Experiments](https://www.ired.team/) - spottheplanet
+* [Assumed Breach: The Evolution of Offensive Security Testing](https://trustedsec.com/blog/assumed-breach-the-evolution-of-offensive-security-testing) - Jason Lang (TrustedSec)
 
 ## Breaches & Incidents
 * [Cost of a Data Breach Report](https://www.ibm.com/security/data-breach) - IBM
