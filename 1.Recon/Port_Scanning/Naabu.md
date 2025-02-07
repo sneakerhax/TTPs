@@ -1,6 +1,6 @@
 # Naabu
 
-**Description:** This entry describes how to port scan with Naabu
+**Description:** This entry describes how to use Naabu to perform port scans
 
 **Requirements:** naabu
 
