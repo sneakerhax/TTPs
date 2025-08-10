@@ -12,7 +12,7 @@ Resources to define, understand the execution, and goals of Red Teaming. These r
 
 * [Red Team](https://en.wikipedia.org/wiki/Red_team) - Wikipedia
 * [Hacking Google | Red Team](https://www.youtube.com/watch?v=TusQWn2TQxQ) - Google
-* [Red teaming 101: What is red teaming?](https://www.ibm.com/blog/red-teaming-101-what-is-red-teaming/) - Evan Anderson (IBM)
+* [Red teaming 101: What is red teaming?](https://www.ibm.com/think/topics/red-teaming) - Evan Anderson (IBM)
 * [Meta Tech Podcast - Offensive Security at Meta's Red Team X](https://insidefacebookmobile.libsyn.com/53-offensive-security-at-metas-red-team-x) - Meta
 
  ## TTP
