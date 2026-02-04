@@ -47,7 +47,7 @@ Resources to define, understand the execution, and goals of Red Teaming. These r
 * [89 Must-Know Data Breach Statistics 2022](https://www.varonis.com/blog/data-breach-statistics) - Rob Sobers (Varonis)
 * [Annual Data Breaches US 2005 - Current](https://www.statista.com/statistics/273550/data-breaches-recorded-in-the-united-states-by-number-of-breaches-and-records-exposed/) - Statista Research Department
 * [CYBERSECURITY INCIDENT TRACKER](https://www.board-cybersecurity.com/incidents/tracker/) - Board CyberSecurity
-  * [SEC FORM 8-K](https://www.sec.gov/answers/form8k.htm) - U.S. Securities and Exchange Commission
+  * [SEC FORM 8-K](https://www.sec.gov/rules-regulations/staff-guidance/compliance-disclosure-interpretations/exchange-act-form-8-k) - U.S. Securities and Exchange Commission
 * [Significant Cyber Incidents](https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents) - CSIS
 * [Awesome Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) - Jacob Wilson
  
