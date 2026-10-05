@@ -4,6 +4,14 @@
 
 **Requirements:** dirsearch
 
+## Building Dirsearch with Docker from remote source
+
+```
+docker build -t dirsearch https://github.com/maurosoria/dirsearch.git
+```
+
+Build Dirsearch without pulling down the repo to your system
+
 ## Running Dirsearch with Docker to discover website content
 
 ```
